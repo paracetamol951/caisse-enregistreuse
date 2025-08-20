@@ -5,9 +5,9 @@ Bienvenue dans le centre d'aide officiel de caisse.enregistreuse.fr ; Que vous s
 ## ? Démarrage
 
   ? Catégorie                             Contenu
-  ---------------------------------------- --------------------------------------------------------------------------
-  ?? [Installation](/installation.md)     Installation de l\'application, création du commerce, interface générale
-  ? [Produits & stock](/produits.md)     Créer des articles, gérer les stocks, alertes, codes-barres
+	----------------------------------------	--------------------------------------------------------------------------
+  ?? [Installation](/installation.md)	Installation de l\'application, création du commerce, interface générale
+  ? [Produits & stock](/produits.md)	Créer des articles, gérer les stocks, alertes, codes-barres
   ? [Encaissement](/encaissement.md)     Vendre un article, gérer les paiements, imprimer un ticket
   ? [Rapports & Stats](/rapports.md)     Chiffre d\'affaires, export, clôture de caisse
   ?? [Périphériques](/peripheriques.md)   Imprimante, tiroir-caisse, code-barres
