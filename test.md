@@ -4,29 +4,29 @@ Bienvenue dans le centre d'aide officiel de caisse.enregistreuse.fr ; Que vous s
 
 ## ? Démarrage
 
-   Catégorie                                                                                                            Contenu
-  ----------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------
-   [Installation](/logiciel-de-caisse-enregistreuse/installation/)      Installation de l\'application, création du commerce, interface générale
-   [Produits & stock](/logiciel-de-caisse-enregistreuse/produits/)          Créer des articles, gérer les stocks, alertes, codes-barres
-   [Encaissement](/logiciel-de-caisse-enregistreuse/encaissement/){onclick="return showHelpPage('encaissement');"}      Vendre un article, gérer les paiements, imprimer un ticket
-   [Rapports & Stats](/logiciel-de-caisse-enregistreuse/rapports/){onclick="return showHelpPage('rapports');"}          Chiffre d\'affaires, export, clôture de caisse
-   [Périphériques](/logiciel-de-caisse-enregistreuse/peripheriques/){onclick="return showHelpPage('peripheriques');"}   Imprimante, tiroir-caisse, code-barres
-   [Paramètres avancés](/logiciel-de-caisse-enregistreuse/avance/){onclick="return showHelpPage('avance');"}            TVA, utilisateurs, sauvegarde
-   [Questions fréquentes](/logiciel-de-caisse-enregistreuse/FAQ/){onclick="return showHelpPage('FAQ');"}                Problèmes courants, dépannage
+  ? Catégorie                             Contenu
+  ---------------------------------------- --------------------------------------------------------------------------
+  ?? [Installation](/installation.md)     Installation de l\'application, création du commerce, interface générale
+  ? [Produits & stock](/produits.md)     Créer des articles, gérer les stocks, alertes, codes-barres
+  ? [Encaissement](/encaissement.md)     Vendre un article, gérer les paiements, imprimer un ticket
+  ? [Rapports & Stats](/rapports.md)     Chiffre d\'affaires, export, clôture de caisse
+  ?? [Périphériques](/peripheriques.md)   Imprimante, tiroir-caisse, code-barres
+  ?? [Paramètres avancés](/avance.md/)     TVA, utilisateurs, sauvegarde
+  ? [Questions fréquentes](/FAQ.md/)      Problèmes courants, dépannage
 
 ## ? Accès rapide recommandé
 
 Vous débutez ? Commencez ici :
 
-1.  [Installer l\'application](/logiciel-de-caisse-enregistreuse/installation/){onclick="return showHelpPage('installation');"}
-2.  [Créer vos premiers produits](/logiciel-de-caisse-enregistreuse/produits/){onclick="return showHelpPage('produits');"}
-3.  [Faire une vente test](/logiciel-de-caisse-enregistreuse/encaissement/){onclick="return showHelpPage('encaissement');"}
-4.  [Visualiser votre premier rapport](/logiciel-de-caisse-enregistreuse/rapports/){onclick="return showHelpPage('rapports');"}
+1.  [Installer l\'application](/installation.md/)
+2.  [Créer vos premiers produits](/produits.md/)
+3.  [Faire une vente test](/encaissement.md/)
+4.  [Visualiser votre premier rapport](/rapports.md/)
 
 ## ? Support
 
-- ? Consultez la [FAQ complète](/logiciel-de-caisse-enregistreuse/FAQ/){onclick="return showHelpPage('FAQ');"}
+- ? Consultez la [FAQ complète](/FAQ.md/)
 - ?
   Contactez-nous
 
-[Inscrivez-vous maintenant](/logiciel-de-caisse-enregistreuse/){.mt-2 .btn .btn-outline-gradient .gradient-4 .!rounded-[50rem] .mb-2 .!mr-[.25rem] onclick="showPageSite('Inscription','showTab=','/logiciel-de-caisse-enregistreuse/');return false;"}\
+[Inscrivez-vous maintenant](/)\
