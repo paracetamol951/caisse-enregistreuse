@@ -4,15 +4,15 @@ Bienvenue dans le centre d'aide officiel de caisse.enregistreuse.fr ; Que vous s
 
 ## ? Démarrage
 
-  ? Catégorie                                                                                                            Contenu
+   Catégorie                                                                                                            Contenu
   ----------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------
-  ?? [Installation](/logiciel-de-caisse-enregistreuse/installation/){onclick="return showHelpPage('installation');"}      Installation de l\'application, création du commerce, interface générale
-  ? [Produits & stock](/logiciel-de-caisse-enregistreuse/produits/){onclick="return showHelpPage('produits');"}          Créer des articles, gérer les stocks, alertes, codes-barres
-  ? [Encaissement](/logiciel-de-caisse-enregistreuse/encaissement/){onclick="return showHelpPage('encaissement');"}      Vendre un article, gérer les paiements, imprimer un ticket
-  ? [Rapports & Stats](/logiciel-de-caisse-enregistreuse/rapports/){onclick="return showHelpPage('rapports');"}          Chiffre d\'affaires, export, clôture de caisse
-  ?? [Périphériques](/logiciel-de-caisse-enregistreuse/peripheriques/){onclick="return showHelpPage('peripheriques');"}   Imprimante, tiroir-caisse, code-barres
-  ?? [Paramètres avancés](/logiciel-de-caisse-enregistreuse/avance/){onclick="return showHelpPage('avance');"}            TVA, utilisateurs, sauvegarde
-  ? [Questions fréquentes](/logiciel-de-caisse-enregistreuse/FAQ/){onclick="return showHelpPage('FAQ');"}                Problèmes courants, dépannage
+   [Installation](/logiciel-de-caisse-enregistreuse/installation/)      Installation de l\'application, création du commerce, interface générale
+   [Produits & stock](/logiciel-de-caisse-enregistreuse/produits/)          Créer des articles, gérer les stocks, alertes, codes-barres
+   [Encaissement](/logiciel-de-caisse-enregistreuse/encaissement/){onclick="return showHelpPage('encaissement');"}      Vendre un article, gérer les paiements, imprimer un ticket
+   [Rapports & Stats](/logiciel-de-caisse-enregistreuse/rapports/){onclick="return showHelpPage('rapports');"}          Chiffre d\'affaires, export, clôture de caisse
+   [Périphériques](/logiciel-de-caisse-enregistreuse/peripheriques/){onclick="return showHelpPage('peripheriques');"}   Imprimante, tiroir-caisse, code-barres
+   [Paramètres avancés](/logiciel-de-caisse-enregistreuse/avance/){onclick="return showHelpPage('avance');"}            TVA, utilisateurs, sauvegarde
+   [Questions fréquentes](/logiciel-de-caisse-enregistreuse/FAQ/){onclick="return showHelpPage('FAQ');"}                Problèmes courants, dépannage
 
 ## ? Accès rapide recommandé
 
