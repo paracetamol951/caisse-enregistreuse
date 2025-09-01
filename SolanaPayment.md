@@ -25,13 +25,13 @@ Avec ce logiciel, il existe plusieurs manières de demander des paiements en cryp
 - avec un lien de paiement que le client doit utiliser\
 - avec un QR code que le client doit scanner\
 La méthode de paiement la plus adaptée dépend de si le paiement s\'effectue en présentiel, où à distance.\
-Votre client devra nécessairement installer une application de portefeuille de cryptomonnaie, comme par exemple [Solflare](https://solflare.com/){target="_blank" rel="nofollow"}, ou [Phantom](https://phantom.app/){target="_blank" rel="nofollow"}, et disposer de suffisamment de Solana pour payer.\
+Votre client devra nécessairement installer une application de portefeuille de cryptomonnaie, comme par exemple [Solflare](https://solflare.com/), ou [Phantom](https://phantom.app/), et disposer de suffisamment de Solana pour payer.\
 En présentiel, dans l\'interface de vente, vous pouvez utiliser l\'action \"Paiement Solana\" pour obtenir un QR code à présenter à votre client. Votre client n\'aura plus qu\'à scanner ce QR code avec son application de wallet pour effectuer le paiement. L\'application détectera automatiquement la confirmation du paiement et enregistrera le paiement de la commande. En présentiel, il est également possible d\'envoyer le lien de paiement par email via une action spécifique, et le client n\'a plus qu\'à utiliser ce lien pour payer.\
 A distance (paiement via la boutique en ligne, via le QR code placé sur les tables du restaurant, ou via le lien de paiement envoyé par email), votre client devra suivre un lien qui le mènera vers une page de paiement. Sur cette page, un bouton \"Connecter mon portefeuille\" lui permettra d\'autoriser l\'application de paiement à lui proposer des transactions. Une fois son portefeuille connecté, le client n\'a qu\'à utiliser un bouton \"Payer\" et valider pour effectuer son paiement.
 
 ### Comment récupérer mes paiements sur mon compte bancaire ?
 
-Afin de surveiller votre solde de cryptomonnaie, gérer vos actifs, transférer ou convertir vos cryptomonnaies, vous devez également installer une application de portefeuille, comme par exemple [Solflare](https://solflare.com/){target="_blank" rel="nofollow"}, ou [Phantom](https://phantom.app/){target="_blank" rel="nofollow"}.
+Afin de surveiller votre solde de cryptomonnaie, gérer vos actifs, transférer ou convertir vos cryptomonnaies, vous devez également installer une application de portefeuille, comme par exemple [Solflare](https://solflare.com/), ou [Phantom](https://phantom.app/).
 
 ### En partenariat avec P-Link.io
 
