@@ -55,15 +55,16 @@ Configuration du logiciel
 - [Personnalisation du ticket de caisse](/Configuration du logiciel/configTicket.md)
 - [Réduction/Suppléments/articles automatiques](/Configuration du logiciel/autoPLU.md)
 
-Configuration du matériel
-- [Equipement de pesée](/Configuration du materiel/materielPesee.md)
-- [Ecran secondaire](/Configuration du materiel/ecranSecondaire.md)
+#Configuration du matériel
+- [Equipement de pesée] (/Configuration du materiel/materielPesee.md)
+- [Ecran secondaire] (/Configuration du materiel/ecranSecondaire.md)
 - [Configuration des imprimantes](/Configuration du materiel/printConfig.md)
 - [Lecture de tags NFC](/Configuration du materiel/nfcTag.md)
 - [Gestion du numéro de l\'appelant](/Configuration du materiel/callingNumber.md)
 - [Connexion des lecteurs codes barres](/Configuration du materiel/codesBarres.md)
 
-Configuration du catalogue
+#Configuration du catalogue
+
 - [Configurer les articles](/Configuration du catalogue/configProduits.md)
 - [Configurer les rayons](/Configuration du catalogue/configRayons.md)
 - [Groupes de rayons](/Configuration du catalogue/deptGroups.md)
@@ -77,7 +78,7 @@ Configuration du catalogue
 - [Gestion des poids](/Configuration du catalogue/poids.md)
 - [Impression d\'étiquettes](/Configuration du catalogue/etiquettes.md)
 
-Configurer les moyens de paiement
+#Configurer les moyens de paiement
 - [Configurer les moyens de paiement](/Configurer les moyens de paiements/configCBPayment.md)
 - [Par carte sans TPE avec Viva Wallet](/Configurer les moyens de paiements/configVivaPayment.md)
 - [Par carte avec les TPE Yavin](/Configurer les moyens de paiements/configYavinPayment.md)
