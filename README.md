@@ -1,8 +1,11 @@
 Démarrage
 
 [Introduction](/logiciel-de-caisse-enregistreuse/intro.md)
+
 [Installation](/logiciel-de-caisse-enregistreuse/installation.md)
+
 [Produits et stock](/logiciel-de-caisse-enregistreuse/produits.md)
+
 [Encaissement](/logiciel-de-caisse-enregistreuse/encaissement.md)
 [Rapports et statistiques](/logiciel-de-caisse-enregistreuse/rapports.md)
 [Périphériques](/logiciel-de-caisse-enregistreuse/peripheriques.md)
@@ -137,4 +140,5 @@ Support
 [Changelog](/logiciel-de-caisse-enregistreuse/news.md)
 
 [Nous contacter](/logiciel-de-caisse-enregistreuse/contact.md)
+
 
