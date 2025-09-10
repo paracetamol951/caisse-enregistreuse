@@ -242,4 +242,4 @@ Licence Standard: 600×600 px
 
 Licence Étendue: 1200×1200 px
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -38,4 +38,4 @@ Une fois vos paramètres définis, la page Webservices vous propose des exemples p
 - jQuery
 - cURL (ligne de commande)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

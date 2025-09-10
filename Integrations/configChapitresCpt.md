@@ -45,4 +45,4 @@ Ce rapport comprend une ligne par article vendu, avec les colonnes requises :
 
 En activant l'option correspondante dans les paramètres des rapports, un tableau récapitulatif par chapitre comptable est également inclus dans les rapports PDF et HTML.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

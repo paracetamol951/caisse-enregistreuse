@@ -31,4 +31,4 @@ Cette méthode ne nécessite aucune configuration supplémentaire.
 
 Pour obtenir votre terminal, rendez-vous sur : [www.yavin.com](https://yavin.com/?utm_source=caisseenregistreuse){target="_blank"}
 
-[Inscrivez-vous maintenant](/Yavin/)\
+[Documentation logiciel de caisse](/Yavin/)\

@@ -14,4 +14,4 @@ Une fois la fonctionnalité activée, vous pourrez saisir le nombre de calories po
 
 ?? Cette information est utile pour les établissements soumis à une obligation d'affichage nutritionnel, ou pour sensibiliser la clientèle.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

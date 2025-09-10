@@ -4,4 +4,4 @@ Cliquez sur le bouton \'Imprimer un ticket de caisse\' depuis l\'interface de la
 
 ? Chaque appareil peut utiliser une imprimante différente.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

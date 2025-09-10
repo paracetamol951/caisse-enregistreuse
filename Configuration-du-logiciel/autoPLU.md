@@ -46,4 +46,4 @@ La réduction sélectionnée est appliquée après l'ajout éventuel de l'article et p
 
 ?? Les réductions automatiques ne peuvent pas être de type « Menu / Prix fixé ».
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

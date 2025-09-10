@@ -27,4 +27,4 @@ Depuis l'interface de gestion, vous pouvez consulter la liste complète des chèqu
 
 L'option des chèques cadeaux permet d'enrichir l'expérience client tout en augmentant vos ventes, notamment pendant les périodes de fêtes.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

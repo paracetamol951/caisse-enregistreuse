@@ -38,4 +38,4 @@ Les commandes apparaissent sur une carte avec :
 
 Cette interface permet aux livreurs de regrouper et d'optimiser leurs tournées de livraison multi-boutiques.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -37,4 +37,4 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est enregistr
 
 Pour chaque bouton d\'action ajouté à l'interface, vous pouvez définir les droits requis pour pouvoir l'utiliser.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

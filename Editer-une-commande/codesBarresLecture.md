@@ -42,4 +42,4 @@ Code barre de test\
 
 - [Page de debug de Code barre](/BarCodeDebug.php)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

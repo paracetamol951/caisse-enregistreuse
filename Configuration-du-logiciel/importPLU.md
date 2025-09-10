@@ -38,4 +38,4 @@ Cette méthode vous garantit d'avoir le bon format de fichier et la bonne structu
 
 Dans ce cas, pensez à refaire un export pour récupérer le nouveau format de fichier adapté à votre configuration.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

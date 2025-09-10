@@ -24,4 +24,4 @@ Depuis la page de configuration des clients, vous pouvez consulter la dette de c
 
 L'attribution d'un crédit ou d'une dette nécessite que la commande soit liée à un client identifié.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

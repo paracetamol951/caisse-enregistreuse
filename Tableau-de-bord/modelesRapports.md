@@ -31,4 +31,4 @@ Cela vous permet de gagner du temps et d'obtenir uniquement les données pertinen
 
 ? Grâce aux modèles, chaque utilisateur peut accéder rapidement aux informations qui le concernent, sans avoir à configurer les rapports manuellement à chaque fois.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

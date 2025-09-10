@@ -29,4 +29,4 @@ Depuis l'historique des commandes, vous pouvez consulter :
 - Le temps total de préparation estimé
 - Le temps restant pour chaque commande en cours
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -27,4 +27,4 @@ Le point relais sélectionné par le client est automatiquement visible sur le tic
 
 ?? Assurez-vous que les adresses des points relais soient précises pour une bonne géolocalisation.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

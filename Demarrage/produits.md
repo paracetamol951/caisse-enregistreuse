@@ -46,4 +46,4 @@ Vous pouvez attribuer un code-barres à chaque article :
 
 ? [En savoir plus sur la configuration des codes barres](/codesBarres.md)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

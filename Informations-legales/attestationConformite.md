@@ -22,4 +22,4 @@ SHA512 périmètre fiscal :\
 - [Dossier organisationnel](/documentation/dossier_organisationnel.pdf)
 - [Documentation complémentaire](/documentation/Documentation%20complémentaire.pdf)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -36,4 +36,4 @@ Limites recommandées par Cegid Loop pour les imports automatiques :
 - Conservez toujours une copie de vos fichiers exportés pour archivage.
 - Utilisez l'import manuel si vous avez un doute sur la compatibilité.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

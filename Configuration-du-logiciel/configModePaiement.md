@@ -51,4 +51,4 @@ Le type détermine le comportement du bouton. En voici quelques exemples :
 - Raccourcis : crée des accès rapides vers des éléments fréquemment utilisés
 - Documents : ajoute des actions pour éditer des bons de commande, de livraison, notes de frais, etc.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

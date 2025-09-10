@@ -53,4 +53,4 @@ Pour l'affichage des caractères accentués et du symbole ?, changez le jeu de car
 2.  Connectez l'imprimante en USB et ouvrez le logiciel de configuration.
 3.  Modifiez le \'Default code page\' en PC437(Std.Europe)(1).
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

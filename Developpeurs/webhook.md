@@ -24,4 +24,4 @@ Paramètres transmis :
 
 ? Le webhook est appelé deux fois par commande : une fois à la validation, une autre à la terminaison.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

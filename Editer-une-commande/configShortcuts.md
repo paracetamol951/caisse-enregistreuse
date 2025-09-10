@@ -55,4 +55,4 @@ Les raccourcis \$ permettent d'accéder directement à certaines sections :
   \$6         Accès à la liste des tables
   \$7         Accès à la liste des menus
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

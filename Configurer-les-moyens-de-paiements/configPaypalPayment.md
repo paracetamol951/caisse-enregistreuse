@@ -26,4 +26,4 @@ Sur PC ou Mac, vous devez autoriser les fenêtres pop-up pour que l'interface Pay
 
 Cette solution vous permet d\'encaisser vos clients par carte, même sans TPE.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

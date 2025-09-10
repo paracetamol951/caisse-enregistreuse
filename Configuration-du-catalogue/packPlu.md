@@ -38,4 +38,4 @@ Si plusieurs packs peuvent être constitués automatiquement à partir des mêmes ar
 
 Si deux shampoings sont ajoutés à la commande, le logiciel peut automatiquement appliquer le pack *1 acheté, le deuxième à -50%*.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -22,4 +22,4 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est automatiq
   Si un pourcentage est également configuré, celui-ci sera appliqué en premier, puis le montant fixe.
 - **? Prix fixe :** Permet de fixer le prix total de la commande (voir rubrique *Fixer le prix d'une commande*).
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

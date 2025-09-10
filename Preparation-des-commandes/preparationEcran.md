@@ -25,4 +25,4 @@ Aucune interaction manuelle n'est requise : l'écran se met à jour automatiquemen
 
 ? Ce dispositif est particulièrement utile pour les établissements à forte affluence ou avec système de retrait au comptoir.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

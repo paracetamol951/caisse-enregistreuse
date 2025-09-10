@@ -22,4 +22,4 @@ Sélectionnez un mode de paiement sur la partie droite de l\'interface.
 
 ? Et voilà, votre première vente est enregistrée !
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -37,4 +37,4 @@ L'option de validation globale peut être désactivée en page de configuration.
 
 ?? Adaptez les droits d'accès des utilisateurs pour qu'ils puissent gérer la préparation sans accéder à l'ensemble du logiciel.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

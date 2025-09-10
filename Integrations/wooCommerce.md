@@ -33,4 +33,4 @@ Une fois la configuration effectuée, des boutons **Synchronisation WooCommerce**
 
 Ces boutons vous permettront de synchroniser manuellement votre catalogue produits et vos fiches clients entre WooCommerce et votre caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

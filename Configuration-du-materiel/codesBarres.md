@@ -55,4 +55,4 @@ Les codes-barres imprimés depuis le logiciel utilisent automatiquement ces préfi
 \
 [Configuration des articles](/codesBarresConfig.md)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

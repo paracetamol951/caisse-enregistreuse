@@ -31,4 +31,4 @@ Lorsqu'un bouton de menu est utilisé, le logiciel vous demandera de sélectionner
 
 Vous pouvez également appeler la liste des menus avec le raccourci clavier : **7\$**
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

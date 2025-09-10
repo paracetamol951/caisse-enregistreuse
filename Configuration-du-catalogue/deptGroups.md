@@ -14,4 +14,4 @@ Cette classification permet une navigation plus fluide dans l'interface de vente
 
 ? Cette fonctionnalité est particulièrement utile pour les commerces ayant un large catalogue d'articles répartis dans de nombreux rayons.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

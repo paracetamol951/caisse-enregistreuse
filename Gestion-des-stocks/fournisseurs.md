@@ -63,4 +63,4 @@ Une fois la commande enregistrée, plusieurs actions sont possibles :
 - ?? D'abord les articles non issus d'une commande fournisseur
 - ?? Puis les lots issus des commandes fournisseurs, par ordre chronologique de réception
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -41,4 +41,4 @@ Consultez notre page d'aide dédiée à l'intégration de Deliv.shop pour en savoir 
 [Aide à l\'integration deliv.shop](/delivshop.md)\
 [Plateforme de livraison communautaire deliv.shop](https://www.deliv.shop)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

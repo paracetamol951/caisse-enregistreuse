@@ -36,4 +36,4 @@ Pour modifier le fonds de caisse par défaut que les employés devront laisser à l
 
 Modifiez le champ **Fonds de caisse par défaut** pour définir la nouvelle valeur.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -43,4 +43,4 @@ Pour en savoir plus :\
 [P-Link.io : Liens de paiement Solana](https://p-link.io){.button .green target="_blank" style="vertical-align:bottom;margin-bottom:2px;"}\
 [P-Link.io : P-Link Payment Links Documentation](https://docs.p-link.io/){.button .green target="_blank" style="vertical-align:bottom;margin-bottom:2px;"}\
 
-[Inscrivez-vous maintenant](/Solana/)\
+[Documentation logiciel de caisse](/Solana/)\

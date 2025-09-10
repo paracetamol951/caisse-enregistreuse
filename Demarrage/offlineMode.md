@@ -31,4 +31,4 @@ Une fois connecté à internet, une fenêtre vous propose automatiquement de synchr
 
 Chaque commande recevra alors un numéro unique et sera enregistrée dans la base de données.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

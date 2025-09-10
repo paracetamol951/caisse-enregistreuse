@@ -108,4 +108,4 @@ Il est désormais possible de réserver l\'accès à certains boutons d\'action, ou 
 
 [Next page]{.button .btn .btn-primary .text-white .!bg-[#3f78e0] .border-[#3f78e0] .hover:text-white .hover:bg-[#3f78e0] .hover:border-[#3f78e0] .focus:shadow-[rgba(92,140,229,1)] .active:text-white .active:bg-[#3f78e0] .active:border-[#3f78e0] .disabled:text-white .disabled:bg-[#3f78e0] .disabled:border-[#3f78e0] .!rounded-[50rem] .btn-login .wx-full .mb-2}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

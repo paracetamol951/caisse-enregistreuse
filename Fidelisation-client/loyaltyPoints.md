@@ -24,4 +24,4 @@ Pour permettre à vos clients de payer avec leurs points de fidélité, vous devez 
 
 ? Cette option apparaîtra alors comme moyen de paiement dans l'interface de caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

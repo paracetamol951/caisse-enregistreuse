@@ -16,4 +16,4 @@ Lorsque vous appliquez cette réduction, le total de la commande sera ajusté au p
 
 Consultez également l\'aide concernant la [Gestion des Menus](/menus.md)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

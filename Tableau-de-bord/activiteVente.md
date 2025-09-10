@@ -27,4 +27,4 @@ Par défaut, l\'historique affiche la journée courante. Vous pouvez aussi consult
 
 ?? Une icône en forme de calendrier vous permet d'afficher les commandes dans un calendrier visuel afin de mieux organiser les commandes à venir.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

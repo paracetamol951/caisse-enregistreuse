@@ -26,4 +26,4 @@ Ces montants sont attribués sous forme d'avoir utilisable en caisse.
 
 ? Encouragez vos clients à partager leur code pour bénéficier du parrainage !
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

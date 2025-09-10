@@ -44,4 +44,4 @@ Vous pouvez accéder à la fiche client depuis l'interface de vente ou depuis la p
 
 ? Astuce : avec le scan NFC, identifiez votre client en scannant sa carte de crédit, ou son appareil NFC, ou tag NFC (compatible Android et Desktop).
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

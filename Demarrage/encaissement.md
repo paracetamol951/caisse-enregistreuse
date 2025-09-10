@@ -40,4 +40,4 @@ Avant encaissement, touchez l'icône ESC pour vider le ticket.
 
 Après encaissement, l'annulation est possible selon vos droits d'utilisateur.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

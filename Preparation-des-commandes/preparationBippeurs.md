@@ -22,4 +22,4 @@ Lorsque la préparation est terminée, vous pouvez activer le bippeur pour préveni
 
 ? Cette fonctionnalité est idéale pour les établissements en libre-service ou avec retrait au comptoir.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

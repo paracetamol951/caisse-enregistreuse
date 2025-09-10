@@ -44,4 +44,4 @@ Cette option permet de facturer en Hors Taxes les livraisons à destination de cl
 
 Conformément à l'article 262 ter du CGI, cette exonération s'applique aux livraisons de biens dans un autre État membre pour un client assujetti.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

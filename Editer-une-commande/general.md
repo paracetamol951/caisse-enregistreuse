@@ -76,4 +76,4 @@
 (Naviguer dans l\'historique et charger la commande)\
 []{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=1622618197&di=ESC&colorFondR=244&colorFondG=186&colorFondB=164" original-image-title=""}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

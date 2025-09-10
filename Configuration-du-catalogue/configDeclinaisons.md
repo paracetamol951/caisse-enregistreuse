@@ -36,4 +36,4 @@ Une variation peut être marquée comme **Terminale** pour mettre fin au choix des
 
 ? Par exemple : une option *Fin des toppings* peut être ajoutée pour permettre à l'utilisateur de valider son choix de toppings sans en sélectionner davantage.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -22,4 +22,4 @@ Sélectionnez un mode de paiement sur la partie droite du clavier.
 
 **Nb :** en sélectionnant le mode de paiement sans saisir le montant payé, le paiement sera considéré comme paiement comptant.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

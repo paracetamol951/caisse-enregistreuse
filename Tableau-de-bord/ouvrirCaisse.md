@@ -28,4 +28,4 @@ Avant l\'ouverture du magasin, suivez les étapes ci-dessous :
 
 ? Lors de la prochaine ouverture, l'utilisateur devra vérifier que le fonds de caisse est bien présent.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

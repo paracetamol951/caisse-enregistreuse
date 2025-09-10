@@ -168,4 +168,4 @@ Net-assembly SASU.\
 75272 Paris Cedex 6\
 France
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -28,4 +28,4 @@ Une fois correctement configuré, un message « US Robotics modem detected » s'aff
 - Si un client correspond à ce numéro, sa fiche client s'affiche automatiquement.
 - Si aucun client n'est trouvé, l'application propose de créer une nouvelle fiche client avec le numéro déjà renseigné.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

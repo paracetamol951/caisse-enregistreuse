@@ -13,4 +13,4 @@ Les éléments sélectionnés seront déplacés dans une nouvelle commande.
 
 ? La nouvelle commande disposera de son propre numéro de commande, de sa propre facture et de son propre encaissement.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -11,4 +11,4 @@ Dans la page de configuration générale, vous pouvez définir un logo en en-tête a
 
 Dans la page de configuration générale, un très grand nombre d\'options sont disponibles afin de personnaliser les informations qui seront affichées sur le ticket de caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

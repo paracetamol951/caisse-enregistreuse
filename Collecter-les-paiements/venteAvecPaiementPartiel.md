@@ -6,4 +6,4 @@ Saisissez le montant payé (au clavier ou à l\'aide de pavé numérique de l\'inter
 
 Le logiciel vous affichera automatiquement le montant restant à payer, vous pouvez ensuite recommencer l\'opération pour enregistrer d\'autres paiements.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

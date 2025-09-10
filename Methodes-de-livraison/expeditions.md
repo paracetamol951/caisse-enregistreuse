@@ -40,4 +40,4 @@ Le logiciel vous proposera alors de l'envoyer au bon moment.
 
 ? Pensez à vérifier régulièrement la page d'expédition pour ne manquer aucune commande à envoyer.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

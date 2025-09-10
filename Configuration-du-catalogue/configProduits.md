@@ -46,4 +46,4 @@ Ces articles sont utiles par exemple pour la gestion des ingrédients ou de compo
 
 Ils resteront visibles dans l'interface du vendeur et dans les rapports.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

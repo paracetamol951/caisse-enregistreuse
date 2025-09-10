@@ -35,4 +35,4 @@ Frais : 0,10 ? + 1,5 % (Lydia)
 
 Pour en savoir plus :[Paiement mobile Lydia](https://www.lydia.me/){target="_blank"}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

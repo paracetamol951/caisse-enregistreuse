@@ -39,4 +39,4 @@ Ils sont utilisés par la majorité des cabinets comptables et des logiciels compt
 
 ? Vous pouvez générer vos fichiers FEC pour une période donnée, afin de les transmettre à votre comptable ou lors d'un contrôle fiscal.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

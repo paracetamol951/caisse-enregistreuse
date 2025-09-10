@@ -37,4 +37,4 @@ Cela vous permet d'ajuster l'impression à votre format d'étiquettes habituel.
 
 ? Pensez à tester votre mise en page sur une feuille normale avant d'imprimer sur des étiquettes adhésives.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

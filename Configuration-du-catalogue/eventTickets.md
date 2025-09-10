@@ -28,4 +28,4 @@ De cette manière, le nom et l'horaire apparaîtront correctement sur les tickets 
 
 Les tickets évènement ne seront imprimés que si la commande est validée.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

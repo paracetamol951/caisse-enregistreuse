@@ -41,4 +41,4 @@ Depuis la page de configuration de la boutique en ligne, vous pouvez activer ou 
 
 La boutique en ligne est un outil puissant pour développer vos ventes, fidéliser vos clients, et fluidifier vos processus de commande.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

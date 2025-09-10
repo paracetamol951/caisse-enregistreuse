@@ -47,4 +47,4 @@ Voici le lien pour installer l\'application caisse.enregistreuse.fr sur votre ta
 [Télécharger l\'application Windows Mobile/Windows 8-10 sur le store](https://apps.microsoft.com/store/detail/caisse-enregistreuse/9NBLGGGZTQ9K?downloadInvoice=1) ( Utilisez le raccourci [Win]{.kbd .win} + [Shift]{.kbd} + [Enter]{.kbd} pour passer l\'application Window en plein écran)\
 \
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

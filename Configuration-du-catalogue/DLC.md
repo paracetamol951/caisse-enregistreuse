@@ -21,4 +21,4 @@ Dans la page de fermeture de caisse, le logiciel vous affiche automatiquement :
 - Les articles approchant de leur date limite (signalés dans la couleur d'avertissement)
 - Les articles dont la DLC est dépassée (affichés en rouge)
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

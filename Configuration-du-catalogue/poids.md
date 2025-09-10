@@ -6,4 +6,4 @@ Le poids s\'exprime en grammes, mais le logiciel convertira automatiquement en k
 Pour activer la gestion des poids, vous devez cocher l\'option correspondante en page Config, Commandes.\
 Ensuite, il vous faudra configurer le poids de chaque article en page de configuration des articles.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

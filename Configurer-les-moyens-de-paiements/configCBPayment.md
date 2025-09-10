@@ -11,4 +11,4 @@ Vous pourrez ainsi accepter les paiements par carte, par crypto-monnaie, par pré
 ? ? [Avec Lydia](/configLydiaPayment.md)\
 ? ? [Avec Paypal](/configPaypalPayment.md)\
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

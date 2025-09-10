@@ -31,4 +31,4 @@ Une fois cette étape validée, les articles de l'étape suivante deviennent visibl
 
 ? Ce système permet une organisation claire et séquencée, idéale pour les services à plusieurs temps.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -44,4 +44,4 @@ Frais : 0.20? + 1% GoCardless + 1% Caisse enregistreuse
 \
 [Créer un compte GoCardless](https://manage.gocardless.com/signup){.button .green target="_blank"}\
 
-[Inscrivez-vous maintenant](/GoCardless/)\
+[Documentation logiciel de caisse](/GoCardless/)\

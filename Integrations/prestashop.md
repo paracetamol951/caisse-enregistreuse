@@ -98,4 +98,4 @@ Associez les moyens de paiement de Prestashop avec ceux configurés dans le logic
 
 [Moyens de paiement]{.image .placeholder original-image-src="/Caisse-Enregistreuse/Prestashop/Capturepaiement.PNG" original-image-title=""}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -16,4 +16,4 @@ La connexion d\'une balance permet de saisir rapidement et précisément le poids 
 
 Vérifiez que la balance est bien reconnue par le système et que le logiciel est configuré pour envoyer les données de pesée vers le logiciel de caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

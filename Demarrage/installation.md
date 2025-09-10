@@ -67,4 +67,4 @@ Vous pouvez tester l'application sans risque grâce au mode test. Une fois votre 
 - ?? [Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9nblgggztq9k?hl=fr-FR&gl=FR){target="_blank"}
 - [Accéder à la version navigateur](https://caisse.enregistreuse.fr){target="_blank"}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

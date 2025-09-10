@@ -33,4 +33,4 @@ Vous pouvez également connecter un second écran à votre ordinateur.
 
 ? Cette méthode nécessite un support multi-écran.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

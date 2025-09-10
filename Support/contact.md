@@ -88,4 +88,4 @@ Nous avons besoin d\'un email valide pour pouvoir répondre\
 Veuillez vous inscrire afin de nous contacter\
 Nous avons besoin d\'un email valide pour pouvoir répondre\
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

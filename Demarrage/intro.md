@@ -29,4 +29,4 @@ Vous débutez ? Commencez ici :
 - ?
   Contactez-nous
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -42,4 +42,4 @@ Le logiciel génère une commande négative à la date du jour, contenant uniquement
 
 ? Astuce : tous les remboursements apparaissent dans vos rapports comme des ventes négatives, ce qui facilite le suivi comptable.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

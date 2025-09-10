@@ -14,4 +14,4 @@ L'API permet aussi d'exporter le catalogue complet au format CSV, HTML ou JSON.
 
 L'URL d'accès est également disponible depuis la page Configuration \> Webservices.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

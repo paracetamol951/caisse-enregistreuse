@@ -8,4 +8,4 @@ Sélectionnez un mode de paiement sur la partie droite du clavier.
 
 Le montant à rendre au client s\'affiche sur le ticket de caisse, et sur l\'écran digital de la caisse enregistreuse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

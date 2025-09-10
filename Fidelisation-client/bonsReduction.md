@@ -47,4 +47,4 @@ Depuis la page de configuration des bons de réduction, un bouton \'Envoyer\' per
 
 Les bons de réduction sont un outil puissant pour fidéliser vos clients et dynamiser vos ventes pendant les périodes stratégiques.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

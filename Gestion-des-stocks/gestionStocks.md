@@ -43,4 +43,4 @@ Vous pouvez choisir à quel moment le stock sera décrémenté :
 - Lors de la validation de la commande
 - Lors de la préparation de la commande
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

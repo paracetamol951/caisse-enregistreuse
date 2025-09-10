@@ -15,4 +15,4 @@ Un second onglet intitulé chaîne cryptographique permet de vérifier la chaîne de
 La dernière colonne du tableau affiché indique si le sceau cryptographique enregistré en base de données correspond bien à la vérification faite à l\'aide du calcul dynamique du sceau (en se basant sur le sceau de la commande précédente, lui-même vérifié).\
 Si un seul prix, méthode de livraison, date de valeur, ou une seule donnée de vente d'une seule commande est modifiée après l'apposition du sceau cryptographique, c'est toute la chaîne qui s'en trouve invalidée. Ceci permet ainsi de garantir l'intangibilité des données issues de ce logiciel de caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

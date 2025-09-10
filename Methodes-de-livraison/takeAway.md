@@ -35,4 +35,4 @@ L'activation de certaines méthodes de livraison déclenche des fonctions suppléme
 - Livraison : active la gestion complète des livraisons.
 - Point de dépôt : permet la gestion des points relais.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

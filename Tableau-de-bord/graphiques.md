@@ -68,4 +68,4 @@ Si la période choisie dépasse une journée, le rapport est automatiquement enregi
 
 ? Certains tableaux n'apparaissent que si vous avez activé les fonctionnalités correspondantes dans la configuration.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

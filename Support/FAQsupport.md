@@ -1,1 +1,1 @@
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

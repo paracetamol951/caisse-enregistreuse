@@ -16,4 +16,4 @@ Pour plus d'informations, consultez le site du partenaire : [www.vivawallet.com]
 
 [Ouvrir un compte Viva.com](https://www.vivawallet.com){.button .green rel="nofollow" target="_blank"}
 
-[Inscrivez-vous maintenant](/VivaWallet/)\
+[Documentation logiciel de caisse](/VivaWallet/)\

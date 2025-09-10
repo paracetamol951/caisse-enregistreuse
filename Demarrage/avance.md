@@ -39,4 +39,4 @@ Toutes les données sont automatiquement sauvegardées sur le cloud.
 
 ? Vous recevez vos identifiants par email à la création du compte.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -34,4 +34,4 @@ Les PDF envoyés sont signés numériquement pour garantir leur authenticité.
 - Le champ \'duplicata\' est automatiquement positionné lors d'un envoi ou téléchargement.
 - Toutes les méthodes d'envoi suivent les mêmes règles de traçabilité.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

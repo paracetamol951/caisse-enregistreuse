@@ -15,4 +15,4 @@ Suivez-nous sur les réseaux sociaux pour ne rien manquer des nouveautés, mises à
 - Accéder à des vidéos explicatives pour mieux utiliser votre caisse
 - Participer à des offres promotionnelles et des bêtas privées
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

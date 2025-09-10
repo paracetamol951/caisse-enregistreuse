@@ -42,4 +42,4 @@ Cette méthode d'identification est simple, rapide et sécurisée.
 
 \
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

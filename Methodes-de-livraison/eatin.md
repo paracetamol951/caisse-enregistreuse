@@ -39,4 +39,4 @@ Lors des commandes, les vendeurs pourront visualiser facilement les tables libre
 
 []{.image .placeholder original-image-src="/Caisse-Enregistreuse/Table-Plan-ScreenShot.jpg?v=2" original-image-title="" style="max-width:100%"}
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

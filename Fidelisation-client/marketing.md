@@ -37,4 +37,4 @@ Les messages seront envoyés automatiquement aux clients sélectionnés avec les in
 
 Grâce à ces fonctionnalités, vous pouvez facilement fidéliser vos clients et stimuler vos ventes en toute simplicité.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -40,4 +40,4 @@ La clôture de caisse permet de valider la fin de journée et d'archiver les vente
 
 ? La clôture permet de vérifier les montants présents en caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

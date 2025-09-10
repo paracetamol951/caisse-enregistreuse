@@ -33,4 +33,4 @@ Une fois l'inventaire terminé, cliquez sur **« Enregistrer les corrections de st
 
 ? L'inventaire peut être effectué progressivement : les données sont conservées sur la page tant que vous n'avez pas validé les corrections.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

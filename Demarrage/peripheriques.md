@@ -50,4 +50,4 @@ Les tiroirs StarMicronics se connectent automatiquement via Bluetooth.
   StarMicronics (tiroir)         Bluetooth           Détection via Options générales \> Matériel
   Lecteurs de code-barres        USB / BT / Caméra   Plug & Play
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

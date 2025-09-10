@@ -6,4 +6,4 @@ Lors de la prise d\'une commande, il sera ensuite possible de double cliquer sur
 Cette opération ne modifie pas le prix de l\'article, ni le titre enregistré pour cet article, et n\'est plus disponible si la commande a été validée.\
 Cette fonctionnalité à pour objectif de laisser la possibilité de prendre des notes sur un article d\'une commande (ex : pizza royale sans champignons).
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

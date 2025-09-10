@@ -73,4 +73,4 @@ Les présentes Règles de confidentialité ne s'appliquent pas aux services proposé
 
 Les présentes Règles de confidentialité peuvent être amenées à changer. Toute diminution de vos droits dans le cadre des présentes Règles de confidentialité ne saurait être appliquée sans votre consentement exprès. Nous publierons toute modification des règles de confidentialité sur cette page et, dans le cas où il s'agirait de modifications significatives, nous publierons un avertissement mis en évidence (y compris, pour certains services, par le biais d'une notification par e-mail). Les versions antérieures des présentes Règles de confidentialité seront archivées et mises à la disposition des utilisateurs.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

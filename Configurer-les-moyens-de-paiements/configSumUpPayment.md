@@ -26,4 +26,4 @@ Frais SumUp : 1.75% par transaction
 \
 [Ouvrir un compte SumUp](https://sumup.fr/caisseenregistreuse/){.button .green target="_blank"}
 
-[Inscrivez-vous maintenant](/SumUp/)\
+[Documentation logiciel de caisse](/SumUp/)\

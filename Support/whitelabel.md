@@ -58,4 +58,4 @@ Dans les paramètres, sélectionnez l'utilisateur qui aura les droits sur la marqu
 
 ? Cette fonctionnalité est idéale pour les intégrateurs, prestataires informatiques ou revendeurs souhaitant proposer une solution clé-en-main à leurs clients.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -37,4 +37,4 @@
 - **Vitrine - Vente en ligne** : Paiement et livraison sur la boutique en ligne
 - ?? **Marque blanche** : Connexion à un compte partenaire marque blanche
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -25,4 +25,4 @@ Remplissez les champs proposés dans la fenêtre qui s\'affiche.
 - **Clavier** : Indique si une touche de sélection est affichée dans le clavier de vente pour ce rayon. Sinon, il devra être sélectionné via une liste déroulante.
 - **Image** : Image affichée sur la touche du clavier (format JPG ou PNG, taille \< 2 Mo).
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

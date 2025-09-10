@@ -15,4 +15,4 @@ Il n'est plus possible d'annuler une commande une fois que le paiement a commenc
 
 ?? Pour annuler une commande dont le paiement a débuté, vous devez effectuer un remboursement.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

@@ -27,4 +27,4 @@ Une fois la carte complétée, une réduction est automatiquement appliquée.
 
 ? Les cartes de fidélité fonctionnent aussi bien dans votre boutique en ligne que dans l'application de caisse.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\

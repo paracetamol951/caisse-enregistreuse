@@ -22,4 +22,4 @@ Pour retrouver rapidement un article dans la configuration, scannez son code bar
 
 L'article correspondant s'affichera immédiatement.
 
-[Inscrivez-vous maintenant](/)\
+[Documentation logiciel de caisse](/)\
