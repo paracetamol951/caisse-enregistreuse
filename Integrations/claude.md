@@ -4,15 +4,15 @@ Ce module vous permet de connecter Claude à votre logiciel de caisse, et de donn
 
 Ce module est actuellement en version beta. Compatible uniquement sur PC ou Mac.
 
-## Prérequis {#prérequis .mt-4}
+## Prérequis
 
-Node.js : [Téléchargez et installez Node.js](https://nodejs.org/fr/download){rel="nofollow"}
+Node.js : <a href="https://nodejs.org/fr/download" rel="nofollow">Téléchargez et installez Node.js</a>
 
-Claude Desktop : [Téléchargez et installez Claude Desktop](https://www.claude.com/download){rel="nofollow"}
+Claude Desktop : <a href="https://www.claude.com/download" rel="nofollow">Téléchargez et installez Claude Desktop</a>
 
-## Installation {#installation .mt-4}
+## Installation
 
-### Installation minimale {#installation-minimale .mt-4}
+### Installation minimale
 
 Editez votre fichier de configuration claude_desktop_config.json
 
@@ -39,7 +39,7 @@ Renseignez le fichier de configuration suivant après avoir injecté votre codes d
       }
     }
 
-### Installation pas à pas {#installation-pas-à-pas .mt-4}
+### Installation pas à pas
 
 - Créez un dossier d'installation
 - Ouvrez un terminal dans ce dossier, avc les privilèges administrateur

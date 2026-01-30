@@ -11,13 +11,13 @@ Ce document a pour objectif de fournir un reçu listant les articles, sans aucune
 - La liste des articles
 - Le numéro de la facture associée, le cas échéant
 
-## Cas d'utilisation
+## Cas d?utilisation
 
-Le ticket sans prix est notamment utilisé pour accompagner un colis, un cadeau ou une livraison, afin d'indiquer le contenu de la commande sans révéler les montants.
+Le ticket sans prix est notamment utilisé pour accompagner un colis, un cadeau ou une livraison, afin d?indiquer le contenu de la commande sans révéler les montants.
 
-## Mention devis ou numéro de commande {#mention-devis-ou-numéro-de-commande .mt-20}
+## Mention devis ou numéro de commande
 
 Si la commande est validée, la note de frais indiquera le numéro de la commande.
 
-Si la commande n'est pas encore validée, la note de frais affichera clairement la mention \"Devis\" afin d'indiquer que la commande est encore à l'état de devis.
+Si la commande n?est pas encore validée, la note de frais affichera clairement la mention "Devis" afin d?indiquer que la commande est encore à l?état de devis.
 

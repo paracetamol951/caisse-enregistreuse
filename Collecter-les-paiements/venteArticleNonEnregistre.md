@@ -4,7 +4,7 @@
 
 Pour enregistrer une vente libre, saisissez un prix à l'aide du pavé numérique.
 
-Si plusieurs unités de l'article sont vendues ou si l'article est vendu au poids, utilisez la touche \"Multiplication\" du pavé numérique.
+Si plusieurs unités de l'article sont vendues ou si l'article est vendu au poids, utilisez la touche "Multiplication" du pavé numérique.
 
 ## Optionnel : Sélectionnez un rayon de classification
 

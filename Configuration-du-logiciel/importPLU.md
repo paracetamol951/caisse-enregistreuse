@@ -8,15 +8,15 @@ Le format CSV est compatible avec les tableurs comme Excel, LibreOffice Calc ou 
 
 ## Exporter vos données
 
-? L'outil d'exportation vous permet de générer un fichier contenant votre catalogue d'articles, clients, rayons, etc.
+? L'outil d'exportation vous permet de générer un fichier contenant votre catalogue d?articles, clients, rayons, etc.
 
 ? Ce fichier peut être ouvert dans un tableur, vous permettant de modifier facilement vos données.
 
-L'export vous permet également de consulter la structure exacte attendue lors d'un futur import.
+L?export vous permet également de consulter la structure exacte attendue lors d?un futur import.
 
 ## Importer des données
 
-? Lors d'un import, le système détecte automatiquement :
+? Lors d?un import, le système détecte automatiquement :
 
 - Les nouvelles entrées à ajouter
 - ?? Les entrées existantes à mettre à jour
@@ -30,11 +30,11 @@ L'export vous permet également de consulter la structure exacte attendue lors d'
 2.- Modifiez les données dans le fichier exporté avec un tableur.
 3.- Importez à nouveau le fichier modifié via la page d'import.
 
-Cette méthode vous garantit d'avoir le bon format de fichier et la bonne structure.
+Cette méthode vous garantit d?avoir le bon format de fichier et la bonne structure.
 
 ## Mise à jour de la structure
 
-?? Si vous modifiez la configuration de votre boutique (ajout de champs personnalisés, descriptions, variantes\...), les champs nécessaires dans les fichiers d'import/export peuvent changer.
+?? Si vous modifiez la configuration de votre boutique (ajout de champs personnalisés, descriptions, variantes...), les champs nécessaires dans les fichiers d?import/export peuvent changer.
 
 Dans ce cas, pensez à refaire un export pour récupérer le nouveau format de fichier adapté à votre configuration.
 

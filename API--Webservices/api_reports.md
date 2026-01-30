@@ -1,6 +1,6 @@
 # Télécharger vos rapports
 
-Téléchargez vos rapports quotidiens au format HTML, PDF, XLS, CSV\...
+Téléchargez vos rapports quotidiens au format HTML, PDF, XLS, CSV...
 
 ### GET /workers/getSales.php
 
@@ -8,14 +8,14 @@ Téléchargez vos rapports quotidiens au format HTML, PDF, XLS, CSV\...
 
 #### Paramètres
 
-  Nom              Type     Obligatoire   Description
-  ---------------- -------- ------------- -------------------------------------------------------
-  `idboutique`     string   Oui           Identifiant de compte boutique (SHOPID)
-  `key`            string   Oui           Votre token (APIKEY)
-  `d`              int      Non           Jour (si non précisé, la veille est utilisée)
-  `m`              int      Non           Mois
-  `y`              int      Non           Année
-  `formatExport`   string   Oui           Std (rapport HTML), PDF, XLS, CSV, frafec (FEC), saft
+| Nom | Type | Obligatoire | Description |
+|----|----|----|----|
+| `idboutique` | string | Oui | Identifiant de compte boutique (SHOPID) |
+| `key` | string | Oui | Votre token (APIKEY) |
+| `d` | int | Non | Jour (si non précisé, la veille est utilisée) |
+| `m` | int | Non | Mois |
+| `y` | int | Non | Année |
+| `formatExport` | string | Oui | Std (rapport HTML), PDF, XLS, CSV, frafec (FEC), saft |
 
 #### Exemples JavaScript
 

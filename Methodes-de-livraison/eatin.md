@@ -1,6 +1,6 @@
-# Consommation sur place -- Gestion des tables
+# Consommation sur place ? Gestion des tables
 
-Cette fonctionnalité permet d'associer des commandes à des tables, de les visualiser, d'imprimer des QR codes et de gérer un plan de salle.
+Cette fonctionnalité permet d?associer des commandes à des tables, de les visualiser, d?imprimer des QR codes et de gérer un plan de salle.
 
 ## Activer la gestion des tables
 
@@ -10,7 +10,7 @@ Pour activer cette option, accédez à **Config \> Méthodes de livraison** et acti
 
 Lors d'une vente sur place, cliquez sur l'action **Consommation sur place** et sélectionnez une table.
 
-La liste des tables s'affiche comme un rayon classique. Vous pouvez rechercher une table en tapant son nom.
+La liste des tables s?affiche comme un rayon classique. Vous pouvez rechercher une table en tapant son nom.
 
 Si une commande est déjà ouverte sur cette table, le logiciel vous basculera automatiquement sur celle-ci.
 
@@ -37,5 +37,5 @@ Une fois la gestion des tables activée, accédez à la page **Configuration \> Tab
 
 Lors des commandes, les vendeurs pourront visualiser facilement les tables libres ou occupées, et accéder aux commandes en cours.
 
-[]{.image .placeholder original-image-src="/Caisse-Enregistreuse/Table-Plan-ScreenShot.jpg?v=2" original-image-title="" style="max-width:100%"}
+<span class="image placeholder" original-image-src="/Caisse-Enregistreuse/Table-Plan-ScreenShot.jpg?v=2" original-image-title="" style="max-width:100%"></span>
 

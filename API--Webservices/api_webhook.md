@@ -4,7 +4,7 @@
 
 Un webhook peut être défini en page Configuration \> Options générales, dans le paragraphe 'Options interface'.
 
-L'URL du webhook sera appelée automatiquement à chaque commande validée ou terminée.
+L?URL du webhook sera appelée automatiquement à chaque commande validée ou terminée.
 
 Paramètres transmis :
 

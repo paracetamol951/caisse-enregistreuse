@@ -1,18 +1,18 @@
-## Attestation de conformite {#attestation-de-conformite .line}
+## Attestation de conformite
 
-Veuillez configurer votre numéro RC ainsi que votre adresse postale.
+Veuillez configurer votre numéro RC ainsi que votre adresse postale.  
 
-## Version du logiciel {#version-du-logiciel .line}
+## Version du logiciel
 
-Version majeure : 4
-Version mineure : 3
-Révision : 151
-Version résultante : 4.3.151
-Date de publication de la dernière version majeure : 13/04/2025
-SHA512 périmètre fiscal :
+Version majeure : 4  
+Version mineure : 3  
+Révision : 151  
+Version résultante : 4.3.151  
+Date de publication de la dernière version majeure : 13/04/2025  
+SHA512 périmètre fiscal :  
+  
 
-
-## Documentation règlementaire {#documentation-règlementaire .line}
+## Documentation règlementaire
 
 - [Dossier d'architecture technique](/documentation/dossier_d'architecture_technique.pdf)
 - [Dossier de conception générale](/documentation/dossier_de_conception_générale.pdf)

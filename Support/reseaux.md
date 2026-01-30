@@ -4,7 +4,7 @@ Suivez-nous sur les réseaux sociaux pour ne rien manquer des nouveautés, mises à
 
 ## Nos réseaux officiels
 
-- Twitter (X) : [\@Caisse_enregist](https://x.com/Caisse_enregist)
+- Twitter (X) : [@Caisse_enregist](https://x.com/Caisse_enregist)  
   Ne manquez pas nos annonces et promotions.
 - ?? Chaîne YouTube : [Tutoriels vidéos sur toutes les fonctionnalités](https://www.youtube.com/@logicieldecaisseenregistre1588)
 - ?? LinkedIn : [Relations avec les professionnels](https://www.linkedin.com/company/caisse-enregistreuse-fr)

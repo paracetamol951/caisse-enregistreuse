@@ -1,6 +1,6 @@
 # Gestion de bippeurs
 
-Le logiciel permet d'associer un bippeur à chaque commande pour avertir les clients lorsque leur commande est prête.
+Le logiciel permet d?associer un bippeur à chaque commande pour avertir les clients lorsque leur commande est prête.
 
 ## Activation de la fonctionnalité
 
@@ -8,11 +8,11 @@ Pour activer la gestion des bippeurs, allez dans la page **Configuration \> Comm
 
 Vous devrez indiquer le nombre de bippeurs disponibles dans votre établissement.
 
-## Association d'un bippeur à une commande
+## Association d?un bippeur à une commande
 
-Une fois la fonctionnalité activée, vous pouvez utiliser le bouton d'action **« Bippeur num »** lors de l'enregistrement d'une commande.
+Une fois la fonctionnalité activée, vous pouvez utiliser le bouton d'action **« Bippeur num »** lors de l?enregistrement d?une commande.
 
-Ce bouton permet d'assigner un bippeur à la commande en cours.
+Ce bouton permet d?assigner un bippeur à la commande en cours.
 
 ## Suivi en page de préparation
 

@@ -8,7 +8,7 @@
 
 Cliquez sur le bouton **Ajouter** situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s'affiche.
+Remplissez les champs proposés dans la fenêtre qui s?affiche.
 
 ## Modifier une caisse existante
 
@@ -21,7 +21,7 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est automatiq
 - **?? Nom :** Nom affiché sur les tickets de caisse.
 - **? Fonds :** Montant laissé en caisse pour la prochaine ouverture.
 - **? Changement état :** Date à laquelle la caisse a été fermée ou ouverte
-- **? État :** Indique si la caisse est ouverte ou fermée.
+- **? État :** Indique si la caisse est ouverte ou fermée.  
   Une caisse fermée ne peut pas enregistrer de ventes.
 - **? Changement d'état :** Date et heure de la dernière ouverture ou fermeture de la caisse.
 - **? Date de création :** Date à laquelle la caisse a été créée.

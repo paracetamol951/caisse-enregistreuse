@@ -8,14 +8,14 @@ Téléchargez la liste de vos commandes enregistrées
 
 #### Paramètres
 
-  Nom                      Type                    Obligatoire   Description
-  ------------------------ ----------------------- ------------- -------------------------------------------------------------------------
-  `idboutique`             string                  Oui           Identifiant de compte boutique (SHOPID)
-  `key`                    string                  Oui           Votre token (APIKEY)
-  `validatedOrders`        bool                    Non           Commandes / Devis
-  `from_date_ISO8601`      string (ISO8601 date)   Non           Period start
-  `to_date_ISO8601`        string (ISO8601 date)   Non           Period end
-  `filterDeliveryMethod`   int \[0\...6\]          Non           If provided, only orders of the specified delivery method will be shown
+| Nom | Type | Obligatoire | Description |
+|----|----|----|----|
+| `idboutique` | string | Oui | Identifiant de compte boutique (SHOPID) |
+| `key` | string | Oui | Votre token (APIKEY) |
+| `validatedOrders` | bool | Non | Commandes / Devis |
+| `from_date_ISO8601` | string (ISO8601 date) | Non | Period start |
+| `to_date_ISO8601` | string (ISO8601 date) | Non | Period end |
+| `filterDeliveryMethod` | int \[0...6\] | Non | If provided, only orders of the specified delivery method will be shown |
 
 #### Exemples JavaScript
 

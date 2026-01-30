@@ -4,11 +4,11 @@ Le logiciel permet de configurer plusieurs lieux de préparation pour organiser l
 
 ## Principe
 
-Chaque lieu de préparation peut être associé à un type d'article spécifique.
+Chaque lieu de préparation peut être associé à un type d?article spécifique.
 
 Cela permet de répartir les tâches entre plusieurs espaces physiques selon le type de produit vendu.
 
-## Exemple d'usage
+## Exemple d?usage
 
 - Les articles de type nourriture sont préparés dans une cuisine.
 - Les articles de type boisson sont préparés au bar.

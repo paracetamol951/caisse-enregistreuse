@@ -2,7 +2,7 @@
 
 Il est possible de gérer sa liste de clients dans le logiciel.
 
-## Méthodes d'ajout de clients
+## Méthodes d?ajout de clients
 
 - Ajout manuel via la page de configuration des clients
 - Ajout lors du processus de vente
@@ -17,7 +17,7 @@ Il est possible de gérer sa liste de clients dans le logiciel.
 - Civilité
 - Nom, Prénom
 - Email, Téléphone, Téléphone secondaire
-- Numéro TVA, Numéro société, Numéro de pièce d'identité
+- Numéro TVA, Numéro société, Numéro de pièce d?identité
 - Adresse ligne 1 et 2, commentaire, code postal, ville, pays
 - Position GPS manuelle ou via la position courante
 - Notes personnelles et notes publiques
@@ -27,11 +27,11 @@ Il est possible de gérer sa liste de clients dans le logiciel.
 
 Le code postal permet une saisie automatique de la ville.
 
-L'adresse est géolocalisée automatiquement via Google pour faciliter les livraisons.
+L?adresse est géolocalisée automatiquement via Google pour faciliter les livraisons.
 
 ## Fiche client détaillée
 
-Vous pouvez accéder à la fiche client depuis l'interface de vente ou depuis la page de configuration.
+Vous pouvez accéder à la fiche client depuis l?interface de vente ou depuis la page de configuration.
 
 - **Infos:** modification et consultation des informations personnelles.
 - **Historique:** liste des commandes passées.
@@ -40,7 +40,7 @@ Vous pouvez accéder à la fiche client depuis l'interface de vente ou depuis la p
 - **Fusion:** fusionner des doublons de clients (commandes, points, avoirs, etc).
 - **Contact:** contacter le client par email ou SMS.
 
-? Astuce : utilisez le scan d'un code-barres client pour l'ajouter rapidement à une commande.
+? Astuce : utilisez le scan d?un code-barres client pour l?ajouter rapidement à une commande.
 
 ? Astuce : avec le scan NFC, identifiez votre client en scannant sa carte de crédit, ou son appareil NFC, ou tag NFC (compatible Android et Desktop).
 

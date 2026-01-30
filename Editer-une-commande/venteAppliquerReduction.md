@@ -2,8 +2,8 @@
 
 ## Appliquer une réduction sur un article
 
-Après avoir ajouté l'article à la commande, cliquez sur la réduction que vous souhaitez appliquer, sur le bloc des réductions du clavier.
-
+Après avoir ajouté l'article à la commande, cliquez sur la réduction que vous souhaitez appliquer, sur le bloc des réductions du clavier.  
+  
 
 ##### Appliquer une réduction sur un sous-total
 

@@ -4,8 +4,8 @@ Cette section vous explique comment enregistrer une vente, gérer les moyens de p
 
 ## Ajouter un article au ticket
 
-1.  Depuis l'écran de vente, sélectionnez un article dans la liste (rayons, groupes ou recherche).
-2.  L'article apparaît dans le ticket à droite.
+1.  Depuis l?écran de vente, sélectionnez un article dans la liste (rayons, groupes ou recherche).
+2.  L?article apparaît dans le ticket à droite.
 3.  Répétez pour ajouter plusieurs articles.
 
 ? Vous pouvez scanner un code-barres pour ajouter un article automatiquement.
@@ -19,7 +19,7 @@ Cette section vous explique comment enregistrer une vente, gérer les moyens de p
 
 ## Appliquer une réduction
 
-Avant d'encaisser, vous pouvez appliquer une remise à la commande :
+Avant d?encaisser, vous pouvez appliquer une remise à la commande :
 
 - Remise en pourcentage (ex. : -10%)
 - Montant fixe (ex. : -2,00 ?)
@@ -36,7 +36,7 @@ Si une imprimante est connectée, le ticket est imprimé immédiatement.
 
 ## Annuler une commande
 
-Avant encaissement, touchez l'icône ESC pour vider le ticket.
+Avant encaissement, touchez l?icône ESC pour vider le ticket.
 
-Après encaissement, l'annulation est possible selon vos droits d'utilisateur.
+Après encaissement, l?annulation est possible selon vos droits d?utilisateur.
 

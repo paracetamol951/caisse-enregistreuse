@@ -1,18 +1,18 @@
-# Centre d'aide -- Caisse enregistreuse gratuite
+# Centre d?aide ? Caisse enregistreuse gratuite
 
-Bienvenue dans le centre d'aide officiel de caisse.enregistreuse.fr ; Que vous soyez commerçant débutant ou utilisateur confirmé, vous trouverez ici toutes les ressources pour configurer, utiliser et tirer le meilleur parti de votre caisse.
+Bienvenue dans le centre d?aide officiel de caisse.enregistreuse.fr ; Que vous soyez commerçant débutant ou utilisateur confirmé, vous trouverez ici toutes les ressources pour configurer, utiliser et tirer le meilleur parti de votre caisse.
 
 ## Démarrage
 
-- Catégorie                            Contenu
-  --------------------------------------- --------------------------------------------------------------------------
-- [Installation](/installation.md)     Installation de l'application, création du commerce, interface générale
-- [Produits & stock](/produits.md)     Créer des articles, gérer les stocks, alertes, codes-barres
-- [Encaissement](/encaissement.md)     Vendre un article, gérer les paiements, imprimer un ticket
-- [Rapports & Stats](/rapports.md)     Chiffre d'affaires, export, clôture de caisse
-- [Périphériques](/peripheriques.md)   Imprimante, tiroir-caisse, code-barres
-- [Paramètres avancés](/avance.md)     TVA, utilisateurs, sauvegarde
-- [Questions fréquentes](/FAQ.md)      Problèmes courants, dépannage
+| ? Catégorie | Contenu |
+|----|----|
+| ?? [Installation](/installation.md) | Installation de l'application, création du commerce, interface générale |
+| ? [Produits & stock](/produits.md) | Créer des articles, gérer les stocks, alertes, codes-barres |
+| ? [Encaissement](/encaissement.md) | Vendre un article, gérer les paiements, imprimer un ticket |
+| ? [Rapports & Stats](/rapports.md) | Chiffre d'affaires, export, clôture de caisse |
+| ?? [Périphériques](/peripheriques.md) | Imprimante, tiroir-caisse, code-barres |
+| ?? [Paramètres avancés](/avance.md) | TVA, utilisateurs, sauvegarde |
+| ? [Questions fréquentes](/FAQ.md) | Problèmes courants, dépannage |
 
 ## Accès rapide recommandé
 

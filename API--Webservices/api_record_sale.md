@@ -8,19 +8,19 @@ Envoyez une commande complète : articles, client, mode de paiement, livraison, e
 
 ### Paramètres POST
 
-  Nom                Type     Obligatoire   Description
-  ------------------ -------- ------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  `idboutique`       string   Oui           Votre identifiant de boutique (SHOPID)
-  `key`              string   Oui           Votre Token (APIKEY)
-  `idUser`           int      Non           Identifiant d'utilisateur. Si non précisé, le logiciel crée un compte utilisateur avec le login \"webservice\" s'il n'existe pas déjà, et l'utilise.
-  `payment`          int      Oui           -2 = Non payée, non validée ; -1 = Non payée, validée ; un identifiant de mode de paiement pour indiquer un paiement (peut être un identifiant d'un mode de remboursement)
-  `idClient`         int      Non           Identifiant du client existant pour l'affecter à la commande
-  `idtable`          int      Non           Identifiant de la table pour l'affecter à la commande
-  `idcaisse`         int      Non           Identifiant de la caisse pour l'affecter à la commande
-  `numcouverts`      int      Non           Nombre de couverts servis à la table
-  `publicComment`    string   Non           Commentaire adossé à la commande (public)
-  `privateComment`   string   Non           Commentaire adossé à la commande (privé)
-  `pagerNum`         int      Non           Numéro de bippeur
+| Nom | Type | Obligatoire | Description |
+|----|----|----|----|
+| `idboutique` | string | Oui | Votre identifiant de boutique (SHOPID) |
+| `key` | string | Oui | Votre Token (APIKEY) |
+| `idUser` | int | Non | Identifiant d'utilisateur. Si non précisé, le logiciel crée un compte utilisateur avec le login "webservice" s'il n'existe pas déjà, et l'utilise. |
+| `payment` | int | Oui | -2 = Non payée, non validée ; -1 = Non payée, validée ; un identifiant de mode de paiement pour indiquer un paiement (peut être un identifiant d'un mode de remboursement) |
+| `idClient` | int | Non | Identifiant du client existant pour l'affecter à la commande |
+| `idtable` | int | Non | Identifiant de la table pour l'affecter à la commande |
+| `idcaisse` | int | Non | Identifiant de la caisse pour l'affecter à la commande |
+| `numcouverts` | int | Non | Nombre de couverts servis à la table |
+| `publicComment` | string | Non | Commentaire adossé à la commande (public) |
+| `privateComment` | string | Non | Commentaire adossé à la commande (privé) |
+| `pagerNum` | int | Non | Numéro de bippeur |
 
 ### Créer un nouveau client dans la même requête
 
@@ -45,26 +45,26 @@ Si le client n'existe pas, vous pouvez le créer avec les champs suivants (à envo
 
 #### deliveryMethod
 
-  Valeur   Signification
-  -------- -------------------
-  0        À emporter
-  1        À livrer
-  2        Sur place
-  3        Service au volant
-  4        Vente au comptoir
-  5        Point relai
-  6        À expédier
+| Valeur | Signification     |
+|--------|-------------------|
+| 0      | À emporter        |
+| 1      | À livrer          |
+| 2      | Sur place         |
+| 3      | Service au volant |
+| 4      | Vente au comptoir |
+| 5      | Point relai       |
+| 6      | À expédier        |
 
-#### itemsList\[\] --- Structure
+#### itemsList\[\] ? Structure
 
-- `[idArticle]` --- ajoute un article (quantité 1)
-- `[idArticle]_[quantite]` --- préciser la quantité
-- `[idArticle]_[quantite]_[titre personnalisé]_[prix personnalisé]` --- forcer le titre et le prix
-- `[idArticle]_[quantite]_[titre]_[prix]_[idDéclinaison1]_[idDéclinaison2]_[idDéclinaison3]_[idDéclinaison4]_[idDéclinaison5]` --- ajouter jusqu'à 5 déclinaisons
-- *Vente libre en rayon* : `-[idRayon]_[prix]_[titre]` --- crée une ligne libre rattachée au rayon
-- *Vente libre* : `Free_[prix]_[titre]` --- crée une ligne libre
+- `[idArticle]` ? ajoute un article (quantité 1)
+- `[idArticle]_[quantite]` ? préciser la quantité
+- `[idArticle]_[quantite]_[titre personnalisé]_[prix personnalisé]` ? forcer le titre et le prix
+- `[idArticle]_[quantite]_[titre]_[prix]_[idDéclinaison1]_[idDéclinaison2]_[idDéclinaison3]_[idDéclinaison4]_[idDéclinaison5]` ? ajouter jusqu'à 5 déclinaisons
+- *Vente libre en rayon* : `-[idRayon]_[prix]_[titre]` ? crée une ligne libre rattachée au rayon
+- *Vente libre* : `Free_[prix]_[titre]` ? crée une ligne libre
 
-#### Exemple JavaScript --- client existant
+#### Exemple JavaScript ? client existant
 
     async function recordSaleWithExistingClient(){
       const body = new URLSearchParams({
@@ -87,7 +87,7 @@ Si le client n'existe pas, vous pouvez le créer avec les champs suivants (à envo
       console.log(payload);
     }
 
-### Exemple JavaScript --- nouveau client + vente
+### Exemple JavaScript ? nouveau client + vente
 
     async function recordSaleWithNewClient(){
       const body = new URLSearchParams({
@@ -124,5 +124,5 @@ Si le client n'existe pas, vous pouvez le créer avec les champs suivants (à envo
       console.log(payload);
     }
 
-Rappel : si idUser est omis, le logiciel utilise/crée automatiquement un utilisateur "webservice".
+Rappel : si idUser est omis, le logiciel utilise/crée automatiquement un utilisateur ?webservice?.
 

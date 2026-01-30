@@ -1,6 +1,6 @@
 # Fonctionnalités marketing
 
-Les outils marketing intégrés vous permettent de communiquer efficacement avec vos clients par email, SMS ou courrier postal, à l'aide de messages personnalisés et ciblés.
+Les outils marketing intégrés vous permettent de communiquer efficacement avec vos clients par email, SMS ou courrier postal, à l?aide de messages personnalisés et ciblés.
 
 ## Canaux de communication disponibles
 
@@ -10,7 +10,7 @@ Les outils marketing intégrés vous permettent de communiquer efficacement avec v
 
 ## Ciblage des destinataires
 
-Avant d'envoyer un message, vous pouvez définir des filtres pour sélectionner précisément les clients à contacter. Par exemple :
+Avant d?envoyer un message, vous pouvez définir des filtres pour sélectionner précisément les clients à contacter. Par exemple :
 
 - Clients non contactés depuis plus de 30 jours
 - Appartenant à un groupe client spécifique

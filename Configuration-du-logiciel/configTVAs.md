@@ -8,7 +8,7 @@ Accédez à la page **Configuration \> TVA**
 
 Cliquez sur le bouton **Ajouter** situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s'affiche.
+Remplissez les champs proposés dans la fenêtre qui s?affiche.
 
 ## Modifier un taux de TVA existant
 
@@ -23,13 +23,13 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est enregistr
 
 ## TVA sur marge
 
-Les entreprises achetant des biens d'occasion à des non-assujettis peuvent appliquer la TVA sur la marge bénéficiaire.
+Les entreprises achetant des biens d?occasion à des non-assujettis peuvent appliquer la TVA sur la marge bénéficiaire.
 
-La TVA n'est calculée que sur la marge entre prix d'achat et prix de vente. Les opérations déficitaires ne sont pas soumises à la TVA.
+La TVA n?est calculée que sur la marge entre prix d?achat et prix de vente. Les opérations déficitaires ne sont pas soumises à la TVA.
 
 Pour activer cette fonctionnalité :
 
-1.  Activez la gestion des prix d'achat (page Configuration \> Commandes).
+1.  Activez la gestion des prix d?achat (page Configuration \> Commandes).
 2.  Ajoutez un taux de type **TVA sur marge** dans la page TVA.
 3.  Affectez ce taux aux articles ou rayons concernés.
 
@@ -37,10 +37,10 @@ Mention obligatoire sur les tickets : « Article 297 A du CGI et directive commun
 
 ## Exonération TVA intracommunautaire
 
-Cette option permet de facturer en Hors Taxes les livraisons à destination de clients professionnels dans un autre pays de l'Union Européenne.
+Cette option permet de facturer en Hors Taxes les livraisons à destination de clients professionnels dans un autre pays de l?Union Européenne.
 
 - Le pays du client doit être différent de celui de votre établissement.
-- Le client doit disposer d'un numéro de TVA ou d'un numéro de Registre du Commerce.
+- Le client doit disposer d?un numéro de TVA ou d?un numéro de Registre du Commerce.
 
-Conformément à l'article 262 ter du CGI, cette exonération s'applique aux livraisons de biens dans un autre État membre pour un client assujetti.
+Conformément à l?article 262 ter du CGI, cette exonération s?applique aux livraisons de biens dans un autre État membre pour un client assujetti.
 

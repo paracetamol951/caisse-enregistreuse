@@ -1,29 +1,29 @@
 # Télécharger vos données
 
-## Télécharger la liste des articles, rayons, clients, etc {#datasets}
+## Télécharger la liste des articles, rayons, clients, etc
 
 Tous les endpoints suivants acceptent &format=json, &format=csv ou &format=html.
 
 ### Endpoints disponibles
 
-  Ressource                  Endpoint
-  -------------------------- ------------------------------------
-  Articles                   `/workers/getPlus.php`
-  Rayons                     `/workers/getDepartments.php`
-  Groupes de rayons          `/workers/getDepartmentGroups.php`
-  Clients                    `/workers/getClients.php`
-  Déclinaisons d'articles   `/workers/getDeclinaisons.php`
-  Méthodes de livraison      `/workers/getLivraisons.php`
-  Méthodes de paiement       `/workers/getPaymentModes.php`
-  Caisses                    `/workers/getCashbox.php`
-  Zones de livraison         `/workers/getDeliveryZones.php`
-  Points relais              `/workers/getRelayDeposit.php`
-  Réductions                 `/workers/getDiscounts.php`
-  Utilisateurs               `/workers/getUsers.php`
-  Tables                     `/workers/getTables.php`
-  Commandes en cours         `/workers/getPending.php`
+| Ressource               | Endpoint                           |
+|-------------------------|------------------------------------|
+| Articles                | `/workers/getPlus.php`             |
+| Rayons                  | `/workers/getDepartments.php`      |
+| Groupes de rayons       | `/workers/getDepartmentGroups.php` |
+| Clients                 | `/workers/getClients.php`          |
+| Déclinaisons d'articles | `/workers/getDeclinaisons.php`     |
+| Méthodes de livraison   | `/workers/getLivraisons.php`       |
+| Méthodes de paiement    | `/workers/getPaymentModes.php`     |
+| Caisses                 | `/workers/getCashbox.php`          |
+| Zones de livraison      | `/workers/getDeliveryZones.php`    |
+| Points relais           | `/workers/getRelayDeposit.php`     |
+| Réductions              | `/workers/getDiscounts.php`        |
+| Utilisateurs            | `/workers/getUsers.php`            |
+| Tables                  | `/workers/getTables.php`           |
+| Commandes en cours      | `/workers/getPending.php`          |
 
-#### Patron d'URL
+#### Patron d?URL
 
     https://caisse.enregistreuse.fr/workers/[endpoint].php?idboutique=[SHOPID]&key=[APIKEY]&format=[csv|json|html]
 
