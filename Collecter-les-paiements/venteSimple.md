@@ -1,4 +1,4 @@
-#? Vente article enregistré
+# Vente article enregistré
 
 ## Sélectionnez un rayon
 

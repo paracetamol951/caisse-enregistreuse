@@ -1,4 +1,4 @@
-#? Démarrage
+# Démarrage
 
 Cette section vous guide dans les premières étapes : installation de l'application, création de votre établissement, et découverte de l'interface de vente.
 
@@ -18,7 +18,7 @@ Cette section vous guide dans les premières étapes : installation de l'applicati
 
 ? L'application iOS offre une expérience similaire à la version Android.
 
-##? 3. Installation depuis le Microsoft Store
+## 3. Installation depuis le Microsoft Store
 
 1.  Ouvrez le Microsoft Store sur votre ordinateur Windows
 2.  [Recherchez : caisse.enregistreuse.fr](https://apps.microsoft.com/detail/9nblgggztq9k?hl=fr-FR&gl=FR&downloadInvoice=1)
@@ -46,7 +46,7 @@ Au premier lancement, vous devez créer un compte :
 
 ?? **Le mode test est activé par défaut**. Il vous permet de tester la configuration sans enregistrer de ventes réelles.
 
-##? 6. Présentation de l'interface de vente
+## 6. Présentation de l'interface de vente
 
 - Élément                      Description
   ------------------------------- ----------------------------------------------------------------------------------------------------------------------------

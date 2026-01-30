@@ -1,1 +1,82 @@
+# Connectez Claude avec caisse.enregistreuse.fr
 
+Ce module vous permet de connecter Claude à votre logiciel de caisse, et de donner accès à Claude à vos données de ventes, ainsi que toutes les autres données, et la capacité d\'enregistrer des ventes dans le logiciel
+
+Ce module est actuellement en version beta. Compatible uniquement sur PC ou Mac.
+
+## Prérequis {#prérequis .mt-4}
+
+Node.js : [Téléchargez et installez Node.js](https://nodejs.org/fr/download){rel="nofollow"}
+
+Claude Desktop : [Téléchargez et installez Claude Desktop](https://www.claude.com/download){rel="nofollow"}
+
+## Installation {#installation .mt-4}
+
+### Installation minimale {#installation-minimale .mt-4}
+
+Editez votre fichier de configuration claude_desktop_config.json
+
+Sous Windows
+
+    %APPDATA%\Claude\claude_desktop_config.json
+
+Sous Mac OS
+
+    ~/Library/Application Support/Claude/claude_desktop_config.json
+
+Renseignez le fichier de configuration suivant après avoir injecté votre codes d\'accès webapp
+
+    {
+      "mcpServers": {
+        "caisse": {
+          "command": "npx",
+          "args": [
+            "caisse-enregistreuse-mcp-server",
+            "--shopid=[replaceWithYourSHOPID]",
+            "--apikey=[replaceWithYourAPIKEY]"
+          ]
+        }
+      }
+    }
+
+### Installation pas à pas {#installation-pas-à-pas .mt-4}
+
+- Créez un dossier d\'installation
+- Ouvrez un terminal dans ce dossier, avc les privilèges administrateur
+- Installez le module caisse.enregistreuse_mcp
+
+<!-- -->
+
+    npx caisse-enregistreuse-mcp-server --shopid=12345 --apikey=abcdef123456
+
+Peut également être executé pas à pas
+
+    git clone https://github.com/paracetamol951/caisse-enregistreuse-mcp-server.git
+    cd caisse-enregistreuse-mcp-server
+    npm install
+    npm run build
+    // tester le lancement (optionnel)
+    npm run start:stdio
+
+Lorsque l\'installation est terminée, le fichier claude_desktop_config.json devra contenir cette configuration
+
+    {
+      "mcpServers": {
+        "caisse": {
+          "command": "node",
+          "args": [
+            "[installFolder]\\caisse-enregistreuse-mcp-server\\build\\stdio.js"
+          ],
+          "cwd": "[installFolder]\\caisse-enregistreuse-mcp-server",
+          "env": {
+            "APIKEY": "[replaceWithYourAPIKEY]",
+            "SHOPID": "[replaceWithYourSHOPID]"
+          }
+        }
+      }
+    }
+
+[Serveur MCP](/mcp.md)
+
+[Documentation logiciel de caisse](/)\
+[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

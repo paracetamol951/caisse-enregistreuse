@@ -28,7 +28,7 @@ Depuis le menu Articles ou directement dans la fiche d'un article, vous pouvez :
 
 ? [En savoir plus sur la gestion des achats fournisseurs](/fournisseurs.md)
 
-##? Alerte de stock bas
+## Alerte de stock bas
 
 Pour chaque article, vous pouvez définir un seuil d'alerte. Si le stock passe en dessous, l'article sera signalé dans la liste.
 

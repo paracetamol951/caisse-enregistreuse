@@ -11,7 +11,7 @@ Le mode hors ligne est disponible uniquement :
 - Sur l'application Android
 - Sur un ordinateur en utilisant **Chrome** ou **Firefox**
 
-##? Fonctionnement
+## Fonctionnement
 
 Si aucune connexion internet n'est détectée, le logiciel bascule automatiquement en mode hors ligne.
 

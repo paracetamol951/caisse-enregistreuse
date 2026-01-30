@@ -1,4 +1,4 @@
-#? Paramètres avancés
+# Paramètres avancés
 
 Cette section vous présente les réglages avancés disponibles : gestion de la TVA, gestion des utilisateurs et sauvegarde automatique sur le cloud.
 
@@ -29,7 +29,7 @@ Chaque utilisateur peut s'identifier de trois manières :
 - Avec un tag NFC associé
 - Avec un code-barres personnel
 
-##? Sauvegarde et cloud
+## Sauvegarde et cloud
 
 Toutes les données sont automatiquement sauvegardées sur le cloud.
 

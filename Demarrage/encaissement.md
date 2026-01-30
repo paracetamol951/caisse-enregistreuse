@@ -26,7 +26,7 @@ Avant d'encaisser, vous pouvez appliquer une remise à la commande :
 
 Les réductions sont visibles sur le ticket et le rapport de vente.
 
-##? Impression du ticket
+## Impression du ticket
 
 Une fois la vente validée, un ticket de caisse est généré automatiquement.
 

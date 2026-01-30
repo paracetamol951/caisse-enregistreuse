@@ -1,4 +1,4 @@
-#? Raccourcis clavier dans la prise de commande
+# Raccourcis clavier dans la prise de commande
 
 Pour accélérer la saisie des commandes sur ordinateur, l'application propose plusieurs raccourcis clavier utiles.
 
@@ -14,7 +14,7 @@ Utilisez le pavé numérique pour entrer rapidement des quantités ou effectuer des
 
 Tapez simplement le nom d'un article. Appuyez sur Entrée pour sélectionner le premier article correspondant.
 
-##? Barre d'espace -- Lecture rapide
+## Barre d'espace -- Lecture rapide
 
 Appuyez sur la barre d'espace pour activer la lecture suivante :
 

@@ -1,8 +1,8 @@
-#? Périphériques
+# Périphériques
 
 Cette page vous guide dans la configuration des périphériques compatibles : imprimantes, tiroirs-caisses, lecteurs de codes-barres et équipements Sunmi ou Epson.
 
-##? Compatibilité Sunmi (imprimante intégrée, écran secondaire)
+## Compatibilité Sunmi (imprimante intégrée, écran secondaire)
 
 Les appareils Sunmi sont automatiquement détectés par l'application.
 
@@ -12,7 +12,7 @@ Les appareils Sunmi sont automatiquement détectés par l'application.
 
 ? Modèles testés : V2, V2s, T2 Mini, P2 Pro
 
-##? Imprimantes Epson (Bluetooth / Ethernet)
+## Imprimantes Epson (Bluetooth / Ethernet)
 
 Les imprimantes thermiques Epson (modèles ESC/POS) sont compatibles avec l'application.
 
