@@ -8,7 +8,7 @@
 
 Cliquez sur le bouton « Ajouter » situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s\'affiche.
+Remplissez les champs proposés dans la fenêtre qui s'affiche.
 
 ## Modifier un rayon existant
 
@@ -25,5 +25,3 @@ Remplissez les champs proposés dans la fenêtre qui s\'affiche.
 - **Clavier** : Indique si une touche de sélection est affichée dans le clavier de vente pour ce rayon. Sinon, il devra être sélectionné via une liste déroulante.
 - **Image** : Image affichée sur la touche du clavier (format JPG ou PNG, taille \< 2 Mo).
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

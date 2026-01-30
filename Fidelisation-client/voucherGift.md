@@ -4,7 +4,7 @@ Le logiciel permet de créer, imprimer et utiliser des chèques cadeaux, pour prop
 
 ## Créer un chèque cadeau
 
-Pour créer un chèque cadeau, vous devez configurer une action de type \'Créer un chèque cadeau\' depuis la page de configuration des Actions.
+Pour créer un chèque cadeau, vous devez configurer une action de type 'Créer un chèque cadeau' depuis la page de configuration des Actions.
 
 Lors de la vente, il vous suffit d'indiquer le montant souhaité. Le chèque cadeau est enregistré dans la base de données avec un identifiant unique, sa date de création, son état (valide, utilisé, remboursé\...), et le client éventuellement associé.
 
@@ -12,7 +12,7 @@ Un reçu contenant le chèque cadeau est imprimé automatiquement après l'opération
 
 ## Utiliser un chèque cadeau
 
-Pour qu'un client règle une commande avec un chèque cadeau, vous devez configurer l'action \'Paiement chèque cadeau\'.
+Pour qu'un client règle une commande avec un chèque cadeau, vous devez configurer l'action 'Paiement chèque cadeau'.
 
 Lors du paiement, cliquez sur le bouton associé, puis saisissez l'ID du chèque cadeau ou scannez-le à l'aide d'un lecteur de code-barres.
 
@@ -27,5 +27,3 @@ Depuis l'interface de gestion, vous pouvez consulter la liste complète des chèqu
 
 L'option des chèques cadeaux permet d'enrichir l'expérience client tout en augmentant vos ventes, notamment pendant les périodes de fêtes.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

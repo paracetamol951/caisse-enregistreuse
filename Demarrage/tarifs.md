@@ -1,31 +1,31 @@
 # Gratuité et Tarifs
 
-Si vous souscrivez à une licence il restera possible de changer le type de licence que vous souhaitez avoir (licence sinple / étendue).\
-En page compte, vous pouvez sélectionner la licence que vous souhaitez, et la durée restante de licence sera convertie au prorata du cout.\
-La durée minimale de la licence étendue est de 30 jours.\
-Si vous disposez déjà d\'une licence active et que vous souscrivez à nouveau à une licence, les durées des licences se cumuleront.
+Si vous souscrivez à une licence il restera possible de changer le type de licence que vous souhaitez avoir (licence sinple / étendue).
+En page compte, vous pouvez sélectionner la licence que vous souhaitez, et la durée restante de licence sera convertie au prorata du cout.
+La durée minimale de la licence étendue est de 30 jours.
+Si vous disposez déjà d'une licence active et que vous souscrivez à nouveau à une licence, les durées des licences se cumuleront.
 
 ## Utilisation gratuite de la caisse enregistreuse
 
-**Il est possible d\'utiliser ce logiciel gratuitement de manière illimitée.**\
+**Il est possible d'utiliser ce logiciel gratuitement de manière illimitée.**
 
 - mention publicitaire pour notre logiciel sur les documents émis par le logiciel (ticket de caisse, factures, notifications, emails, boutique en ligne\...)
 - pop up de rappel des licences payantes
 - 500 articles maximum
-- stockage des images jusqu\'à 300x300px
+- stockage des images jusqu'à 300x300px
 
-Différentes licences d\'utilisation, facultatives, sont payantes dans ce logiciel.\
-\
+Différentes licences d'utilisation, facultatives, sont payantes dans ce logiciel.
+
 
 ## Licence standard à 19? par mois
 
 - disparition de la mention publicitaire pour notre logiciel sur les documents émis par le logiciel (ticket de caisse, factures, notifications, boutique en ligne\...)
 - personnalisation du logo sur les factures
-- assistance technique via l\'interface dédiée en ligne et par email
+- assistance technique via l'interface dédiée en ligne et par email
 - disparition de la pop up de rappel des licences payantes
-- gestion du prix d\'achat
+- gestion du prix d'achat
 - gestion des groupes de clients
-- stockage des images jusqu\'à 600x600px
+- stockage des images jusqu'à 600x600px
 - 2 fois plus de puissance de calcul pour la génération de rapports, permettant la génération de rapports sur une plus longue période
 
 [Souscrire à une licence]{.mt-2 .btn .btn-outline-gradient .gradient-4 .!rounded-[50rem] .mb-8 .!mr-[.25rem]}
@@ -34,30 +34,30 @@ Différentes licences d\'utilisation, facultatives, sont payantes dans ce logicie
 
 - tous les avantages de la licence standard
 - export et import au formats xls et csv
-- assistance technique via l\'interface dédiée en ligne et par email
+- assistance technique via l'interface dédiée en ligne et par email
 - rapports mensuels PDF
 - rapports sur les créances clients
-- gestion des packs d\'articles
+- gestion des packs d'articles
 - gestion des réductions automatiques
 - gestion des cartes de fidélité
 - fusion de comptes clients
 - gestion des modèles de rapports
 - gestion des fournisseurs
 - gestion des commandes de stock
-- stockage des images jusqu\'à 1200x1200px
+- stockage des images jusqu'à 1200x1200px
 - 4 fois plus de puissance de calcul pour la génération de rapports, permettant la génération de rapports sur une plus longue période
 
 [Souscrire à une licence]{.mt-2 .btn .btn-outline-gradient .gradient-4 .!rounded-[50rem] .mb-8 .!mr-[.25rem]}
 
 ## Compte de test gratuit
 
-Compte de test gratuit : si vous souscrivez à une licence, il vous sera possible de disposer d\'un compte secondaire en mode TEST permettant d\'effectuer des opérations de TEST du logiciel. Ce compte test disposera de la même licence que votre compte principal, gratuitement.Pour créer votre compte de test, il vous faut vous déconnecter, puis remplir le formulaire d\'inscription, ensuite en page compte activer la licence de test.
+Compte de test gratuit : si vous souscrivez à une licence, il vous sera possible de disposer d'un compte secondaire en mode TEST permettant d'effectuer des opérations de TEST du logiciel. Ce compte test disposera de la même licence que votre compte principal, gratuitement.Pour créer votre compte de test, il vous faut vous déconnecter, puis remplir le formulaire d'inscription, ensuite en page compte activer la licence de test.
 
 ## Tableau complet de comparaison entre les licences
 
   Fonctionnalité                                      Gratuite              Licence Standard   Licence Étendue
   --------------------------------------------------- --------------------- ------------------ -----------------
-  Nombre d\'articles                                  500                   2000               10000
+  Nombre d'articles                                  500                   2000               10000
   Mention publicitaire sur tickets/factures           Oui (logo + promos)   Non                Non
   Pop-up rappels pour licence payante                 Oui                   Non                Non
   Personnalisation du logo sur facture                Non                   Oui                Oui
@@ -76,7 +76,7 @@ Compte de test gratuit : si vous souscrivez à une licence, il vous sera possible
   Gestion des fournisseurs & commandes de stock       Non                   Non                Oui
   Taille maximale des images                          300×300 px            600×600 px         1200×1200 px
 
-Nombre d\'articles
+Nombre d'articles
 
 Gratuite: 500
 
@@ -220,5 +220,3 @@ Licence Standard: 600×600 px
 
 Licence Étendue: 1200×1200 px
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

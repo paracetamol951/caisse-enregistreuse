@@ -1,6 +1,6 @@
 # Lecture des codes-barres
 
-? Afin d\'utiliser la fonctionnalité de lecture des codes-barres, vous devez disposer d'un appareil équipé d'une caméra ou d'un lecteur de codes-barres (USB, Bluetooth).
+? Afin d'utiliser la fonctionnalité de lecture des codes-barres, vous devez disposer d'un appareil équipé d'une caméra ou d'un lecteur de codes-barres (USB, Bluetooth).
 
 - Caméra d'appareil (smartphone, tablette, etc.)
 - Lecteur de codes-barres compatible (USB, Bluetooth, clavier PS/2)
@@ -51,9 +51,7 @@ En plus des articles, le système permet de scanner des codes-barres pour : clien
 
 Les codes-barres imprimés depuis le logiciel utilisent automatiquement ces préfixes.
 
-\
-\
+
+
 [Configuration des articles](/codesBarresConfig.md)
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

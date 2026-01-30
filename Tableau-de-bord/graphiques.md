@@ -18,7 +18,7 @@ Le rapport PDF contient de nombreux sous-rapports sur la période sélectionnée.
 
 Si la période est terminée, le rapport est figé : il n'est plus modifié et est signé numériquement à l'aide d'une clé cryptographique garantissant son authenticité. Ce document est juridiquement valide à des fins comptables.
 
-? Voir également: [Formats d\'export de données](/exportVentes.md)
+? Voir également: [Formats d'export de données](/exportVentes.md)
 
 ## Sélection des filtres
 
@@ -70,5 +70,3 @@ Si la période choisie dépasse une journée, le rapport est automatiquement enregi
 
 ? Certains tableaux n'apparaissent que si vous avez activé les fonctionnalités correspondantes dans la configuration.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

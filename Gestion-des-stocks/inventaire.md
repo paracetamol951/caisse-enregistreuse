@@ -1,8 +1,8 @@
-# Assistance à l\'inventaire
+# Assistance à l'inventaire
 
 Le logiciel permet de réaliser facilement des inventaires de votre stock en comparant les quantités théoriques avec les quantités inventoriées.
 
-## Accès à l\'inventaire
+## Accès à l'inventaire
 
 Pour accéder à cette fonctionnalité, rendez-vous en page **Configuration \> Articles**, puis cliquez sur le bouton **« Inventaire »**.
 
@@ -33,5 +33,3 @@ Une fois l'inventaire terminé, cliquez sur **« Enregistrer les corrections de st
 
 ? L'inventaire peut être effectué progressivement : les données sont conservées sur la page tant que vous n'avez pas validé les corrections.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

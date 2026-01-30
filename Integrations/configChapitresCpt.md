@@ -10,12 +10,12 @@ La gestion des chapitres comptables doit être activée dans **Configuration \> Op
 
 ### Données de vente {#données-de-vente .mt-20}
 
-Le chapitre comptable des données de ventes est la concaténation do code activité de groupe de rayon avec le code activité de l\'article
+Le chapitre comptable des données de ventes est la concaténation do code activité de groupe de rayon avec le code activité de l'article
 
 - Articles, si absent, le **Code activité du rayon** est utilisé
 - **Rayons** : code d'activité par défaut appliqué aux articles
 - **Groupes de rayons** : code de chapitre comptable à combiner avec le code d'activité de l'article, si absent, le **Code activité général** est utilisé
-- **Code activité général** : en page d\'options générales, c\'est le paramètre par défaut pour les ventes
+- **Code activité général** : en page d'options générales, c'est le paramètre par défaut pour les ventes
 
 ### Taux de TVA {#taux-de-tva .mt-20}
 
@@ -32,7 +32,7 @@ Le chapitre comptable des données de ventes est la concaténation do code activit
 
 ### Clients {#clients .mt-20}
 
-- **Clients** : code comptable, si absent, l\'identifiant interne sera utilisé si le groupe du client n\'a pas de code comptable
+- **Clients** : code comptable, si absent, l'identifiant interne sera utilisé si le groupe du client n'a pas de code comptable
 - **Groupe de client** : code comptable qui viendra préfixer le chapitre comptable du client
 - **411** : ce code comptable viendra préfixer le chapitre comptable du client, en plus du code comptable du groupe de clients
 
@@ -66,5 +66,3 @@ Ce rapport comprend une ligne par article vendu, avec les colonnes requises :
 
 En activant l'option correspondante dans les paramètres des rapports, un tableau récapitulatif par chapitre comptable est également inclus dans les rapports PDF et HTML.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

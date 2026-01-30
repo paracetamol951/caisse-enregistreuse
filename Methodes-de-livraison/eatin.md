@@ -6,9 +6,9 @@ Cette fonctionnalité permet d'associer des commandes à des tables, de les visual
 
 Pour activer cette option, accédez à **Config \> Méthodes de livraison** et activez la gestion des tables.
 
-## Utiliser les tables dans l\'interface de caisse
+## Utiliser les tables dans l'interface de caisse
 
-Lors d\'une vente sur place, cliquez sur l\'action **Consommation sur place** et sélectionnez une table.
+Lors d'une vente sur place, cliquez sur l'action **Consommation sur place** et sélectionnez une table.
 
 La liste des tables s'affiche comme un rayon classique. Vous pouvez rechercher une table en tapant son nom.
 
@@ -39,5 +39,3 @@ Lors des commandes, les vendeurs pourront visualiser facilement les tables libre
 
 []{.image .placeholder original-image-src="/Caisse-Enregistreuse/Table-Plan-ScreenShot.jpg?v=2" original-image-title="" style="max-width:100%"}
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

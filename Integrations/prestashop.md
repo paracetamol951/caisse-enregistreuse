@@ -4,7 +4,7 @@ Connectez votre boutique Prestashop à votre caisse pour synchroniser automatique
 
 ## Importer les articles depuis Prestashop {#importer-les-articles-depuis-prestashop .mb-10 .mt-20}
 
-La synchronisation permet d\'importer ou de mettre à jour automatiquement la liste des articles de votre caisse à partir des données saisies dans Prestashop.
+La synchronisation permet d'importer ou de mettre à jour automatiquement la liste des articles de votre caisse à partir des données saisies dans Prestashop.
 
 ## Configuration côté Prestashop {#configuration-côté-prestashop .mb-10 .mt-20}
 
@@ -30,5 +30,3 @@ En Europe, les frais de livraison doivent généralement être soumis à la TVA, au 
 
 La synchronisation Prestashop vous fait gagner du temps tout en assurant la cohérence entre votre boutique en ligne et votre point de vente physique.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

@@ -1,10 +1,10 @@
-# Configurer les déclinaisons d\'articles
+# Configurer les déclinaisons d'articles
 
 ?? Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
 ## Activation de la fonctionnalité
 
-Vous devez d'abord activer la fonctionnalité via la page **Config \> Options générales \> Commandes**, dans l\'encart Articles.
+Vous devez d'abord activer la fonctionnalité via la page **Config \> Options générales \> Commandes**, dans l'encart Articles.
 
 ? Une fois l'option activée, une nouvelle entrée intitulée **Déclinaisons** apparaît dans le menu de configuration.
 
@@ -34,5 +34,3 @@ Une variation peut être marquée comme **Terminale** pour mettre fin au choix des
 
 ? Par exemple : une option *Fin des toppings* peut être ajoutée pour permettre à l'utilisateur de valider son choix de toppings sans en sélectionner davantage.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

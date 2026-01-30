@@ -35,7 +35,7 @@ La réduction est appliquée sur le sous-total de la commande.
 
 ## Utilisation du bon
 
-Les clients peuvent saisir leur code en ligne ou via le bouton d'action \'Bon de réduction\' dans l'interface de vente.
+Les clients peuvent saisir leur code en ligne ou via le bouton d'action 'Bon de réduction' dans l'interface de vente.
 
 Le logiciel vérifie automatiquement si toutes les conditions sont réunies avant d'appliquer la réduction.
 
@@ -43,9 +43,7 @@ Un même bon ne peut être utilisé qu'une seule fois par commande.
 
 ## Envoyer un bon de réduction
 
-Depuis la page de configuration des bons de réduction, un bouton \'Envoyer\' permet de lancer une campagne marketing (email, SMS...) pour communiquer le code du bon aux clients ciblés.
+Depuis la page de configuration des bons de réduction, un bouton 'Envoyer' permet de lancer une campagne marketing (email, SMS...) pour communiquer le code du bon aux clients ciblés.
 
 Les bons de réduction sont un outil puissant pour fidéliser vos clients et dynamiser vos ventes pendant les périodes stratégiques.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

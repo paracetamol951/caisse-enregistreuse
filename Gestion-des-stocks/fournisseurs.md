@@ -1,18 +1,18 @@
 # Achats de stock et fournisseurs
 
-Ce module vous permet d\'enregistrer vos commandes de stock dans le logiciel.
+Ce module vous permet d'enregistrer vos commandes de stock dans le logiciel.
 
 Vous pouvez saisir les commandes passées à vos fournisseurs, enregistrer leur réception, et intégrer automatiquement les produits au stock.
 
-Cela permet une meilleure gestion de vos prix d\'achat, et donc de votre marge.
+Cela permet une meilleure gestion de vos prix d'achat, et donc de votre marge.
 
-Chaque prix d\'achat est mémorisé, et les rapports affichent des marges calculées précisément en fonction de ces prix.
+Chaque prix d'achat est mémorisé, et les rapports affichent des marges calculées précisément en fonction de ces prix.
 
 ? Vous pouvez également éditer et envoyer les bons de commande ou bons de réception à vos fournisseurs.
 
-## Configuration de la gestion des fournisseurs et des prix d\'achat
+## Configuration de la gestion des fournisseurs et des prix d'achat
 
-1.- Activez la gestion des fournisseurs en page **Config \> Options générales \> Options du catalogue d\'articles**.
+1.- Activez la gestion des fournisseurs en page **Config \> Options générales \> Options du catalogue d'articles**.
 2.- Une fois activée, une nouvelle section **Fournisseurs** apparaît dans le menu de configuration.
 
 Vous pourrez y saisir les coordonnées complètes du fournisseur et son délai moyen de livraison.
@@ -24,7 +24,7 @@ Vous pourrez y saisir les coordonnées complètes du fournisseur et son délai moye
 
 ? Chaque produit peut avoir un fournisseur différent.
 
-## Enregistrement d\'une commande fournisseur
+## Enregistrement d'une commande fournisseur
 
 Identifiez les articles à réapprovisionner depuis :
 
@@ -40,7 +40,7 @@ Vous y verrez pour chaque article :
 - Stock restant
 - Stock commandé non encore reçu
 - Quantité vendue le mois précédent
-- ?? Seuil d\'alerte de stock bas
+- ?? Seuil d'alerte de stock bas
 
 ?? Saisissez les quantités à commander, les prix d'achat et le délai prévu avant livraison.
 
@@ -63,5 +63,3 @@ Une fois la commande enregistrée, plusieurs actions sont possibles :
 - ?? D'abord les articles non issus d'une commande fournisseur
 - ?? Puis les lots issus des commandes fournisseurs, par ordre chronologique de réception
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

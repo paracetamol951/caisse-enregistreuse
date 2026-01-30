@@ -1,4 +1,4 @@
-# Gestion du numéro de l\'appelant
+# Gestion du numéro de l'appelant
 
 ? Cette fonctionnalité permet d'ouvrir automatiquement la fiche client lorsqu'un appel entrant est détecté sur votre ligne de téléphone fixe.
 
@@ -28,5 +28,3 @@ Une fois correctement configuré, un message « US Robotics modem detected » s'aff
 - Si un client correspond à ce numéro, sa fiche client s'affiche automatiquement.
 - Si aucun client n'est trouvé, l'application propose de créer une nouvelle fiche client avec le numéro déjà renseigné.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

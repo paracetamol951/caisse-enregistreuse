@@ -1,23 +1,23 @@
 # Envoyer une facture ou un devis
 
-Il est possible d\'envoyer une facture ou un devis suivant plusieurs méthodes : par courrier postal, par email ou par SMS.
+Il est possible d'envoyer une facture ou un devis suivant plusieurs méthodes : par courrier postal, par email ou par SMS.
 
 ## Différence devis / facture
 
-Si la commande n\'a pas été validée, un devis est envoyé. Sinon, une facture.
+Si la commande n'a pas été validée, un devis est envoyé. Sinon, une facture.
 
 ## Méthodes d'envoi
 
 Pour envoyer une facture :
 
-- Utilisez le bouton d\'envoi en bas du ticket ou dans les actions principales.
+- Utilisez le bouton d'envoi en bas du ticket ou dans les actions principales.
 - Ajoutez des boutons personnalisés dans la page de configuration des actions : Envoi par SMS, Envoi par courrier, Envoi par email.
 
 Vous pouvez activer une option dans la configuration pour envoyer automatiquement la facture après validation de la commande.
 
 ## Crédits nécessaires
 
-L\'envoi par SMS ou par courrier postal nécessite l\'achat de crédits (via la page Compte).
+L'envoi par SMS ou par courrier postal nécessite l'achat de crédits (via la page Compte).
 
 ## Coordonnées client
 
@@ -29,10 +29,8 @@ Les PDF envoyés sont signés numériquement pour garantir leur authenticité.
 
 ## Sécurisation des justificatifs
 
-- Tout justificatif réimprimé comporte la mention \'duplicata\'.
+- Tout justificatif réimprimé comporte la mention 'duplicata'.
 - Chaque envoi ou téléchargement est enregistré côté serveur (non modifiable).
-- Le champ \'duplicata\' est automatiquement positionné lors d'un envoi ou téléchargement.
+- Le champ 'duplicata' est automatiquement positionné lors d'un envoi ou téléchargement.
 - Toutes les méthodes d'envoi suivent les mêmes règles de traçabilité.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

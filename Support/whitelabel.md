@@ -4,9 +4,9 @@ Le logiciel propose une fonctionnalité de marque blanche destinée aux revendeurs
 
 ## Principe de fonctionnement
 
-Vous facturez directement vos clients pour l\'utilisation de la caisse, et vous vous chargez de régler les licences auprès de nous.
+Vous facturez directement vos clients pour l'utilisation de la caisse, et vous vous chargez de régler les licences auprès de nous.
 
-Vous créez un compte boutique pour votre client, en effectuez la configuration, puis activez l\'option « Marque blanche ».
+Vous créez un compte boutique pour votre client, en effectuez la configuration, puis activez l'option « Marque blanche ».
 
 ## Accès client personnalisé
 
@@ -58,5 +58,3 @@ Dans les paramètres, sélectionnez l'utilisateur qui aura les droits sur la marqu
 
 ? Cette fonctionnalité est idéale pour les intégrateurs, prestataires informatiques ou revendeurs souhaitant proposer une solution clé-en-main à leurs clients.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

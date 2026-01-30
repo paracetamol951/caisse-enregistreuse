@@ -1,6 +1,6 @@
 # Connectez Claude avec caisse.enregistreuse.fr
 
-Ce module vous permet de connecter Claude à votre logiciel de caisse, et de donner accès à Claude à vos données de ventes, ainsi que toutes les autres données, et la capacité d\'enregistrer des ventes dans le logiciel
+Ce module vous permet de connecter Claude à votre logiciel de caisse, et de donner accès à Claude à vos données de ventes, ainsi que toutes les autres données, et la capacité d'enregistrer des ventes dans le logiciel
 
 Ce module est actuellement en version beta. Compatible uniquement sur PC ou Mac.
 
@@ -24,7 +24,7 @@ Sous Mac OS
 
     ~/Library/Application Support/Claude/claude_desktop_config.json
 
-Renseignez le fichier de configuration suivant après avoir injecté votre codes d\'accès webapp
+Renseignez le fichier de configuration suivant après avoir injecté votre codes d'accès webapp
 
     {
       "mcpServers": {
@@ -41,7 +41,7 @@ Renseignez le fichier de configuration suivant après avoir injecté votre codes d
 
 ### Installation pas à pas {#installation-pas-à-pas .mt-4}
 
-- Créez un dossier d\'installation
+- Créez un dossier d'installation
 - Ouvrez un terminal dans ce dossier, avc les privilèges administrateur
 - Installez le module caisse.enregistreuse_mcp
 
@@ -58,7 +58,7 @@ Peut également être executé pas à pas
     // tester le lancement (optionnel)
     npm run start:stdio
 
-Lorsque l\'installation est terminée, le fichier claude_desktop_config.json devra contenir cette configuration
+Lorsque l'installation est terminée, le fichier claude_desktop_config.json devra contenir cette configuration
 
     {
       "mcpServers": {
@@ -78,5 +78,3 @@ Lorsque l\'installation est terminée, le fichier claude_desktop_config.json devr
 
 [Serveur MCP](/mcp.md)
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

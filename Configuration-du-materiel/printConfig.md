@@ -2,15 +2,15 @@
 
 ## Méthode standard (navigateur)
 
-Cliquez sur le bouton \'Imprimer un ticket de caisse\' depuis l\'interface de la caisse. Le ticket visible dans la zone \'Ticket de caisse\' sera imprimé via l\'imprimante configurée par défaut dans votre système.
+Cliquez sur le bouton 'Imprimer un ticket de caisse' depuis l'interface de la caisse. Le ticket visible dans la zone 'Ticket de caisse' sera imprimé via l'imprimante configurée par défaut dans votre système.
 
-Pensez à configurer les marges et à désactiver les entêtes/pieds de page via \'Fichier \> Mise en page\' de votre navigateur.
+Pensez à configurer les marges et à désactiver les entêtes/pieds de page via 'Fichier \> Mise en page' de votre navigateur.
 
 ? Aucune configuration n'est requise, mais une boîte de dialogue s'affiche à chaque impression.
 
 ## Impression sans boîte de dialogue
 
-Pour éviter l\'affichage de la boîte de dialogue d\'impression, utilisez l\'une des imprimantes compatibles intégrées dans nos applications Android, iOS ou Windows.
+Pour éviter l'affichage de la boîte de dialogue d'impression, utilisez l'une des imprimantes compatibles intégrées dans nos applications Android, iOS ou Windows.
 
 Cette méthode permet l'impression automatique du ticket à la fin d'une commande.
 
@@ -34,18 +34,18 @@ L'impression via réseau local fonctionne sans boîte de dialogue et sur tous les 
 1.  Connectez l'imprimante au réseau local.
 2.  Attribuez-lui une IP via EpsonNet Config (ex : 192.168.1.168).
 3.  Accédez à l'interface de configuration : http://\[adresse_ip\].
-4.  Activez Epson ePOS Print et définissez un \'Device ID\'.
-5.  Dans l'app, activez \'Imprimante Epson Ethernet\' et entrez IP + Device ID.
+4.  Activez Epson ePOS Print et définissez un 'Device ID'.
+5.  Dans l'app, activez 'Imprimante Epson Ethernet' et entrez IP + Device ID.
 
 ? Non recommandé : avec les applications Android / iOs, préférez toujours la connexion ePos Epson connect, plus simple à mettre en place
 
 ? Non disponible sous Android / iOs (uniquement avec navigateur)
 
-? Il peut également être nécessaire d\'accepter un avertissement de sécurité sur les appareils qui utiliseront l\'imprimante. Pour accepter l\'éventuel avertissement de sécurité (cela dépend du navigateur utilisé), il faut vous rendre dans ce logiciel dans la page de configuration de l\'imprimante, utiliser le bouton \"Ouvrir la page de configuration Epson\", et accepter l\'avertissement de sécurité, en cochant éventuellement \"Toujours accepter l\'avertissement de sécurité\".
+? Il peut également être nécessaire d'accepter un avertissement de sécurité sur les appareils qui utiliseront l'imprimante. Pour accepter l'éventuel avertissement de sécurité (cela dépend du navigateur utilisé), il faut vous rendre dans ce logiciel dans la page de configuration de l'imprimante, utiliser le bouton \"Ouvrir la page de configuration Epson\", et accepter l'avertissement de sécurité, en cochant éventuellement \"Toujours accepter l'avertissement de sécurité\".
 
 ? Appuyez 5 secondes sur le bouton arrière de votre imprimante Epson pour imprimer les infos réseau
 
-? Identifiants par defaut pour accéder à la page de configuration de l\'imprimante : epson / epson
+? Identifiants par defaut pour accéder à la page de configuration de l'imprimante : epson / epson
 
 ## Imprimante KKmoon POS-5802DD
 
@@ -55,7 +55,5 @@ Pour l'affichage des caractères accentués et du symbole ?, changez le jeu de car
 
 1.  Téléchargez et installez le pilote KKmoon sur votre ordinateur.
 2.  Connectez l'imprimante en USB et ouvrez le logiciel de configuration.
-3.  Modifiez le \'Default code page\' en PC437(Std.Europe)(1).
+3.  Modifiez le 'Default code page' en PC437(Std.Europe)(1).
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

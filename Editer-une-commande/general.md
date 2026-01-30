@@ -6,7 +6,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=4&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=9&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=.&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=9&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Espèces&image=coiespn&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Espèces"}
 
-\
+
 
 ## Vente article non enregistré avec rayon
 
@@ -14,7 +14,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=1&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=8&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Rayon%20%202&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=CB&image=credit-cardpy&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="CB"}
 
-\
+
 
 ## Vente article enregistré paiement comptant
 
@@ -22,7 +22,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=3&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%201&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Espèces&image=coiespn&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Espèces"}
 
-\
+
 
 ## Vente article enregistré, paiement avec rendu
 
@@ -30,7 +30,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%203&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=1&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=0&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Espèces&image=coiespn&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Espèces"}
 
-\
+
 
 ## Remboursement article enregistré
 
@@ -38,7 +38,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%202&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Remboursement%20Espèces&image=coiespnref&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Remboursement Espèces"}
 
-\
+
 
 ## Réduction sur le total
 
@@ -46,7 +46,7 @@
 
 []{.image .placeholder .keyboardButton .uncached .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Nouvelle%20commande&image=addesd&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Nouvelle commande"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%202&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%203&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Sous-total&image=the-sum-of&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Sous-total"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Réduction&image=disdecount&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Réduction"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Réduction%20de%2010%&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}
 
-\
+
 
 ## Vente de pack/menu
 
@@ -54,7 +54,7 @@
 
 []{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Sous-total&image=the-sum-of&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Sous-total"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%204&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Article%20%206&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Réduction&image=disdecount&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Réduction"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Menu%20à%2010?&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}
 
-\
+
 
 ## Paiement multiple
 
@@ -62,19 +62,17 @@
 
 []{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=1&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=0&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=CB&image=credit-cardpy&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="CB"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=5&image=&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title=""}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Espèces&image=coiespn&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Espèces"}
 
-\
+
 
 ## Rechercher un client
 
-\
-[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Compte%20client&image=useSSr&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Compte client"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}Puis il faut saisir au clavier votre recherche (avec une tablette il est possible de faire apparaitre le clavier virtuel en cliquant à gauche du bandeau gris en haut de l\'interface).\
 
-\
+[]{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=&di=Compte%20client&image=useSSr&colorFondR=230&colorFondG=215&colorFondB=186" original-image-title="Compte client"}[ensuite]{.image .placeholder .keyboardButton .helpKeyBtn .KeyNext original-image-src="/img/NextStep.svg" original-image-title="Etape suivante"}Puis il faut saisir au clavier votre recherche (avec une tablette il est possible de faire apparaitre le clavier virtuel en cliquant à gauche du bandeau gris en haut de l'interface).
+
+
 
 ## Annuler une commande
 
-(Naviguer dans l\'historique et charger la commande)\
+(Naviguer dans l'historique et charger la commande)
 []{.image .placeholder .keyboardButton .helpKeyBtn original-image-src="/Cash-Register/key.php?v=1622618197&di=ESC&colorFondR=244&colorFondG=186&colorFondB=164" original-image-title=""}
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

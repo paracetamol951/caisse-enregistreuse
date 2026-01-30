@@ -1,14 +1,14 @@
 # Import et export de la liste des articles
 
-? Vous pouvez interfacer la caisse enregistreuse avec d\'autres logiciels, sauvegarder ou charger votre liste d\'articles, vos stocks, vos prix d\'achat, ou les noms de vos produits.
+? Vous pouvez interfacer la caisse enregistreuse avec d'autres logiciels, sauvegarder ou charger votre liste d'articles, vos stocks, vos prix d'achat, ou les noms de vos produits.
 
-?? En page Configuration, pour les articles et les clients, il est possible d\'importer et d\'exporter ces données afin de pouvoir les éditer avec un tableur ou un logiciel compatible avec le format CSV.
+?? En page Configuration, pour les articles et les clients, il est possible d'importer et d'exporter ces données afin de pouvoir les éditer avec un tableur ou un logiciel compatible avec le format CSV.
 
 Le format CSV est compatible avec les tableurs comme Excel, LibreOffice Calc ou Google Sheets.
 
 ## Exporter vos données
 
-? L\'outil d\'exportation vous permet de générer un fichier contenant votre catalogue d'articles, clients, rayons, etc.
+? L'outil d'exportation vous permet de générer un fichier contenant votre catalogue d'articles, clients, rayons, etc.
 
 ? Ce fichier peut être ouvert dans un tableur, vous permettant de modifier facilement vos données.
 
@@ -28,7 +28,7 @@ L'export vous permet également de consulter la structure exacte attendue lors d'
 
 1.- Effectuez un export de votre catalogue actuel via le bouton **Export** dans les pages de configuration des articles, rayons ou clients.
 2.- Modifiez les données dans le fichier exporté avec un tableur.
-3.- Importez à nouveau le fichier modifié via la page d\'import.
+3.- Importez à nouveau le fichier modifié via la page d'import.
 
 Cette méthode vous garantit d'avoir le bon format de fichier et la bonne structure.
 
@@ -38,5 +38,3 @@ Cette méthode vous garantit d'avoir le bon format de fichier et la bonne structu
 
 Dans ce cas, pensez à refaire un export pour récupérer le nouveau format de fichier adapté à votre configuration.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

@@ -1,12 +1,12 @@
 # Lecture de tags NFC
 
-## Qu\'est-ce qu\'un tag NFC ?
+## Qu'est-ce qu'un tag NFC ?
 
 ? Les tags NFC sont des identifiants numériques intégrés dans certaines cartes de crédit et la plupart des téléphones récents.
 
 ? Les cartes compatibles affichent généralement un logo spécifique (ondes NFC). Pour vérifier la compatibilité, approchez simplement la carte ou le téléphone du lecteur : une réaction devrait se produire.
 
-? Sur les appareils Android, le capteur NFC est généralement situé à l'arrière de l\'appareil. L\'application Caisse Enregistreuse doit être installée pour que les interactions NFC fonctionnent.
+? Sur les appareils Android, le capteur NFC est généralement situé à l'arrière de l'appareil. L'application Caisse Enregistreuse doit être installée pour que les interactions NFC fonctionnent.
 
 ## Que permettent les tags NFC ?
 
@@ -21,13 +21,13 @@ Un même tag NFC peut être associé à un client ou à un utilisateur du logiciel.
 - Appareil Android avec support NFC et application Caisse Enregistreuse à jour.
 - ?? Lecteur de cartes Mifare vendu dans notre boutique, connecté à un PC Windows, avec le logiciel de gestion NFC fourni.
 
-Avant d\'acheter un lecteur NFC, assurez-vous de la compatibilité avec votre système.
+Avant d'acheter un lecteur NFC, assurez-vous de la compatibilité avec votre système.
 
 La compatibilité avec votre appareil Android est détectée automatiquement.
 
 ## Prérequis sous Windows
 
-? Connectez le lecteur µFR NFC à votre ordinateur, puis lancez le programme pilote fourni. Ce programme devra s\'exécuter en arrière-plan avant d'utiliser l'application Caisse Enregistreuse.
+? Connectez le lecteur µFR NFC à votre ordinateur, puis lancez le programme pilote fourni. Ce programme devra s'exécuter en arrière-plan avant d'utiliser l'application Caisse Enregistreuse.
 
 ? Nous vous recommandons de tester le bon fonctionnement du logiciel sur votre poste avant l'achat du lecteur.
 
@@ -40,7 +40,5 @@ La compatibilité avec votre appareil Android est détectée automatiquement.
 
 Cette méthode d'identification est simple, rapide et sécurisée.
 
-\
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .
+

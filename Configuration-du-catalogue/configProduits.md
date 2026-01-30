@@ -8,7 +8,7 @@
 
 Cliquez sur le bouton « Ajouter » situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s\'affiche.
+Remplissez les champs proposés dans la fenêtre qui s'affiche.
 
 ## Modifier un article existant
 
@@ -48,15 +48,13 @@ Ils resteront visibles dans l'interface du vendeur et dans les rapports.
 
 ## Facteur de saisie
 
-Afin d\'économiser des actions dans le processus de vente, il est possible d\'indiquer un facteur de saisie pour les quantités d\'articles.\
+Afin d'économiser des actions dans le processus de vente, il est possible d'indiquer un facteur de saisie pour les quantités d'articles.
 Ceci vous permet de saisir les quantités multipliées par 10, 100, 1000, etc afin de ne pas avoir à saisir la virgule.
 
-- Activez les facteurs de saisie en page Configuration, Options générales, paragraphe \"Options du catalogue d\'articles\"
+- Activez les facteurs de saisie en page Configuration, Options générales, paragraphe \"Options du catalogue d'articles\"
 - En page de configuration des articles, renseignez le facteur de saisie (1 par défaut)
 
 Avec un facteur de saisie de 100, saisissez 150 pour une quantité de 1.5
 
 Le facteur de saisie doit être une puissance de 10
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

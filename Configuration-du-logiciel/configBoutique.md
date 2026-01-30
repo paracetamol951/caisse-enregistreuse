@@ -24,7 +24,7 @@
 - **Méthodes de livraison** : Activation et configuration des modes de livraison
 - **Informations obligatoires** : Nom client, téléphone, date de valeur, etc.
 - **Gestion des stocks** : Évènements de débit, seuils d'alerte, etc.
-- ?? **Catalogue d\'articles** : DLC, déclinaisons, packs, synchronisation, etc.
+- ?? **Catalogue d'articles** : DLC, déclinaisons, packs, synchronisation, etc.
 - **Préparation de commandes** : Lieux de préparation, bippeurs, écrans clients\...
 - **Tickets de caisse** : Taille des textes, logo, groupement des articles\...
 - **Fermeture de caisse** : Heure, périodicité, fond de caisse par défaut\...
@@ -37,5 +37,3 @@
 - **Vitrine - Vente en ligne** : Paiement et livraison sur la boutique en ligne
 - ?? **Marque blanche** : Connexion à un compte partenaire marque blanche
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

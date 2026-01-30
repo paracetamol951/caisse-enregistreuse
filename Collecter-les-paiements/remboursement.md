@@ -19,7 +19,7 @@ Pour rembourser des articles spécifiques :
 
 - Sélectionnez le rayon concerné à l'aide de l'encart des rayons.
 - Cliquez sur les articles à rembourser.
-- Choisissez un mode de remboursement pour valider l\'opération.
+- Choisissez un mode de remboursement pour valider l'opération.
 
 ## Remboursement d'une commande complète
 
@@ -42,5 +42,3 @@ Le logiciel génère une commande négative à la date du jour, contenant uniquement
 
 ? Astuce : tous les remboursements apparaissent dans vos rapports comme des ventes négatives, ce qui facilite le suivi comptable.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

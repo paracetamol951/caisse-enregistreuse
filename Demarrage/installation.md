@@ -50,7 +50,7 @@ Au premier lancement, vous devez créer un compte :
 
 - Élément                      Description
   ------------------------------- ----------------------------------------------------------------------------------------------------------------------------
-- Bloc gauche                  Affiche au choix : rayons, groupes de rayons, articles, clients, tables ou réductions. L\'utilisateur choisit l'affichage.
+- Bloc gauche                  Affiche au choix : rayons, groupes de rayons, articles, clients, tables ou réductions. L'utilisateur choisit l'affichage.
 - Ticket (colonne de droite)   Contient les articles de la commande en cours
 - Bouton "Ajouter"             Démarre une nouvelle commande
 - Encaisser                    Finalise la commande avec un paiement
@@ -67,5 +67,3 @@ Vous pouvez tester l'application sans risque grâce au mode test. Une fois votre 
 - ?? [Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9nblgggztq9k?hl=fr-FR&gl=FR)
 - [Accéder à la version navigateur](https://caisse.enregistreuse.fr)
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

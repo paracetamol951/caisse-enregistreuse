@@ -8,12 +8,12 @@ Le système vous permet de définir un taux de TVA par défaut pour la boutique, po
 
 1.  Ouvrez le menu Paramètres \> Taxes / TVA
 2.  Définissez un taux de TVA par défaut pour la boutique
-3.  Dans chaque rayon, vous pouvez appliquer un taux spécifique ou laisser \'par défaut\' pour hériter de la boutique
-4.  Dans chaque fiche article, vous pouvez choisir un taux spécifique ou laisser \'par défaut\' pour hériter du rayon
+3.  Dans chaque rayon, vous pouvez appliquer un taux spécifique ou laisser 'par défaut' pour hériter de la boutique
+4.  Dans chaque fiche article, vous pouvez choisir un taux spécifique ou laisser 'par défaut' pour hériter du rayon
 
 Cela vous permet de gérer automatiquement la TVA selon l'organisation de votre catalogue.
 
-? Exemple : un article configuré en \'par défaut\', placé dans un rayon en \'par défaut\', héritera du taux de la boutique.
+? Exemple : un article configuré en 'par défaut', placé dans un rayon en 'par défaut', héritera du taux de la boutique.
 
 ## Gestion des utilisateurs
 
@@ -39,5 +39,3 @@ Toutes les données sont automatiquement sauvegardées sur le cloud.
 
 ? Vous recevez vos identifiants par email à la création du compte.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

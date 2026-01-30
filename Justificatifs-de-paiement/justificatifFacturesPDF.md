@@ -4,10 +4,8 @@ Kash.click vous permet de générer des factures au format PDF, incluant les donné
 
 Les factures PDF respectent aussi le format PDF/A, garantissant l'authenticité et la conformité du fichier à l'original.
 
-Vous pouvez transmettre ces factures de plusieurs manières : en téléchargeant vous-même le PDF pour le transmettre par vos propres moyens, en l\'imprimant, ou le logiciel peut se charger pour vous d\'envoyer la facture par e-mail, par SMS, ou même par courrier postal.
+Vous pouvez transmettre ces factures de plusieurs manières : en téléchargeant vous-même le PDF pour le transmettre par vos propres moyens, en l'imprimant, ou le logiciel peut se charger pour vous d'envoyer la facture par e-mail, par SMS, ou même par courrier postal.
 
-Voir aussi :\
+Voir aussi :
 [Configuration des imprimantes](/printConfig.md) [Duplicatas de justificatifs](/justificatifDuplicata.md)
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

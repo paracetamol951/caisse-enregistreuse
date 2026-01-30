@@ -4,19 +4,19 @@ Vous pouvez exporter les données de ventes pour les analyser dans un tableur, ou
 
 Ces exports sont aussi disponibles dans la page Rapports, et les mêmes possibilités de filtre ou de sélection de date sont disponibles.
 
-? Il est de la responsabilité de l\'établissement de télécharger les fichiers d\'archives avec une périodicité annuelle, et de conserver ces fichiers pour une durée légale de 6 ans en plus de l\'année fiscale en cours
+? Il est de la responsabilité de l'établissement de télécharger les fichiers d'archives avec une périodicité annuelle, et de conserver ces fichiers pour une durée légale de 6 ans en plus de l'année fiscale en cours
 
 ? Voir également: [Rapports de vente](/graphiques.md)
 
-## Export de l\'archive fiscale
+## Export de l'archive fiscale
 
-Ce document est le document le plus important à télécharger, au moins chaque année.\
-Le format de fichier qui correspond à la génération d\'archives fiscales et le format intitulé \'Archive fiscale\'.\
-Ceci vous permettra d\'obtenir un fichier au format ZIP contenant différents fichiers au format CSV.\
-Les données de chaque fichier CSV sont signées à l\'aide d\'une chaine de signature HMAC-SHA256.\
+Ce document est le document le plus important à télécharger, au moins chaque année.
+Le format de fichier qui correspond à la génération d'archives fiscales et le format intitulé 'Archive fiscale'.
+Ceci vous permettra d'obtenir un fichier au format ZIP contenant différents fichiers au format CSV.
+Les données de chaque fichier CSV sont signées à l'aide d'une chaine de signature HMAC-SHA256.
 Les fichiers CSV exportés sont : paiements, commandes, articles, fermetures, tracabilite
 
-? Document attendu par l\'administration fiscale
+? Document attendu par l'administration fiscale
 
 ## Export vers un tableur
 
@@ -45,11 +45,9 @@ Ils sont signés numériquement pour garantir leur intégrité et leur authenticité.
 
 ### Export FEC
 
-Les fichiers FEC (Fichier d\'Écritures Comptables) sont conformes aux normes imposées par la législation française.
+Les fichiers FEC (Fichier d'Écritures Comptables) sont conformes aux normes imposées par la législation française.
 
 Ils sont utilisés par la majorité des cabinets comptables et des logiciels comptables en France.
 
 ? Vous pouvez générer vos fichiers FEC pour une période donnée, afin de les transmettre à votre comptable ou lors d'un contrôle fiscal.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

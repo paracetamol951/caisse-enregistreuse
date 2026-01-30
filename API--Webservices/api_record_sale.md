@@ -12,11 +12,11 @@ Envoyez une commande complète : articles, client, mode de paiement, livraison, e
   ------------------ -------- ------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   `idboutique`       string   Oui           Votre identifiant de boutique (SHOPID)
   `key`              string   Oui           Votre Token (APIKEY)
-  `idUser`           int      Non           Identifiant d\'utilisateur. Si non précisé, le logiciel crée un compte utilisateur avec le login \"webservice\" s\'il n\'existe pas déjà, et l\'utilise.
-  `payment`          int      Oui           -2 = Non payée, non validée ; -1 = Non payée, validée ; un identifiant de mode de paiement pour indiquer un paiement (peut être un identifiant d\'un mode de remboursement)
-  `idClient`         int      Non           Identifiant du client existant pour l\'affecter à la commande
-  `idtable`          int      Non           Identifiant de la table pour l\'affecter à la commande
-  `idcaisse`         int      Non           Identifiant de la caisse pour l\'affecter à la commande
+  `idUser`           int      Non           Identifiant d'utilisateur. Si non précisé, le logiciel crée un compte utilisateur avec le login \"webservice\" s'il n'existe pas déjà, et l'utilise.
+  `payment`          int      Oui           -2 = Non payée, non validée ; -1 = Non payée, validée ; un identifiant de mode de paiement pour indiquer un paiement (peut être un identifiant d'un mode de remboursement)
+  `idClient`         int      Non           Identifiant du client existant pour l'affecter à la commande
+  `idtable`          int      Non           Identifiant de la table pour l'affecter à la commande
+  `idcaisse`         int      Non           Identifiant de la caisse pour l'affecter à la commande
   `numcouverts`      int      Non           Nombre de couverts servis à la table
   `publicComment`    string   Non           Commentaire adossé à la commande (public)
   `privateComment`   string   Non           Commentaire adossé à la commande (privé)
@@ -24,7 +24,7 @@ Envoyez une commande complète : articles, client, mode de paiement, livraison, e
 
 ### Créer un nouveau client dans la même requête
 
-Si le client n\'existe pas, vous pouvez le créer avec les champs suivants (à envoyer directement en POST) :
+Si le client n'existe pas, vous pouvez le créer avec les champs suivants (à envoyer directement en POST) :
 
     client[nom]=[nom]
     client[prenom]=[Prénom]
@@ -60,7 +60,7 @@ Si le client n\'existe pas, vous pouvez le créer avec les champs suivants (à env
 - `[idArticle]` --- ajoute un article (quantité 1)
 - `[idArticle]_[quantite]` --- préciser la quantité
 - `[idArticle]_[quantite]_[titre personnalisé]_[prix personnalisé]` --- forcer le titre et le prix
-- `[idArticle]_[quantite]_[titre]_[prix]_[idDéclinaison1]_[idDéclinaison2]_[idDéclinaison3]_[idDéclinaison4]_[idDéclinaison5]` --- ajouter jusqu\'à 5 déclinaisons
+- `[idArticle]_[quantite]_[titre]_[prix]_[idDéclinaison1]_[idDéclinaison2]_[idDéclinaison3]_[idDéclinaison4]_[idDéclinaison5]` --- ajouter jusqu'à 5 déclinaisons
 - *Vente libre en rayon* : `-[idRayon]_[prix]_[titre]` --- crée une ligne libre rattachée au rayon
 - *Vente libre* : `Free_[prix]_[titre]` --- crée une ligne libre
 
@@ -126,5 +126,3 @@ Si le client n\'existe pas, vous pouvez le créer avec les champs suivants (à env
 
 Rappel : si idUser est omis, le logiciel utilise/crée automatiquement un utilisateur "webservice".
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

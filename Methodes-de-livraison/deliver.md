@@ -1,6 +1,6 @@
 # Gestion des livraisons
 
-L'activation de la méthode de livraison \'Livraison\' débloque des fonctionnalités spécifiques pour la gestion des commandes livrées.
+L'activation de la méthode de livraison 'Livraison' débloque des fonctionnalités spécifiques pour la gestion des commandes livrées.
 
 ## Options activées lors de l'activation de la livraison
 
@@ -29,7 +29,7 @@ Une fois l'option activée, configurez les zones en page : **Configuration \> Zon
 
 Les frais de livraison peuvent être configurés comme suppléments automatiques.
 
-? Voir l\'aide : [Réduction/Suppléments/articles automatiques](/autoPLU.md)
+? Voir l'aide : [Réduction/Suppléments/articles automatiques](/autoPLU.md)
 
 Ils peuvent dépendre des zones configurées et s'appliquent automatiquement à la commande, aussi bien en caisse que sur la boutique en ligne.
 
@@ -37,9 +37,7 @@ Ils peuvent dépendre des zones configurées et s'appliquent automatiquement à la 
 
 Le logiciel permet également le partage de livreurs entre plusieurs boutiques grace à deliv.shop.
 
-Consultez notre page d'aide dédiée à l'intégration de Deliv.shop pour en savoir plus.\
-[Aide à l\'integration deliv.shop](/delivshop.md)\
+Consultez notre page d'aide dédiée à l'intégration de Deliv.shop pour en savoir plus.
+[Aide à l'integration deliv.shop](/delivshop.md)
 [Plateforme de livraison communautaire deliv.shop](https://www.deliv.shop)
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

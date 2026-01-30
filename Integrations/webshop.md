@@ -8,7 +8,7 @@ Votre boutique en ligne peut être utilisée de plusieurs manières :
 
 - Sur une tablette ou un écran à l'entrée de votre magasin (bornes de commande)
 - Depuis une adresse web dédiée, accessible à vos clients
-- Intégrée directement dans votre propre site internet sous forme de panier d\'achat
+- Intégrée directement dans votre propre site internet sous forme de panier d'achat
 
 ## Intégration avec le logiciel de caisse
 
@@ -41,5 +41,3 @@ Depuis la page de configuration de la boutique en ligne, vous pouvez activer ou 
 
 La boutique en ligne est un outil puissant pour développer vos ventes, fidéliser vos clients, et fluidifier vos processus de commande.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

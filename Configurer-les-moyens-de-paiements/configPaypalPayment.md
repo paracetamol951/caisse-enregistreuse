@@ -1,6 +1,6 @@
 # Configurer les paiements CB avec PayPal
 
-PayPal permet d\'encaisser vos clients en ligne et en caisse par carte bancaire, sans avoir besoin de terminal physique.
+PayPal permet d'encaisser vos clients en ligne et en caisse par carte bancaire, sans avoir besoin de terminal physique.
 
 Votre compte PayPal sera utilisable à la fois dans l'interface de caisse et sur votre boutique en ligne.
 
@@ -11,8 +11,8 @@ Votre compte PayPal sera utilisable à la fois dans l'interface de caisse et sur 
 
 1.  Assurez-vous de disposer d'un compte PayPal professionnel.
 2.  Accédez à **CONFIG \> OPTIONS GÉNÉRALES**
-3.  Renseignez votre identifiant de compte marchand PayPal.\
-    (Dans PayPal : Préférences \> Plus d\'options)
+3.  Renseignez votre identifiant de compte marchand PayPal.
+    (Dans PayPal : Préférences \> Plus d'options)
 
 Une fois enregistré, un bouton de paiement PayPal est ajouté à l'interface de vente.
 
@@ -24,7 +24,5 @@ Si vous souhaitez recevoir des notifications automatiques de confirmation de pai
 
 Sur PC ou Mac, vous devez autoriser les fenêtres pop-up pour que l'interface PayPal s'affiche correctement lors du paiement.
 
-Cette solution vous permet d\'encaisser vos clients par carte, même sans TPE.
+Cette solution vous permet d'encaisser vos clients par carte, même sans TPE.
 
-[Documentation logiciel de caisse](/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .

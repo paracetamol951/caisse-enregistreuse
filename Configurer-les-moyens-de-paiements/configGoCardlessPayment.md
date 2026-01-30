@@ -20,7 +20,7 @@ Une fois la connexion réalisée, un bouton GoCardless est automatiquement ajouté 
 
 ## Encaissement avec GoCardless
 
-Lors de l\'encaissement, cliquez sur le bouton GoCardless pour initier un paiement.
+Lors de l'encaissement, cliquez sur le bouton GoCardless pour initier un paiement.
 
 Deux cas sont possibles :
 
@@ -40,9 +40,7 @@ Vous pouvez également encaisser plusieurs dettes client en une seule fois :
 
 Frais : 0.20? + 1% GoCardless + 1% Caisse enregistreuse
 
-\
-\
-[Créer un compte GoCardless](https://manage.gocardless.com/signup){.button .green}\
 
-[Documentation logiciel de caisse](/GoCardless/)\
-[![Licence Creative Commons](images/34101c8bb1c1253f61bed847b98016c2c0f519af.png)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener mt-4"} Ce document est mis à disposition selon les termes de la [licence Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){rel="license noopener"} .
+
+[Créer un compte GoCardless](https://manage.gocardless.com/signup){.button .green}
+
