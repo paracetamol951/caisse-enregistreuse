@@ -4,12 +4,12 @@ Vous pouvez activer un système de points de fidélité utilisables comme moyen de 
 
 ## Activation des points de fidélité
 
-Rendez-vous dans la page de configuration générale et activez l?option correspondante.
+Rendez-vous dans la page de configuration générale et activez l'option correspondante.
 
 Vous devrez définir deux paramètres importants :
 
 - Nombre de points obtenus pour 1 unité de devise (ex : 1?)
-- Valeur d?un point de fidélité en devise (ex : 1 point = 0,05?)
+- Valeur d'un point de fidélité en devise (ex : 1 point = 0,05?)
 
 ## Affichage des points sur les tickets
 
@@ -22,5 +22,5 @@ Pour permettre à vos clients de payer avec leurs points de fidélité, vous devez 
 1.  Ouvrez la page : Configuration \> Actions
 2.  Ajoutez une nouvelle action de type : Paiement points de fidélité
 
-? Cette option apparaîtra alors comme moyen de paiement dans l?interface de caisse.
+? Cette option apparaîtra alors comme moyen de paiement dans l'interface de caisse.
 

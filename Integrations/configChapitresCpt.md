@@ -13,8 +13,8 @@ La gestion des chapitres comptables doit être activée dans **Configuration \> Op
 Le chapitre comptable des données de ventes est la concaténation do code activité de groupe de rayon avec le code activité de l'article
 
 - Articles, si absent, le **Code activité du rayon** est utilisé
-- **Rayons** : code d?activité par défaut appliqué aux articles
-- **Groupes de rayons** : code de chapitre comptable à combiner avec le code d?activité de l?article, si absent, le **Code activité général** est utilisé
+- **Rayons** : code d'activité par défaut appliqué aux articles
+- **Groupes de rayons** : code de chapitre comptable à combiner avec le code d'activité de l'article, si absent, le **Code activité général** est utilisé
 - **Code activité général** : en page d'options générales, c'est le paramètre par défaut pour les ventes
 
 ### Taux de TVA
@@ -28,7 +28,7 @@ Le chapitre comptable des données de ventes est la concaténation do code activit
 
 ### Caisses
 
-- **Caisses** : code journal utilisé pour l?export comptable
+- **Caisses** : code journal utilisé pour l'export comptable
 
 ### Clients
 
@@ -54,7 +54,7 @@ Ce rapport comprend une ligne par article vendu, avec les colonnes requises :
 - Crédit
 - Quantité
 
-## Exemple d?export CSV
+## Exemple d'export CSV
 
     70;12/12/2020;202012054;702;DUPONT;OEUFS;0.00;11.37;12
     70;12/12/2020;202012054;445712;DUPONT;TVA5.5%;0.00;0.63;0.0
@@ -64,5 +64,5 @@ Ce rapport comprend une ligne par article vendu, avec les colonnes requises :
 
 ## Ajout dans les rapports PDF et HTML
 
-En activant l?option correspondante dans les paramètres des rapports, un tableau récapitulatif par chapitre comptable est également inclus dans les rapports PDF et HTML.
+En activant l'option correspondante dans les paramètres des rapports, un tableau récapitulatif par chapitre comptable est également inclus dans les rapports PDF et HTML.
 

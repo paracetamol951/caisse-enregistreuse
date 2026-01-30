@@ -63,12 +63,12 @@ Compte de test gratuit : si vous souscrivez à une licence, il vous sera possible
 | Personnalisation du logo sur facture | Non | Oui | Oui |
 | Assistance technique (interface en ligne + email) | Non | Oui | Oui |
 | Puissance de calcul pour rapports | Normale | ×2 | ×4 |
-| Gestion du prix d?achat | Non | Oui | Oui |
+| Gestion du prix d'achat | Non | Oui | Oui |
 | Gestion des groupes de clients | Non | Oui | Oui |
 | Export / import XLS et CSV | Non | Oui | Oui |
 | Rapports mensuels au format PDF | Non | Non | Oui |
 | Rapports sur les créances clients | Non | Oui | Oui |
-| Gestion des packs d?articles | Non | Non | Oui |
+| Gestion des packs d'articles | Non | Non | Oui |
 | Réductions automatiques / suppléments | Non | Non | Oui |
 | Gestion des cartes de fidélité | Non | Non | Oui |
 | Fusion de comptes clients | Non | Non | Oui |
@@ -124,7 +124,7 @@ Licence Standard: ×2
 
 Licence Étendue: ×4
 
-Gestion du prix d?achat
+Gestion du prix d'achat
 
 Gratuite: Non
 
@@ -164,7 +164,7 @@ Licence Standard: Oui
 
 Licence Étendue: Oui
 
-Gestion des packs d?articles
+Gestion des packs d'articles
 
 Gratuite: Non
 

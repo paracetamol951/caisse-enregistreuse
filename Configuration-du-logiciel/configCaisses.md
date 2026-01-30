@@ -8,7 +8,7 @@
 
 Cliquez sur le bouton **Ajouter** situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s?affiche.
+Remplissez les champs proposés dans la fenêtre qui s'affiche.
 
 ## Modifier une caisse existante
 

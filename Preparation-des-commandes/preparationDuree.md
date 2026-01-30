@@ -1,6 +1,6 @@
 # Durée de préparation
 
-La fonctionnalité de gestion des durées de préparation permet de mieux organiser votre charge de travail lorsqu?un seul lieu de préparation est utilisé.
+La fonctionnalité de gestion des durées de préparation permet de mieux organiser votre charge de travail lorsqu'un seul lieu de préparation est utilisé.
 
 ## Activation de la fonctionnalité
 
@@ -14,17 +14,17 @@ Cela permet au système de calculer la durée totale nécessaire pour chaque comman
 
 ?? Les durées doivent être saisies en secondes.
 
-## Affichage d?une frise chronologique
+## Affichage d'une frise chronologique
 
-Lors de la sélection d?une date et d?une heure de valeur pour une commande, une frise interactive s?affiche.
+Lors de la sélection d'une date et d'une heure de valeur pour une commande, une frise interactive s'affiche.
 
-Cette frise indique les créneaux disponibles autour de l?heure choisie.
+Cette frise indique les créneaux disponibles autour de l'heure choisie.
 
-Elle permet de mieux répartir les préparations et d?informer le client d?une heure réaliste de fin de préparation.
+Elle permet de mieux répartir les préparations et d'informer le client d'une heure réaliste de fin de préparation.
 
-## Suivi depuis l?historique
+## Suivi depuis l'historique
 
-Depuis l?historique des commandes, vous pouvez consulter :
+Depuis l'historique des commandes, vous pouvez consulter :
 
 - Le temps total de préparation estimé
 - Le temps restant pour chaque commande en cours

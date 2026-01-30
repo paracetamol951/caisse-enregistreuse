@@ -26,5 +26,5 @@ Avant l'ouverture du magasin, suivez les étapes ci-dessous :
 - Déconnectez-vous de la caisse enregistreuse
 - Placez l'argent, les chèques et tickets CB dans un emplacement sécurisé
 
-? Lors de la prochaine ouverture, l?utilisateur devra vérifier que le fonds de caisse est bien présent.
+? Lors de la prochaine ouverture, l'utilisateur devra vérifier que le fonds de caisse est bien présent.
 

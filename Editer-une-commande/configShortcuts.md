@@ -1,6 +1,6 @@
 # Raccourcis clavier dans la prise de commande
 
-Pour accélérer la saisie des commandes sur ordinateur, l?application propose plusieurs raccourcis clavier utiles.
+Pour accélérer la saisie des commandes sur ordinateur, l'application propose plusieurs raccourcis clavier utiles.
 
 ## Saisie de quantités et opérations
 
@@ -10,21 +10,21 @@ Utilisez le pavé numérique pour entrer rapidement des quantités ou effectuer des
 - Touche + : addition
 - Touche \* : multiplication
 
-## Recherche d?article par nom
+## Recherche d'article par nom
 
-Tapez simplement le nom d?un article. Appuyez sur Entrée pour sélectionner le premier article correspondant.
+Tapez simplement le nom d'un article. Appuyez sur Entrée pour sélectionner le premier article correspondant.
 
-## Barre d?espace ? Lecture rapide
+## Barre d'espace ? Lecture rapide
 
-Appuyez sur la barre d?espace pour activer la lecture suivante :
+Appuyez sur la barre d'espace pour activer la lecture suivante :
 
 - Scanner un code-barres
-- Saisir un identifiant d?article
-- Entrer un nom d?article
+- Saisir un identifiant d'article
+- Entrer un nom d'article
 
 ## Touche TAB ? Navigation entre les listes
 
-La touche TAB permet de faire défiler les sections disponibles dans l?interface de commande :
+La touche TAB permet de faire défiler les sections disponibles dans l'interface de commande :
 
 1.  Articles
 2.  Tables (si activées)
@@ -34,15 +34,15 @@ La touche TAB permet de faire défiler les sections disponibles dans l?interface 
 
 ## Touches F1 à F12 ? Modes de paiement
 
-Les touches F1 à F12 déclenchent un mode de paiement spécifique. L?ordre correspond à celui affiché dans l?écran de paiement.
+Les touches F1 à F12 déclenchent un mode de paiement spécifique. L'ordre correspond à celui affiché dans l'écran de paiement.
 
 ## Échap / Retour arrière
 
-Ces touches simulent l?appui sur le bouton ESC de l?interface, pour annuler ou revenir en arrière.
+Ces touches simulent l'appui sur le bouton ESC de l'interface, pour annuler ou revenir en arrière.
 
 ## Raccourcis clavier avec \$
 
-Les raccourcis \$ permettent d?accéder directement à certaines sections :
+Les raccourcis \$ permettent d'accéder directement à certaines sections :
 
 | Raccourci | Action                                      |
 |-----------|---------------------------------------------|

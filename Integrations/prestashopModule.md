@@ -15,7 +15,7 @@ Cette page vous guide pour connecter et paramétrer le module Prestashop avec vot
 
 ## 2. Connexion au compte caisse
 
-Après l?installation du module sur Prestashop, la première étape consiste à naviguer dans l'onglet 'Connexion compte'.
+Après l'installation du module sur Prestashop, la première étape consiste à naviguer dans l'onglet 'Connexion compte'.
 
 Dans cette page, vous pouvez soit :
 

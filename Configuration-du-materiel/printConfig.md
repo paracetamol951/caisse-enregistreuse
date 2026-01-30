@@ -6,17 +6,17 @@ Cliquez sur le bouton 'Imprimer un ticket de caisse' depuis l'interface de la ca
 
 Pensez à configurer les marges et à désactiver les entêtes/pieds de page via 'Fichier \> Mise en page' de votre navigateur.
 
-? Aucune configuration n?est requise, mais une boîte de dialogue s?affiche à chaque impression.
+? Aucune configuration n'est requise, mais une boîte de dialogue s'affiche à chaque impression.
 
 ## Impression sans boîte de dialogue
 
 Pour éviter l'affichage de la boîte de dialogue d'impression, utilisez l'une des imprimantes compatibles intégrées dans nos applications Android, iOS ou Windows.
 
-Cette méthode permet l?impression automatique du ticket à la fin d?une commande.
+Cette méthode permet l'impression automatique du ticket à la fin d'une commande.
 
 ## Impression depuis Android
 
-Android permet l?impression via le système. Certaines imprimantes Bluetooth ou réseau sont compatibles.
+Android permet l'impression via le système. Certaines imprimantes Bluetooth ou réseau sont compatibles.
 
 ## Imprimantes intégrées et détectées
 
@@ -29,13 +29,13 @@ Si vous utilisez notre applicatino Android, iOs, ou Microsoft, certaines imprima
 
 ## Epson Ethernet (non recommandé)
 
-L?impression via réseau local fonctionne sans boîte de dialogue et sur tous les navigateurs, mais sa configuration est plus complexe.
+L'impression via réseau local fonctionne sans boîte de dialogue et sur tous les navigateurs, mais sa configuration est plus complexe.
 
-1.  Connectez l?imprimante au réseau local.
+1.  Connectez l'imprimante au réseau local.
 2.  Attribuez-lui une IP via EpsonNet Config (ex : 192.168.1.168).
-3.  Accédez à l?interface de configuration : http://\[adresse_ip\].
+3.  Accédez à l'interface de configuration : http://\[adresse_ip\].
 4.  Activez Epson ePOS Print et définissez un 'Device ID'.
-5.  Dans l?app, activez 'Imprimante Epson Ethernet' et entrez IP + Device ID.
+5.  Dans l'app, activez 'Imprimante Epson Ethernet' et entrez IP + Device ID.
 
 ? Non recommandé : avec les applications Android / iOs, préférez toujours la connexion ePos Epson connect, plus simple à mettre en place
 
@@ -49,11 +49,11 @@ L?impression via réseau local fonctionne sans boîte de dialogue et sur tous les 
 
 ## Imprimante KKmoon POS-5802DD
 
-Cette imprimante fonctionne avec l?application Android/iOS uniquement, via Bluetooth.
+Cette imprimante fonctionne avec l'application Android/iOS uniquement, via Bluetooth.
 
-Pour l?affichage des caractères accentués et du symbole ?, changez le jeu de caractères via les drivers KKmoon.
+Pour l'affichage des caractères accentués et du symbole ?, changez le jeu de caractères via les drivers KKmoon.
 
 1.  Téléchargez et installez le pilote KKmoon sur votre ordinateur.
-2.  Connectez l?imprimante en USB et ouvrez le logiciel de configuration.
+2.  Connectez l'imprimante en USB et ouvrez le logiciel de configuration.
 3.  Modifiez le 'Default code page' en PC437(Std.Europe)(1).
 

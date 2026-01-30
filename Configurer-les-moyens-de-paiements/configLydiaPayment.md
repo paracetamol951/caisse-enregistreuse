@@ -1,15 +1,15 @@
 # Configurer les paiements par smartphone avec Lydia
 
-Lydia permet d?encaisser vos clients à distance, sans contact, simplement via leur smartphone.
+Lydia permet d'encaisser vos clients à distance, sans contact, simplement via leur smartphone.
 
-Lors du paiement, un simple clic vous permet d?envoyer une demande de paiement que le client valide depuis l?application Lydia.
+Lors du paiement, un simple clic vous permet d'envoyer une demande de paiement que le client valide depuis l'application Lydia.
 
-Aucune interaction physique n?est nécessaire, le client peut même valider à distance, avant d?arriver sur place.
+Aucune interaction physique n'est nécessaire, le client peut même valider à distance, avant d'arriver sur place.
 
 ## Mise en place de la solution Lydia
 
 1.  Rendez-vous dans **Config \> Options générales \> Paiement**.
-2.  Activez l?option **Paiement avec Lydia**.
+2.  Activez l'option **Paiement avec Lydia**.
 3.  Cliquez sur le bouton de création de compte Lydia.
 4.  Vos informations (email, adresse, téléphone) seront transmises à Lydia pour initier la création.
 
@@ -22,9 +22,9 @@ Une fois votre compte validé, Lydia vous transmettra deux identifiants :
 
 Ces identifiants sont à copier dans les champs correspondants dans notre logiciel, puis à enregistrer.
 
-## Utilisation dans l?interface de caisse
+## Utilisation dans l'interface de caisse
 
-Une fois les identifiants renseignés, deux nouvelles actions sont disponibles dans l?interface :
+Une fois les identifiants renseignés, deux nouvelles actions sont disponibles dans l'interface :
 
 - **Paiement Lydia** ? pour envoyer une demande de paiement au client
 - **Remboursement Lydia** ? pour effectuer un remboursement sur le compte Lydia du client

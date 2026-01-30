@@ -6,7 +6,7 @@ La fonctionnalité des modèles de rapports permet de personnaliser les rapports e
 
 ## Activation des modèles de rapports
 
-Pour activer cette fonctionnalité, rendez-vous en page de configuration générale des rapports et activez l?option « Modèles de rapports ».
+Pour activer cette fonctionnalité, rendez-vous en page de configuration générale des rapports et activez l'option « Modèles de rapports ».
 
 Une fois activée, une nouvelle section apparaîtra dans le menu Configuration, intitulée « Modèles de rapports ».
 
@@ -16,13 +16,13 @@ Dans la page Config \> Modèles de rapports, vous pouvez créer plusieurs modèles 
 
 - Donner un titre au modèle
 - Choisir les tableaux à inclure dans ce modèle (ex. : chiffres récapitulatifs, rapport TVA, méthodes de paiement, ventes par article, etc.)
-- Enregistrer le modèle pour qu?il soit réutilisable lors de la consultation ou de l?exportation des rapports
+- Enregistrer le modèle pour qu'il soit réutilisable lors de la consultation ou de l'exportation des rapports
 
 ## Utilisation des modèles de rapports
 
-Une fois vos modèles configurés, vous pouvez les sélectionner lors de la génération d?un rapport, directement depuis la page Rapports.
+Une fois vos modèles configurés, vous pouvez les sélectionner lors de la génération d'un rapport, directement depuis la page Rapports.
 
-Cela vous permet de gagner du temps et d?obtenir uniquement les données pertinentes selon vos besoins (comptabilité, gestion, analyse commerciale?).
+Cela vous permet de gagner du temps et d'obtenir uniquement les données pertinentes selon vos besoins (comptabilité, gestion, analyse commerciale?).
 
 ### Exemples de modèles
 

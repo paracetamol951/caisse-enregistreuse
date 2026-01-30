@@ -23,7 +23,7 @@ Tous les endpoints suivants acceptent &format=json, &format=csv ou &format=html.
 | Tables                  | `/workers/getTables.php`           |
 | Commandes en cours      | `/workers/getPending.php`          |
 
-#### Patron d?URL
+#### Patron d'URL
 
     https://caisse.enregistreuse.fr/workers/[endpoint].php?idboutique=[SHOPID]&key=[APIKEY]&format=[csv|json|html]
 

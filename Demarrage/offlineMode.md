@@ -4,22 +4,22 @@ Le mode hors ligne vous permet de continuer à utiliser l'application même sans c
 
 Le mode hors ligne ne peut être utilisé que pendant des courtes périodes de temps (max 24h).
 
-## Conditions d?utilisation
+## Conditions d'utilisation
 
 Le mode hors ligne est disponible uniquement :
 
-- Sur l?application Android
+- Sur l'application Android
 - Sur un ordinateur en utilisant **Chrome** ou **Firefox**
 
 ## Fonctionnement
 
-Si aucune connexion internet n?est détectée, le logiciel bascule automatiquement en mode hors ligne.
+Si aucune connexion internet n'est détectée, le logiciel bascule automatiquement en mode hors ligne.
 
 Dès qu'une connexion est disponible, le logiciel repasse automatiquement en mode en ligne.
 
 ## Fonctionnalités disponibles hors ligne
 
-- Consulter le catalogue d?articles
+- Consulter le catalogue d'articles
 - Créer des devis ou préparer des commandes
 - Consulter votre carnet de clients
 

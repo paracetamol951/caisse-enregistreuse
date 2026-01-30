@@ -25,9 +25,9 @@ Sur le clavier de caisse, utilisez le bouton "Code Barre" pour activer le pointe
 
 Lorsqu'un code est reconnu, votre appareil émet un son (et une vibration si possible).
 
-## Saisie manuelle d?un code
+## Saisie manuelle d'un code
 
-Si un code barre n?est pas détecté, vous pouvez le saisir manuellement.
+Si un code barre n'est pas détecté, vous pouvez le saisir manuellement.
 
 - Appuyez sur la barre espace.
 - Entrez le code au pavé numérique.

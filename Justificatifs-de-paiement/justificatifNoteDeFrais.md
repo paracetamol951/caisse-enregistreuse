@@ -16,13 +16,13 @@ Pour générer une note de frais sur une partie de la commande, cliquez sur la lig
 
 ### Option 2 : En saisissant un montant
 
-Vous pouvez également saisir au pavé numérique le montant de la note de frais (ce montant doit être inférieur au montant total de la commande), puis appuyer sur l?action "Note de frais".
+Vous pouvez également saisir au pavé numérique le montant de la note de frais (ce montant doit être inférieur au montant total de la commande), puis appuyer sur l'action "Note de frais".
 
-Le logiciel vous demandera ensuite de saisir un nom pour cette note de frais, par exemple : "note de frais repas". La note de frais s?affiche alors avec le montant choisi.
+Le logiciel vous demandera ensuite de saisir un nom pour cette note de frais, par exemple : "note de frais repas". La note de frais s'affiche alors avec le montant choisi.
 
 ## Mention devis ou numéro de commande
 
 Si la commande est validée, le document indiquera le numéro de la commande.
 
-Si la commande n?est pas encore validée, le document affichera clairement la mention "Devis" afin d?indiquer que la commande est encore à l?état de devis.
+Si la commande n'est pas encore validée, le document affichera clairement la mention "Devis" afin d'indiquer que la commande est encore à l'état de devis.
 

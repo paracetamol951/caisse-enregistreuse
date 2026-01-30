@@ -6,7 +6,7 @@ Cette section vous montre comment consulter le chiffre d'affaires, filtrer les v
 
 1.  Ouvrez le menu principal (?)
 2.  Sélectionnez Rapports
-3.  Choisissez la période souhaitée : aujourd?hui, semaine, mois ou dates personnalisées
+3.  Choisissez la période souhaitée : aujourd'hui, semaine, mois ou dates personnalisées
 
 ? Les montants affichés incluent les ventes, remises, taxes et remboursements.
 
@@ -18,7 +18,7 @@ Cette section vous montre comment consulter le chiffre d'affaires, filtrer les v
 - Meilleures ventes
 - Répartition par moyen de paiement
 
-? Ces données vous aident à suivre l?évolution de votre activité.
+? Ces données vous aident à suivre l'évolution de votre activité.
 
 ## Exporter les rapports
 
@@ -32,7 +32,7 @@ Vous pouvez exporter vos données de vente au format CSV ou PDF :
 
 ## Clôture de caisse
 
-La clôture de caisse permet de valider la fin de journée et d?archiver les ventes du jour.
+La clôture de caisse permet de valider la fin de journée et d'archiver les ventes du jour.
 
 1.  Accédez au menu Clôture de caisse
 2.  Vérifiez les totaux

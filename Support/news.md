@@ -47,10 +47,10 @@ nov
 
 ## Nouvelle fonctionnalité : Connexion automatique avec PennyLane !
 
-Nous sommes heureux de vous annoncer qu?il est désormais possible de connecter automatiquement votre caisse enregistreuse Kash.click avec PennyLane. Grâce à cette nouvelle intégration, toutes vos ventes, remboursements et même les factures de licence seront transférés automatiquement dans PennyLane.  
+Nous sommes heureux de vous annoncer qu'il est désormais possible de connecter automatiquement votre caisse enregistreuse Kash.click avec PennyLane. Grâce à cette nouvelle intégration, toutes vos ventes, remboursements et même les factures de licence seront transférés automatiquement dans PennyLane.  
 Cela rend votre comptabilité plus fluide et vous fait gagner un temps précieux.  
-Pour en savoir plus sur la configuration, consultez notre nouvelle page d?aide.  
-Nous espérons que cette fonctionnalité vous apportera encore plus de confort et d?efficacité au quotidien !
+Pour en savoir plus sur la configuration, consultez notre nouvelle page d'aide.  
+Nous espérons que cette fonctionnalité vous apportera encore plus de confort et d'efficacité au quotidien !
 
 27
 
@@ -68,7 +68,7 @@ nov
 
 ## Achats de licence dans Android.
 
-Les achats de licence sont temporairement indisponibles dans l?application Android en raison de la nouvelle réglementation Google Pay concernant les moyens de paiement autorisés dans les applications du Play Store. Nous rétablirons cette fonctionnalité très prochainement dans une prochaine mise à jour.
+Les achats de licence sont temporairement indisponibles dans l'application Android en raison de la nouvelle réglementation Google Pay concernant les moyens de paiement autorisés dans les applications du Play Store. Nous rétablirons cette fonctionnalité très prochainement dans une prochaine mise à jour.
 
 31
 

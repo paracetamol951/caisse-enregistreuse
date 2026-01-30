@@ -6,7 +6,7 @@
 
 Cliquez sur le bouton **Ajouter** situé en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s?affiche.
+Remplissez les champs proposés dans la fenêtre qui s'affiche.
 
 ## Modifier un supplément ou une réduction existant
 
@@ -20,5 +20,5 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est automatiq
 - **? Valeur :** Pourcentage appliqué. Positif pour un supplément, négatif pour une réduction.
 - **? Montant :** Montant fixe appliqué. Positif pour un supplément, négatif pour une réduction.
   Si un pourcentage est également configuré, celui-ci sera appliqué en premier, puis le montant fixe.
-- **? Prix fixe :** Permet de fixer le prix total de la commande (voir rubrique *Fixer le prix d?une commande*).
+- **? Prix fixe :** Permet de fixer le prix total de la commande (voir rubrique *Fixer le prix d'une commande*).
 

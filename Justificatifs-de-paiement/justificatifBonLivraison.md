@@ -2,7 +2,7 @@
 
 ## À quoi sert un bon de livraison ?
 
-Le bon de livraison est un document destiné à être présenté au client lors de la livraison d?un bien ou de la réalisation d?un service. Il permet au client d?accuser réception en le signant.
+Le bon de livraison est un document destiné à être présenté au client lors de la livraison d'un bien ou de la réalisation d'un service. Il permet au client d'accuser réception en le signant.
 
 ## Contenu du document
 
@@ -14,7 +14,7 @@ Le bon de livraison est très similaire aux autres documents justificatifs généré
 
 ## Utilisation et transmission
 
-Ce document est destiné à être imprimé ou transmis au client afin qu?il puisse le signer pour confirmer la livraison du bien ou du service.
+Ce document est destiné à être imprimé ou transmis au client afin qu'il puisse le signer pour confirmer la livraison du bien ou du service.
 
 Le bon de livraison peut être téléchargé et transmis de la même manière que les autres documents : téléchargement en PDF, envoi par e-mail, par SMS, ou via les moyens proposés par le logiciel.
 
@@ -22,5 +22,5 @@ Le bon de livraison peut être téléchargé et transmis de la même manière que les 
 
 Si la commande est validée, la note de frais indiquera le numéro de la commande.
 
-Si la commande n?est pas encore validée, la note de frais affichera clairement la mention "Devis" afin d?indiquer que la commande est encore à l?état de devis.
+Si la commande n'est pas encore validée, la note de frais affichera clairement la mention "Devis" afin d'indiquer que la commande est encore à l'état de devis.
 

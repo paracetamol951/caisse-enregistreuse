@@ -1,6 +1,6 @@
-# Centre d?aide ? Caisse enregistreuse gratuite
+# Centre d'aide ? Caisse enregistreuse gratuite
 
-Bienvenue dans le centre d?aide officiel de caisse.enregistreuse.fr ; Que vous soyez commerçant débutant ou utilisateur confirmé, vous trouverez ici toutes les ressources pour configurer, utiliser et tirer le meilleur parti de votre caisse.
+Bienvenue dans le centre d'aide officiel de caisse.enregistreuse.fr ; Que vous soyez commerçant débutant ou utilisateur confirmé, vous trouverez ici toutes les ressources pour configurer, utiliser et tirer le meilleur parti de votre caisse.
 
 ## Démarrage
 

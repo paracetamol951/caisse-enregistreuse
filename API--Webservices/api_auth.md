@@ -2,13 +2,13 @@
 
 L'accès à l'API nécessite de fournir votre APIKEY et SHOPID.
 
-Résumé rapide : Obtenez un token (APIKEY) + l?identifiant de boutique (SHOPID), puis utilisez-les pour télécharger vos données ou enregistrer des ventes.
+Résumé rapide : Obtenez un token (APIKEY) + l'identifiant de boutique (SHOPID), puis utilisez-les pour télécharger vos données ou enregistrer des ventes.
 
 ## 1) Obtenir un auth token
 
 Deux méthodes :
 
-1.  **Depuis l?interface** : Configuration ? Webservices (le token de votre compte y est affiché).
+1.  **Depuis l'interface** : Configuration ? Webservices (le token de votre compte y est affiché).
 2.  **Par requête POST** : `https://caisse.enregistreuse.fr/workers/getAuthToken.php`
 
 ### 1.1 POST /workers/getAuthToken.php

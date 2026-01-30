@@ -1,6 +1,6 @@
 # Méthodes de livraison
 
-Le logiciel vous permet d?activer différentes méthodes de livraison selon vos besoins commerciaux.
+Le logiciel vous permet d'activer différentes méthodes de livraison selon vos besoins commerciaux.
 
 ## Méthodes disponibles
 
@@ -28,9 +28,9 @@ Ainsi, les caissiers devront toujours choisir une méthode de livraison lors de l
 
 ## Fonctionnalités associées
 
-L?activation de certaines méthodes de livraison déclenche des fonctions supplémentaires dans le logiciel :
+L'activation de certaines méthodes de livraison déclenche des fonctions supplémentaires dans le logiciel :
 
-- Expédition : une page dédiée permet d?imprimer les étiquettes d?envoi.
+- Expédition : une page dédiée permet d'imprimer les étiquettes d'envoi.
 - Consommation sur place : active la gestion des tables.
 - Livraison : active la gestion complète des livraisons.
 - Point de dépôt : permet la gestion des points relais.

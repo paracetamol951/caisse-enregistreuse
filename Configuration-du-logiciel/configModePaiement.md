@@ -4,13 +4,13 @@
 
 ?? Cette page permet de configurer les différents boutons d'action affichés dans l'interface de vente.
 
-L?ajout de certains boutons d'action permet d?activer des fonctionnalités spécifiques, comme l?édition de bons de commande ou de bons de livraison.
+L'ajout de certains boutons d'action permet d'activer des fonctionnalités spécifiques, comme l'édition de bons de commande ou de bons de livraison.
 
 ## Ajouter une nouvelle action / mode de paiement
 
 Cliquez sur le bouton **Ajouter** en haut du tableau.
 
-Remplissez les champs proposés dans la fenêtre qui s?affiche.
+Remplissez les champs proposés dans la fenêtre qui s'affiche.
 
 ## Modifier une action / mode de paiement existant
 
@@ -23,12 +23,12 @@ Appuyez sur Entrée pour valider. Les modifications sont automatiquement enregist
 - **?? Nom :** Nom affiché sur le ticket de caisse et sur le clavier.
 - **? Position :** Position du bouton dans le clavier. Peut être modifiée par glisser-déposer.
 - **? Type :** Type d'action ou de mode de paiement (influence le comportement du bouton).
-- **? Montant :** Montant par défaut associé à l?action. Peut être multiplié par une quantité saisie.
+- **? Montant :** Montant par défaut associé à l'action. Peut être multiplié par une quantité saisie.
 - **? Montant min. :** Montant minimum requis pour utiliser ce mode de paiement.
 - **? Montant max :** Montant maximal autorisé pour ce mode de paiement. Si dépassé, le montant max sera utilisé.
 - **? Caisse :** Indique la caisse sur laquelle ce bouton sera affiché.
 
-## Différents types d?action
+## Différents types d'action
 
 Le type détermine le comportement du bouton. En voici quelques exemples :
 
@@ -44,7 +44,7 @@ Le type détermine le comportement du bouton. En voici quelques exemples :
 - Ajouter un nouvel article : ajoute un article à la volée pendant la vente
 - Fermeture de caisse : permet de fermer la caisse
 - Article offert : applique une réduction de 100 % au dernier article
-- Changement d?utilisateur : permet de passer rapidement à un autre utilisateur
+- Changement d'utilisateur : permet de passer rapidement à un autre utilisateur
 - Commandes en cours : affiche les commandes en attente
 - Arrondi entier inférieur : applique une réduction pour arrondir au chiffre inférieur
 - Pourboire : enregistre un pourboire

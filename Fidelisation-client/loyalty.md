@@ -1,6 +1,6 @@
 # Cartes de fidélité
 
-Le système de cartes de fidélité permet d?attribuer des récompenses automatiques aux clients fidèles en fonction de leurs achats.
+Le système de cartes de fidélité permet d'attribuer des récompenses automatiques aux clients fidèles en fonction de leurs achats.
 
 ## Exemples de cartes de fidélité
 
@@ -12,8 +12,8 @@ Le système de cartes de fidélité permet d?attribuer des récompenses automatiques
 
 Lors de chaque commande, les cartes de fidélité du client sont créditées automatiquement selon les articles achetés.
 
-- Vous pouvez choisir un rayon spécifique pour déclencher l?ajout de points.
-- Si aucun rayon n?est précisé, tous les articles de tous les rayons comptent.
+- Vous pouvez choisir un rayon spécifique pour déclencher l'ajout de points.
+- Si aucun rayon n'est précisé, tous les articles de tous les rayons comptent.
 - Il est aussi possible de configurer une carte qui donne un point par commande, quelle que soit son contenu.
 
 ## Application de la réduction
@@ -21,9 +21,9 @@ Lors de chaque commande, les cartes de fidélité du client sont créditées automat
 Une fois la carte complétée, une réduction est automatiquement appliquée.
 
 - Vous pouvez spécifier un rayon sur lequel portera la réduction (ex : pizza).
-- Si plusieurs articles du rayon sont dans la commande, la réduction s?appliquera au moins cher.
-- Si aucun rayon n?est précisé, tous les articles sont éligibles et le moins cher sera sélectionné.
+- Si plusieurs articles du rayon sont dans la commande, la réduction s'appliquera au moins cher.
+- Si aucun rayon n'est précisé, tous les articles sont éligibles et le moins cher sera sélectionné.
 - Vous pouvez aussi appliquer la réduction sur le total de la commande.
 
-? Les cartes de fidélité fonctionnent aussi bien dans votre boutique en ligne que dans l?application de caisse.
+? Les cartes de fidélité fonctionnent aussi bien dans votre boutique en ligne que dans l'application de caisse.
 

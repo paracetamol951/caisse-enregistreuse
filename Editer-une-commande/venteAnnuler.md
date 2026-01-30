@@ -1,6 +1,6 @@
 # Annuler la saisie d'un article ou la commande en cours
 
-Le bouton ESC permet d?annuler l?opération en cours.
+Le bouton ESC permet d'annuler l'opération en cours.
 
 ## Comportements possibles du bouton ESC
 
@@ -11,7 +11,7 @@ Le bouton ESC permet d?annuler l?opération en cours.
 
 ## Attention
 
-Il n?est plus possible d?annuler une commande une fois que le paiement a commencé.
+Il n'est plus possible d'annuler une commande une fois que le paiement a commencé.
 
 ?? Pour annuler une commande dont le paiement a débuté, vous devez effectuer un remboursement.
 

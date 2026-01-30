@@ -1,4 +1,4 @@
-# Export des commandes à destination d?un tableur ou d?un logiciel comptable
+# Export des commandes à destination d'un tableur ou d'un logiciel comptable
 
 Vous pouvez exporter les données de ventes pour les analyser dans un tableur, ou les transmettre à votre expert-comptable au format compatible avec les obligations fiscales.
 
@@ -32,7 +32,7 @@ Ces rapports listent les commandes payées sur la période sélectionnée, et peuven
 Trois formats sont proposés afin de répondre aux besoins des différents outils comptables utilisés par votre cabinet ou votre entreprise.
 
 - **SAF-T** ? Standard Audit File for Tax : format international basé sur XML pour la transmission des écritures comptables.
-- **FEC** ? Fichier d?Écritures Comptables : format officiel reconnu par l?administration fiscale française.
+- **FEC** ? Fichier d'Écritures Comptables : format officiel reconnu par l'administration fiscale française.
 - **CSV comptable** ? Fichier au format CSV, avec une ligne par écriture comptable, structuré selon votre configuration de chapitres comptables.
 
 ### Export SAF-T
@@ -41,7 +41,7 @@ Les fichiers SAF-T sont des rapports comptables complets, conformes aux obligati
 
 Ils sont signés numériquement pour garantir leur intégrité et leur authenticité. Vous pouvez consulter ces fichiers avec des outils tels que SAF-T Analyzer.
 
-? Pour vérifier l?authenticité des fichiers SAF-T générés, utilisez notre clé publique de vérification cryptographique.
+? Pour vérifier l'authenticité des fichiers SAF-T générés, utilisez notre clé publique de vérification cryptographique.
 
 ### Export FEC
 
@@ -49,5 +49,5 @@ Les fichiers FEC (Fichier d'Écritures Comptables) sont conformes aux normes impo
 
 Ils sont utilisés par la majorité des cabinets comptables et des logiciels comptables en France.
 
-? Vous pouvez générer vos fichiers FEC pour une période donnée, afin de les transmettre à votre comptable ou lors d?un contrôle fiscal.
+? Vous pouvez générer vos fichiers FEC pour une période donnée, afin de les transmettre à votre comptable ou lors d'un contrôle fiscal.
 

@@ -23,7 +23,7 @@
 - ?? **Options interface** : Taille des boutons, affichage, webhooks, etc.
 - **Méthodes de livraison** : Activation et configuration des modes de livraison
 - **Informations obligatoires** : Nom client, téléphone, date de valeur, etc.
-- **Gestion des stocks** : Évènements de débit, seuils d?alerte, etc.
+- **Gestion des stocks** : Évènements de débit, seuils d'alerte, etc.
 - ?? **Catalogue d'articles** : DLC, déclinaisons, packs, synchronisation, etc.
 - **Préparation de commandes** : Lieux de préparation, bippeurs, écrans clients...
 - **Tickets de caisse** : Taille des textes, logo, groupement des articles...
@@ -33,7 +33,7 @@
 - **Paiement** : Connexion aux terminaux (Yavin, SumUp, PayPal...)
 - **Notifications** : Personnalisation des messages email, SMS, courrier
 - ?? **Vitrine en ligne** : Couleurs, URL, affichage du catalogue...
-- **Vitrine - Catalogue** : Options d?affichage de vos articles
+- **Vitrine - Catalogue** : Options d'affichage de vos articles
 - **Vitrine - Vente en ligne** : Paiement et livraison sur la boutique en ligne
 - ?? **Marque blanche** : Connexion à un compte partenaire marque blanche
 

@@ -6,7 +6,7 @@ La page « Rapports » vous permet de piloter efficacement votre activité grâce à 
 
 ### Consultation au format HTML
 
-Ce format, utilisé par défaut, permet d?afficher directement le rapport à l?écran. Idéal pour une lecture rapide et interactive.
+Ce format, utilisé par défaut, permet d'afficher directement le rapport à l'écran. Idéal pour une lecture rapide et interactive.
 
 ### Export au format HTML
 
@@ -16,7 +16,7 @@ Ce format est recommandé pour une lecture humaine : plus lisible, plus condensé,
 
 Le rapport PDF contient de nombreux sous-rapports sur la période sélectionnée.
 
-Si la période est terminée, le rapport est figé : il n?est plus modifié et est signé numériquement à l?aide d?une clé cryptographique garantissant son authenticité. Ce document est juridiquement valide à des fins comptables.
+Si la période est terminée, le rapport est figé : il n'est plus modifié et est signé numériquement à l'aide d'une clé cryptographique garantissant son authenticité. Ce document est juridiquement valide à des fins comptables.
 
 ? Voir également: [Formats d'export de données](/exportVentes.md)
 
@@ -24,11 +24,11 @@ Si la période est terminée, le rapport est figé : il n?est plus modifié et est s
 
 ### Période du rapport
 
-Vous pouvez sélectionner une période d?un jour, d?une semaine, d?un mois, d?une année, ou bien une période personnalisée.
+Vous pouvez sélectionner une période d'un jour, d'une semaine, d'un mois, d'une année, ou bien une période personnalisée.
 
 ### Filtrer par caisse
 
-Il est possible d?afficher les résultats pour une caisse spécifique.
+Il est possible d'afficher les résultats pour une caisse spécifique.
 
 ### Filtrer par utilisateur
 
@@ -36,11 +36,11 @@ Vous pouvez obtenir un rapport détaillé pour un utilisateur particulier : vendeu
 
 ## Mémorisation des rapports exportés
 
-Si la période choisie dépasse une journée, le rapport est automatiquement enregistré afin d?être plus rapidement accessible ultérieurement.
+Si la période choisie dépasse une journée, le rapport est automatiquement enregistré afin d'être plus rapidement accessible ultérieurement.
 
-? Pour forcer la mise à jour d?un rapport enregistré, ouvrez l?onglet « Historique » des rapports, puis supprimez celui à réactualiser. Un nouveau fichier sera généré.
+? Pour forcer la mise à jour d'un rapport enregistré, ouvrez l'onglet « Historique » des rapports, puis supprimez celui à réactualiser. Un nouveau fichier sera généré.
 
-?? Pour des raisons de performance serveur, les rapports ne sont recalculés qu?après un certain intervalle. Consultez la date d?édition du rapport pour connaître sa dernière mise à jour.
+?? Pour des raisons de performance serveur, les rapports ne sont recalculés qu'après un certain intervalle. Consultez la date d'édition du rapport pour connaître sa dernière mise à jour.
 
 ## Tableaux disponibles dans les rapports HTML et PDF
 
@@ -63,10 +63,10 @@ Si la période choisie dépasse une journée, le rapport est automatiquement enregi
 - Méthodes de paiement
 - Méthodes de livraison
 - Réductions appliquées
-- Heures d?affluence
+- Heures d'affluence
 - Chapitre comptable
 - Livraisons externes
-- Dates d?expiration
+- Dates d'expiration
 
-? Certains tableaux n?apparaissent que si vous avez activé les fonctionnalités correspondantes dans la configuration.
+? Certains tableaux n'apparaissent que si vous avez activé les fonctionnalités correspondantes dans la configuration.
 

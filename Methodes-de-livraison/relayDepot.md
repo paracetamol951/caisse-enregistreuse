@@ -1,6 +1,6 @@
 # Gestion des points relais
 
-Le logiciel permet d?utiliser un système de livraison par point relais, permettant à vos clients de récupérer leurs commandes à un endroit défini.
+Le logiciel permet d'utiliser un système de livraison par point relais, permettant à vos clients de récupérer leurs commandes à un endroit défini.
 
 ## Activation de la livraison par point relais
 
@@ -13,7 +13,7 @@ Rendez-vous dans **Configuration \> Points relais**
 Depuis cette page, vous pouvez créer autant de points relais que nécessaire. Pour chaque point relais, vous pouvez définir :
 
 - Une adresse exacte (utilisée pour la géolocalisation)
-- Des horaires d?ouverture personnalisés
+- Des horaires d'ouverture personnalisés
 
 ## Choix du point relais par le client
 

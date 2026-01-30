@@ -6,7 +6,7 @@ Rechercher :
 
 Amélioration à apporter à la caisse
 
-Bonjour, serait?il possible d?ajouter une fonction de recherche rapide de clients existants lors de la saisie d?une commande, aujourd?hui il faut parcourir le fichier parfois jusqu?à la dernière page pour retrouver le dernier client .
+Bonjour, serait'il possible d'ajouter une fonction de recherche rapide de clients existants lors de la saisie d'une commande, aujourd'hui il faut parcourir le fichier parfois jusqu'à la dernière page pour retrouver le dernier client .
 
 Lorsque les clients sont affichés, vous pouvez cliquer sur le bandeau en haut à gauche pour faire apparaître le clavier afin d'effectuer une recherche.  
 Ceci marche également pour les articles, ...  
@@ -164,7 +164,7 @@ Les droits des utilisateurs (administrateur, manager, employé, ...) ont un impac
 
 Installation on premise
 
-Est-il possible d?installer caisse.enregistreuse.fr sur mes propres infrastructures ?
+Est-il possible d'installer caisse.enregistreuse.fr sur mes propres infrastructures ?
 
 Bonjour,  
 Il n'est à lors actuel pas possible d'installer notre logiciel sur une infrastructure tierce par vos propres moyens.  
@@ -212,7 +212,7 @@ Paypal permet CB
 
 Je souhaite renouveler une licence annuelle à l'aide de la carte bleue. Comment faire sans ouvrir un compte paypal ?
 
-Lors de l?ouverture de la page de paiement paypal, il est fortement mis en valeur par paypal la possibilité de procéder au règlement en utilisant un compte paypal, cependant, ce n'est pas la seule possibilité.  
+Lors de l'ouverture de la page de paiement paypal, il est fortement mis en valeur par paypal la possibilité de procéder au règlement en utilisant un compte paypal, cependant, ce n'est pas la seule possibilité.  
 Il est également possible de procéder au paiement par carte bancaire sans ouvrir de compte paypal.  
 Pour ce faire, un lien est présent plus bas dans la page intitulé "Paiement direct par carte bleue".
 
@@ -251,7 +251,7 @@ Ouverture tiroir caisse Epson
 Avec une imprimante Epson TM-T20II, après avoir édité un ticket de caisse le tiroir ne s'ouvre pas
 
 Je suppose que votre tiroir-caisse est bien connecté à votre imprimante, et que votre imprimante contrôle l'ouverture du tiroir-caisse.  
-L'ouverture du tiroir fonctionne bien en utilisant l?utilitaire Epson fourni.  
+L'ouverture du tiroir fonctionne bien en utilisant l'utilitaire Epson fourni.  
 Normalement, pour que l'ouverture du tiroir caisse se fasse automatiquement à chaque impression de ticket, il faut activer l'option sur l'imprimante à l'aide encore d'un utilitaire fourni par Epson.  
 Ceci est indépendant du logiciel, et doit fonctionner également lors de toute impression à partir d'autres logiciels.  
 Le seul tiroir caisse qui peut actuellement être directement contrôlé par le logiciel est le tiroir caisse StarMicronics mPop, les autres tiroir-caisse ne pourront qu'être contrôlés que par une imprimante supportant le contrôle d'un tiroir-caisse et son ouverture automatique à chaque impression.  
@@ -259,7 +259,7 @@ Si vos problèmes persistent n'hésitez pas à nous recontacter en nous fournissant
 
 Heure de la caisse pas à la bonne heure
 
-Je suis actuellement en mode test et j?ai remarquer que l heure de la caisse n?est pas a la bonne heure est-ce normal ?
+Je suis actuellement en mode test et j'ai remarquer que l heure de la caisse n'est pas a la bonne heure est-ce normal ?
 
 Le logiciel utilise l'heure de votre appareil pour déterminer votre fuseau horaire.  
 Dans le logiciel, l'heure affichée en haut à droite correspond à l'heure configurée sur votre appareil.  
@@ -382,7 +382,7 @@ Vous devez créer autant de comptes utilisateurs que d'utilisateurs simultanés de
 
 ATTESTATION DE CONFORMITE
 
-Bonjour, une nouvelle circulaire de l?administration sur les obligations en matière de caisse enregistreuse au 1 janvier 2018 vient d'être envoyée à notre comptable notre caisse devra à cette date, être certifiée aux normes par le fournisseur ou le prestataire. Est-ce que cette caisse enregistreuse que vous proposez sera au norme demandée en 2018 et pourrez- vous nous fournir une attestation ou un justificatif par email ou directement en la téléchargeant sur notre compte.
+Bonjour, une nouvelle circulaire de l'administration sur les obligations en matière de caisse enregistreuse au 1 janvier 2018 vient d'être envoyée à notre comptable notre caisse devra à cette date, être certifiée aux normes par le fournisseur ou le prestataire. Est-ce que cette caisse enregistreuse que vous proposez sera au norme demandée en 2018 et pourrez- vous nous fournir une attestation ou un justificatif par email ou directement en la téléchargeant sur notre compte.
 
 Afin de répondre aux exigences 2018, l'attestation de conformité de notre caisse est déjà disponible dans votre page compte en étant connecté en administrateur de votre boutique.  
 Vous devez renseigner votre numéro de TVA et votre numéro de RC afin d'être en conformité.
@@ -426,7 +426,7 @@ Pour utiliser les chèques cadeaux, vous devez ajouter deux actions à votre panne
 
 Erreur fond de caisse
 
-Dans la liste de commande j'ai depuis un an une err de fond de caisse qui s'affiche suite à une mauvaise manip certainement.. Comment la supprimer. J'ai essayé en passant par historique /remboursement, rien a faire.Je ne trouve pas la solution. Merci de m'aider pour que cela n?apparaisse plus.
+Dans la liste de commande j'ai depuis un an une err de fond de caisse qui s'affiche suite à une mauvaise manip certainement.. Comment la supprimer. J'ai essayé en passant par historique /remboursement, rien a faire.Je ne trouve pas la solution. Merci de m'aider pour que cela n'apparaisse plus.
 
 Le seule possibilité pour corriger une erreur de fermeture de caisse mal enregistrée, est de créer manuellement une nouvelle commande, d'un montant opposé, en précisant bien une date de valeur datée du même jour (en double cliquant sur la date de valeur via l'historique des commandes triées par date de valeur, avant que la commande soit validée).  
 Lors de la fermeture de caisse, un ecran vous présente les montants que vous devriez retrouver logiquement en caisse.  
@@ -530,7 +530,7 @@ Vous devez renseigner votre numéro de TVA et votre numéro de RC afin d'être en c
 
 Longueur du ticket de caisse
 
-Est t'il possible d'imprimer un ticket de caisse après chaque vente ? sans devoir appuyer sur la touche imprimé. Et quand je clique sur imprimé ticket sa me sort (sur une imprimante ticket) un ticket de 30cm environ est t'il possible de l?adapter en fonction des achat de mon clients pour des raison d?économie de papier.
+Est t'il possible d'imprimer un ticket de caisse après chaque vente ? sans devoir appuyer sur la touche imprimé. Et quand je clique sur imprimé ticket sa me sort (sur une imprimante ticket) un ticket de 30cm environ est t'il possible de l'adapter en fonction des achat de mon clients pour des raison d'économie de papier.
 
 Malheureusement les navigateurs bloquent les impressions automatiques, cette fonctionnalité n'est à lors actuel pas possible avec un navigateur, mais seulement avec les applications Windows, iOs, Android ou Windows phone.  
 Concernant la longueur du ticket, il s'agit d'une option d'impression ou de mise en page (dans le navigateur : Options de mise en page ; dans la fenêtre d'impression : paramètres de marge).
@@ -582,7 +582,7 @@ Afin de répondre aux exigences 2018, l'attestation de conformité de notre caisse
 
 Importation dossier
 
-Pouvez vous contrôler importation fichier EXCEL csv ? Les accents ne s?affichent pas, un point d?interrogation s'affiche.
+Pouvez vous contrôler importation fichier EXCEL csv ? Les accents ne s'affichent pas, un point d'interrogation s'affiche.
 
 En page Config, Options régionales, vous avez activé l'option "Activer la police unicode pour la gestion des caractères spéciaux".  
 Cette option modifie le comportement du logiciel afin qu'il utilise le jeu de caractères étendu UTF8 permettant les caractères spéciaux commes les sinogrammes, ...  
@@ -613,7 +613,7 @@ Effacer l'historique de la caisse.
 Je ne parviens pas à effacer l'historique de la caisse. Je me rend dans l'onglet "config" puis "options générales" mais il n'y a pas le boutique de suppression de l'historique... J'ai bien lu la FAQ. Je viens de reprendre un restaurant et j'aimerai repartir à zéro pour la caisse.
 
 En effet, les nouvelles loi sur la finance européennes nous obligent à mettre en place un mode test et un mode production.  
-En mode test, il n'est pas possible d?émettre de factures, tandis qu'en mode production il n'est plus possible de remettre à zéro la caisse.  
+En mode test, il n'est pas possible d'émettre de factures, tandis qu'en mode production il n'est plus possible de remettre à zéro la caisse.  
 J'ai manuellement repassé votre compte en mode test afin que l'opération de remise à zéro soit de nouveau disponible, mais il faudra passer à nouveau en mode production pour pouvoir émettre de nouvelles factures.
 
 Etiquette code barre
@@ -697,7 +697,7 @@ Sinon, il vous faut brancher l'imprimante à un ordinateur, l'ajouter à un compte
 
 Etiquette produits
 
-Est t'il possible exporter dans word les étiquettes ou d'imprimer que sur certaine étiquette ou imprimer le nombre d?étiquette identique que on a en stock ?
+Est t'il possible exporter dans word les étiquettes ou d'imprimer que sur certaine étiquette ou imprimer le nombre d'étiquette identique que on a en stock ?
 
 Il n'est possible d'exporter dans word les étiquettes uniquement en effectuant un copier-coller de la page des étiquettes.  
 Il est ensuite possible de supprimer certaines étiquettes
@@ -743,7 +743,7 @@ Afficheur client
 Comment afficher le prix sur afficheur client ?
 
 Les afficheurs clients reconnus par notre logiciel sont ceux reconnus en tant qu'affichage secondaire dans votre système (bi-écran).  
-Il est nécessaire ensuite de configurer votre Bureau en mode "Extension d?écran", d'activer la fonction dans notre logiciel, puis de positionner le fenêtre secondaire sur votre écran secondaire.  
+Il est nécessaire ensuite de configurer votre Bureau en mode "Extension d'écran", d'activer la fonction dans notre logiciel, puis de positionner le fenêtre secondaire sur votre écran secondaire.  
 L'afficheur client Starmicronics est également supporté avec le tiroir caisse/imprimante ticket du même fabriquant, avec nos applications uniquement.
 
 Code Barre Unique

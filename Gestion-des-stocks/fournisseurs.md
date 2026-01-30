@@ -33,7 +33,7 @@ Identifiez les articles à réapprovisionner depuis :
 
 ? Cette page vous présente tous les articles triés par stock croissant, ainsi que leur fournisseur associé.
 
-?? En cliquant sur un fournisseur, ouvrez sa fiche et consultez l?onglet **Renouvellement de stock**.
+?? En cliquant sur un fournisseur, ouvrez sa fiche et consultez l'onglet **Renouvellement de stock**.
 
 Vous y verrez pour chaque article :
 
@@ -42,7 +42,7 @@ Vous y verrez pour chaque article :
 - Quantité vendue le mois précédent
 - ?? Seuil d'alerte de stock bas
 
-?? Saisissez les quantités à commander, les prix d?achat et le délai prévu avant livraison.
+?? Saisissez les quantités à commander, les prix d'achat et le délai prévu avant livraison.
 
 ## Suivi des commandes fournisseur
 
@@ -52,14 +52,14 @@ Une fois la commande enregistrée, plusieurs actions sont possibles :
 - Marquer la commande comme envoyée
 - Marquer la commande comme reçue pour intégrer les produits au stock
 
-? Consultez l?historique des commandes fournisseur pour suivre les produits en transit.
+? Consultez l'historique des commandes fournisseur pour suivre les produits en transit.
 
 ## Gestion des stocks avec ou sans fournisseur
 
-?? Si vous modifiez manuellement un stock, le prix d?achat par défaut du produit est utilisé.
+?? Si vous modifiez manuellement un stock, le prix d'achat par défaut du produit est utilisé.
 
-? Le stock est débité dans l?ordre suivant :
+? Le stock est débité dans l'ordre suivant :
 
-- ?? D?abord les articles non issus d?une commande fournisseur
+- ?? D'abord les articles non issus d'une commande fournisseur
 - ?? Puis les lots issus des commandes fournisseurs, par ordre chronologique de réception
 
