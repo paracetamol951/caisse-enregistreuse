@@ -2,11 +2,11 @@
 
 Cette page vous guide pour connecter et paramétrer le module Prestashop avec votre caisse enregistreuse.
 
-[Téléchargez le **module Prestashop caisse enregistreuse**.](/Caisse-Enregistreuse/Prestashop/Module/ns_caisseEnregistreusepro.zip)
+[Téléchargez le **module Prestashop caisse enregistreuse**.](Caisse-Enregistreuse/Prestashop/Module/ns_caisseEnregistreusepro.zip)
 
 ## 1. Installation du module
 
-1.  [Téléchargez le **module Prestashop caisse enregistreuse**.](/Caisse-Enregistreuse/Prestashop/Module/ns_caisseEnregistreusepro.zip)
+1.  [Téléchargez le **module Prestashop caisse enregistreuse**.](Caisse-Enregistreuse/Prestashop/Module/ns_caisseEnregistreusepro.zip)
 2.  Dans votre backoffice Prestashop, ouvrez **Module Manager**.
 3.  Cliquez sur **Installer un module**, puis sélectionnez le fichier du module téléchargé.
 4.  Une fois installé, cliquez sur **Configurer**.

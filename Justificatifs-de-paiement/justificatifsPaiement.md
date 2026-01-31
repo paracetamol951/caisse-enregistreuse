@@ -6,15 +6,15 @@ Le logiciel vous permet d'éditer différents justificatifs, et documents. Certain
 
 | ? Type                                             |
 |-----------------------------------------------------|
-| ? [Tickets de caisse](/printTicketCaisse.md)       |
-| ? [Factures PDF](/justificatifFacturesPDF.md)      |
-| ? [Duplicatas](/justificatifDuplicata.md)          |
-| ? [Devis](/justificatifDevis.md)                   |
-| ? [Note de frais](/justificatifNoteDeFrais.md)     |
-| ? [Bon de commande](/justificatifBonCommande.md)   |
-| ? [Bon de livraison](/justificatifBonLivraison.md) |
-| ?? [Ticket sans prix](/justificatifTkSansPrix.md)   |
+| [Tickets de caisse](printTicketCaisse.md)       |
+| [Factures PDF](justificatifFacturesPDF.md)      |
+| [Duplicatas](justificatifDuplicata.md)          |
+| [Devis](justificatifDevis.md)                   |
+| [Note de frais](justificatifNoteDeFrais.md)     |
+| [Bon de commande](justificatifBonCommande.md)   |
+| [Bon de livraison](justificatifBonLivraison.md) |
+|  [Ticket sans prix](justificatifTkSansPrix.md)   |
 
 Voir aussi :  
-[Configuration des imprimantes](/printConfig.md)
+[Configuration des imprimantes](../Configuration-du-materiel/printConfig.md)
 

@@ -14,5 +14,5 @@ Lorsque vous appliquez cette réduction, le total de la commande sera ajusté au p
 
 ? Vous pouvez continuer à ajouter des articles après application de la réduction à prix fixe. Ces articles seront facturés en supplément.
 
-Consultez également l'aide concernant la [Gestion des Menus](/menus.md)
+Consultez également l'aide concernant la [Gestion des Menus](../Configuration-du-catalogue/menus.md)
 

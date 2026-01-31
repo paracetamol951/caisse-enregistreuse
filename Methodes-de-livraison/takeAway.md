@@ -6,11 +6,11 @@ Le logiciel vous permet d'activer différentes méthodes de livraison selon vos be
 
 - Vente à emporter
 - Drive-Thru
-- [Consommation sur place](/eatin.md)
-- [Expédition](/expeditions.md)
-- [Livraison](/deliver.md)
+- [Consommation sur place](eatin.md)
+- [Expédition](expeditions.md)
+- [Livraison](deliver.md)
 - Au comptoir
-- [Point de dépôt / Relais](/relayDepot.md)
+- [Point de dépôt / Relais](relayDepot.md)
 
 ## Config
 

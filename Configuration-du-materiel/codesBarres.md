@@ -7,7 +7,7 @@
 
 ## Activer la fonctionnalité
 
-?? Naviguez dans **CONFIG \> OPTIONS GÉNÉRALES**, puis cochez l'option « Codes barres » dans le paragraphe **Matériel**.
+ Naviguez dans **CONFIG \> OPTIONS GÉNÉRALES**, puis cochez l'option « Codes barres » dans le paragraphe **Matériel**.
 
 ## Utilisation sous Android
 
@@ -53,5 +53,5 @@ Les codes-barres imprimés depuis le logiciel utilisent automatiquement ces préfi
 
   
   
-[Configuration des articles](/codesBarresConfig.md)
+[Configuration des articles](../Configuration-du-catalogue/codesBarresConfig.md)
 

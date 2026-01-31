@@ -31,5 +31,5 @@ Impossible d'exécuter JavaScript.
 
 Voir aussi :
 
-[Serveur MCP](/mcp.md)
+[Serveur MCP](mcp.md)
 

@@ -13,5 +13,5 @@ Le bouton ESC permet d'annuler l'opération en cours.
 
 Il n'est plus possible d'annuler une commande une fois que le paiement a commencé.
 
-?? Pour annuler une commande dont le paiement a débuté, vous devez effectuer un remboursement.
+ Pour annuler une commande dont le paiement a débuté, vous devez effectuer un remboursement.
 

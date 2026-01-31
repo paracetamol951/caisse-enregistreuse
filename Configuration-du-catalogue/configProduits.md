@@ -2,7 +2,7 @@
 
 ? Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
-?? Accédez à la page **Config** pour gérer vos articles.
+ Accédez à la page **Config** pour gérer vos articles.
 
 ## Ajouter un nouvel article
 

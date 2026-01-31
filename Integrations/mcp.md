@@ -27,10 +27,10 @@ Ce module est open source, et le code source est disponible sur GitHub :
 
 - ?Affiche moi les ventes d'aujourd'hui?
 - ?Enregistre moi une vente de 2 cafés en tabe 84?
-- ?Comment vont les affaires cette année ??
-- ?Pouvez-vous analyser mon historique des ventes de cette année et me faire des recommandations ??
+- ?Comment vont les affaires cette année 
+- ?Pouvez-vous analyser mon historique des ventes de cette année et me faire des recommandations 
 - ?Générez un rapport de caisse pour la semaine.?
-- ?Combien de commandes doivent être livrées ce soir ??
+- ?Combien de commandes doivent être livrées ce soir 
 
 ## Fonctionnalités du connecteur
 

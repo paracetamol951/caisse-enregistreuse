@@ -14,12 +14,12 @@ SHA512 périmètre fiscal :
 
 ## Documentation règlementaire
 
-- [Dossier d'architecture technique](/documentation/dossier_d'architecture_technique.pdf)
-- [Dossier de conception générale](/documentation/dossier_de_conception_générale.pdf)
-- [Dossier de maintenance](/documentation/dossier_de_maintenance.pdf)
-- [Dossier de spécifications fonctionnelles](/documentation/dossier_de_spécifications_fonctionnelles.pdf)
-- [Dossier d'exploitation](/documentation/dossier_d'exploitation.pdf)
-- [Dossier organisationnel](/documentation/dossier_organisationnel.pdf)
-- [Documentation complémentaire](/documentation/Documentation%20complémentaire.pdf)
-- [Documentation administration fiscale](/documentation/documentation-administration-fiscale.pdf)
+- [Dossier d'architecture technique](documentation/dossier_d'architecture_technique.pdf)
+- [Dossier de conception générale](documentation/dossier_de_conception_générale.pdf)
+- [Dossier de maintenance](documentation/dossier_de_maintenance.pdf)
+- [Dossier de spécifications fonctionnelles](documentation/dossier_de_spécifications_fonctionnelles.pdf)
+- [Dossier d'exploitation](documentation/dossier_d'exploitation.pdf)
+- [Dossier organisationnel](documentation/dossier_organisationnel.pdf)
+- [Documentation complémentaire](documentation/Documentation%20complémentaire.pdf)
+- [Documentation administration fiscale](documentation/documentation-administration-fiscale.pdf)
 

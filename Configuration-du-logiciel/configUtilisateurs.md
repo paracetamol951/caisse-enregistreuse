@@ -1,6 +1,6 @@
 # Configurer les utilisateurs
 
-?? Pour effectuer cette opération, vous devez disposer des droits administrateur.
+ Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
 ? Accédez à la page **Config \> Utilisateurs**
 
@@ -29,8 +29,8 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est enregistr
 ## Droits des utilisateurs
 
 - **? Administrateur :** Accès total à toutes les fonctionnalités du logiciel, y compris les données financières et la configuration.
-- **??? Manager :** Accès complet sauf à la configuration. Peut être le seul à pouvoir fermer la caisse ou effectuer des remboursements (selon réglage).
-- **??? Employé :** Peut enregistrer des ventes, fermer la caisse et rembourser selon la configuration choisie.
+- **? Manager :** Accès complet sauf à la configuration. Peut être le seul à pouvoir fermer la caisse ou effectuer des remboursements (selon réglage).
+- **? Employé :** Peut enregistrer des ventes, fermer la caisse et rembourser selon la configuration choisie.
 - **? Comptable :** Accès uniquement à l'historique des ventes et aux rapports comptables.
 - **? Préparateur :** Accès uniquement à la page de préparation des commandes.
 - **? Livreur :** Peut consulter les commandes à livrer uniquement.

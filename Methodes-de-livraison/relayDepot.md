@@ -25,5 +25,5 @@ Les différents points relais seront affichés sur une carte interactive pour faci
 
 Le point relais sélectionné par le client est automatiquement visible sur le ticket de caisse et dans les détails de la commande.
 
-?? Assurez-vous que les adresses des points relais soient précises pour une bonne géolocalisation.
+ Assurez-vous que les adresses des points relais soient précises pour une bonne géolocalisation.
 

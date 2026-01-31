@@ -7,5 +7,5 @@ Les factures PDF respectent aussi le format PDF/A, garantissant l'authenticité e
 Vous pouvez transmettre ces factures de plusieurs manières : en téléchargeant vous-même le PDF pour le transmettre par vos propres moyens, en l'imprimant, ou le logiciel peut se charger pour vous d'envoyer la facture par e-mail, par SMS, ou même par courrier postal.
 
 Voir aussi :  
-[Configuration des imprimantes](/printConfig.md) [Duplicatas de justificatifs](/justificatifDuplicata.md)
+[Configuration des imprimantes](../Configuration-du-materiel/printConfig.md) [Duplicatas de justificatifs](justificatifDuplicata.md)
 

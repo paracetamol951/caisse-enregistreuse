@@ -2,7 +2,7 @@
 
 ? Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
-?? Accédez à la page **Config** , puis au sous-menu **Rayons**.
+ Accédez à la page **Config** , puis au sous-menu **Rayons**.
 
 ## Ajouter un nouveau rayon
 

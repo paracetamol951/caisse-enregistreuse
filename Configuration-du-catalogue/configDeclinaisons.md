@@ -1,6 +1,6 @@
 # Configurer les déclinaisons d'articles
 
-?? Pour effectuer cette opération, vous devez disposer des droits administrateur.
+ Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
 ## Activation de la fonctionnalité
 

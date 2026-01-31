@@ -6,7 +6,7 @@ Cette fonctionnalité permet à plusieurs boutiques de partager les mêmes livreurs
 
 Pour activer cette fonctionnalité, rendez-vous en page **Config \> Options générales** et activez l'option « Livreurs externes » dans l'encart Livraisons.
 
-##?? Création de compte livreur
+## Création de compte livreur
 
 Les livreurs doivent se rendre sur le site <a href="https://www.deliv.shop" target="_blank">https://www.deliv.shop</a> pour créer un compte. Lors de l'inscription, ils précisent leur rayon d'action.
 

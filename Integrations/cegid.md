@@ -6,7 +6,7 @@ Le logiciel permet d'exporter vos ventes au format FEC, compatible avec Cegid Lo
 
 Une page d'aide dédiée vous guide pas à pas pour générer un fichier FEC depuis le logiciel. Une fois le fichier FEC exporté, vous pouvez l'utiliser pour l'import dans Cegid.
 
-? Voir : [Rapports de vente](/graphiques.md)
+? Voir : [Rapports de vente](../Tableau-de-bord/graphiques.md)
 
 ## 2.Importer le fichier dans Cegid Loop
 
@@ -28,7 +28,7 @@ Limites recommandées par Cegid Loop pour les imports automatiques :
 - Jusqu'à 1 million de mouvements
 - Fichier jusqu'à 133 Mo
 
-?? Les temps de traitement peuvent être longs pour les fichiers volumineux (plusieurs heures).
+ Les temps de traitement peuvent être longs pour les fichiers volumineux (plusieurs heures).
 
 ## Conseils pratiques
 

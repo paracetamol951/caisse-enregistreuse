@@ -2,7 +2,7 @@
 
 Le logiciel vous permet de gérer différents types de remboursements, selon que la commande soit encore en cours, partiellement ou totalement payée.
 
-?? Vous devez disposer des droits administrateur ou manager pour pouvoir effectuer un remboursement.
+ Vous devez disposer des droits administrateur ou manager pour pouvoir effectuer un remboursement.
 
 ## Remboursement simple
 

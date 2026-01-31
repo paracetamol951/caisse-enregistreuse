@@ -18,7 +18,7 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est enregistr
 
 ## Signification des différents champs
 
-- **?? Nom :** Nom du taux tel qu'affiché sur les tickets et sur le clavier.
+- ** Nom :** Nom du taux tel qu'affiché sur les tickets et sur le clavier.
 - **? Valeur :** Taux en pourcentage appliqué à la vente (ex. 5.5, 10, 20).
 
 ## TVA sur marge

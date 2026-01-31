@@ -190,7 +190,7 @@ Une fois l'imprimante installée sur le système, il suffit ensuite d'accéder à no
 
 2 caisses dans le meme établisement
 
-Je voudrais deux caisses enregistreuses dans le même établissement, comment faire ??
+Je voudrais deux caisses enregistreuses dans le même établissement, comment faire 
 
 Afin de connecter 2 caisses sur votre compte boutique, il vous suffit d'accéder à notre logiciel sur votre deuxième appareil et vous connecter avec votre compte habituel.  
 Ce nouvel appareil pourra être configuré comme une caisse différente, il faut d'abord ajouter une nouvelle caisse via la page Config, Caisses puis dans la page d'ouverture de Caisse, sélectionner cette caisse nouvellement crée.

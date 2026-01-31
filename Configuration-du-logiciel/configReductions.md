@@ -1,6 +1,6 @@
 # Suppléments / Réductions / Prix fixes
 
-?? Pour effectuer cette opération, vous devez disposer des droits administrateur.
+ Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
 ## Ajouter un nouveau supplément ou une nouvelle réduction
 
@@ -16,7 +16,7 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est automatiq
 
 ## Signification des différents champs
 
-- **?? Nom :** Nom affiché sur le ticket de caisse et sur le clavier.
+- ** Nom :** Nom affiché sur le ticket de caisse et sur le clavier.
 - **? Valeur :** Pourcentage appliqué. Positif pour un supplément, négatif pour une réduction.
 - **? Montant :** Montant fixe appliqué. Positif pour un supplément, négatif pour une réduction.
   Si un pourcentage est également configuré, celui-ci sera appliqué en premier, puis le montant fixe.

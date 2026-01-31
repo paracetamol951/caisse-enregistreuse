@@ -76,5 +76,5 @@ Lorsque l'installation est terminée, le fichier claude_desktop_config.json devra
       }
     }
 
-[Serveur MCP](/mcp.md)
+[Serveur MCP](mcp.md)
 

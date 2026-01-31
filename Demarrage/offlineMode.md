@@ -23,7 +23,7 @@ Dès qu'une connexion est disponible, le logiciel repasse automatiquement en mode
 - Créer des devis ou préparer des commandes
 - Consulter votre carnet de clients
 
-?? L'envoi des factures et l'enregistrement définitif des commandes ne sont possibles qu'une fois la connexion internet rétablie.
+ L'envoi des factures et l'enregistrement définitif des commandes ne sont possibles qu'une fois la connexion internet rétablie.
 
 ## Synchronisation après reconnexion
 

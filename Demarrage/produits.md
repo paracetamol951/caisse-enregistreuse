@@ -12,7 +12,7 @@ Cette section vous montre comment créer vos articles, gérer les stocks, recevoir
 
 ? Vous pouvez créer des articles sans gestion de stock si vous ne souhaitez pas suivre les quantités.
 
-? [En savoir plus sur la configuration des articles](/configProduits.md)
+? [En savoir plus sur la configuration des articles](../Configuration-du-catalogue/configProduits.md)
 
 ## Gérer les stocks
 
@@ -24,9 +24,9 @@ Depuis le menu Articles ou directement dans la fiche d'un article, vous pouvez :
 - Enregistrer une entrée ou une sortie de stock
 - Corriger une erreur d'inventaire
 
-? [En savoir plus sur la gestion du stock](/gestionStocks.md)
+? [En savoir plus sur la gestion du stock](../Gestion-des-stocks/gestionStocks.md)
 
-? [En savoir plus sur la gestion des achats fournisseurs](/fournisseurs.md)
+? [En savoir plus sur la gestion des achats fournisseurs](../Gestion-des-stocks/fournisseurs.md)
 
 ## Alerte de stock bas
 
@@ -44,5 +44,5 @@ Vous pouvez attribuer un code-barres à chaque article :
 
 ? La lecture des codes-barres fonctionne même avec la caméra d'un smartphone Android.
 
-? [En savoir plus sur la configuration des codes barres](/codesBarres.md)
+? [En savoir plus sur la configuration des codes barres](../Configuration-du-materiel/codesBarres.md)
 

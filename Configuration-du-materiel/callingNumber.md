@@ -9,7 +9,7 @@ Fonctionnalité compatible uniquement avec Windows et le modem US Robotics.
 - Ordinateur sous Windows
 - Modem US Robotics connecté à votre ligne téléphonique fixe
 - Connexion USB entre le modem et l'ordinateur
-- ?? Application « Caisse Enregistreuse » installée depuis le Windows Store
+-  Application « Caisse Enregistreuse » installée depuis le Windows Store
 
 ## Étapes de configuration
 

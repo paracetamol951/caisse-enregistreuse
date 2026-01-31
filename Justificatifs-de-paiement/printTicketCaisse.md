@@ -5,5 +5,5 @@ Cliquez sur le bouton 'Imprimer un ticket de caisse' depuis l'interface de la ca
 ? Chaque appareil peut utiliser une imprimante différente.
 
 Voir aussi :  
-[Configuration des imprimantes](/printConfig.md) [Duplicatas de justificatifs](/justificatifDuplicata.md)
+[Configuration des imprimantes](../Configuration-du-materiel/printConfig.md) [Duplicatas de justificatifs](justificatifDuplicata.md)
 

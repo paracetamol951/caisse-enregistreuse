@@ -29,7 +29,7 @@ Une fois l'option activée, configurez les zones en page : **Configuration \> Zon
 
 Les frais de livraison peuvent être configurés comme suppléments automatiques.
 
-? Voir l'aide : [Réduction/Suppléments/articles automatiques](/autoPLU.md)
+? Voir l'aide : [Réduction/Suppléments/articles automatiques](../Configuration-du-logiciel/autoPLU.md)
 
 Ils peuvent dépendre des zones configurées et s'appliquent automatiquement à la commande, aussi bien en caisse que sur la boutique en ligne.
 
@@ -38,6 +38,6 @@ Ils peuvent dépendre des zones configurées et s'appliquent automatiquement à la 
 Le logiciel permet également le partage de livreurs entre plusieurs boutiques grace à deliv.shop.
 
 Consultez notre page d'aide dédiée à l'intégration de Deliv.shop pour en savoir plus.  
-[Aide à l'integration deliv.shop](/delivshop.md)  
+[Aide à l'integration deliv.shop](../Integrations/delivshop.md)  
 [Plateforme de livraison communautaire deliv.shop](https://www.deliv.shop)
 

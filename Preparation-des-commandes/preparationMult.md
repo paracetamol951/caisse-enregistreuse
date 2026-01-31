@@ -15,5 +15,5 @@ Cela permet de répartir les tâches entre plusieurs espaces physiques selon le ty
 
 Chaque zone voit uniquement les articles qui lui sont affectés.
 
-?? Cette configuration se fait depuis la page de configuration des articles, où vous pouvez associer chaque article à un lieu de préparation.
+ Cette configuration se fait depuis la page de configuration des articles, où vous pouvez associer chaque article à un lieu de préparation.
 

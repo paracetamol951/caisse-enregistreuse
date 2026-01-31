@@ -44,5 +44,5 @@ L'article ajouté automatiquement :
 
 La réduction sélectionnée est appliquée après l'ajout éventuel de l'article et porte sur un sous-total.
 
-?? Les réductions automatiques ne peuvent pas être de type « Menu / Prix fixé ».
+ Les réductions automatiques ne peuvent pas être de type « Menu / Prix fixé ».
 

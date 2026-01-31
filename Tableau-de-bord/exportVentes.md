@@ -6,7 +6,7 @@ Ces exports sont aussi disponibles dans la page Rapports, et les mêmes possibili
 
 ? Il est de la responsabilité de l'établissement de télécharger les fichiers d'archives avec une périodicité annuelle, et de conserver ces fichiers pour une durée légale de 6 ans en plus de l'année fiscale en cours
 
-? Voir également: [Rapports de vente](/graphiques.md)
+? Voir également: [Rapports de vente](graphiques.md)
 
 ## Export de l'archive fiscale
 

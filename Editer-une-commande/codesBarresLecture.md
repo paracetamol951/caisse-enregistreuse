@@ -36,9 +36,9 @@ Si un code barre n'est pas détecté, vous pouvez le saisir manuellement.
 ## Si vous souhaitez effectuer des tests, vous pouvez imprimer ce code barre :
 
 Code barre de test  
-[<span class="image placeholder" original-image-src="/Cash-Register/Code-barre-Caisse-enregistreuse.jpg" original-image-title="">Code barre caisse enregistreuse</span>](/Cash-Register/Code-barre-Caisse-enregistreuse.jpg)
+[<span class="image placeholder" original-image-src="/Cash-Register/Code-barre-Caisse-enregistreuse.jpg" original-image-title="">Code barre caisse enregistreuse</span>](Cash-Register/Code-barre-Caisse-enregistreuse.jpg)
 
 ## Tests et outils
 
-- [Page de debug de Code barre](/BarCodeDebug.php)
+- [Page de debug de Code barre](BarCodeDebug.php)
 
