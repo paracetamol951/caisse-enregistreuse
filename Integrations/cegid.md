@@ -28,7 +28,7 @@ Limites recommandées par Cegid Loop pour les imports automatiques :
 - Jusqu'à 1 million de mouvements
 - Fichier jusqu'à 133 Mo
 
- Les temps de traitement peuvent être longs pour les fichiers volumineux (plusieurs heures).
+Les temps de traitement peuvent être longs pour les fichiers volumineux (plusieurs heures).
 
 ## Conseils pratiques
 

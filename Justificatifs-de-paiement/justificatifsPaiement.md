@@ -13,7 +13,7 @@ Le logiciel vous permet d'éditer différents justificatifs, et documents. Certain
 | [Note de frais](justificatifNoteDeFrais.md)     |
 | [Bon de commande](justificatifBonCommande.md)   |
 | [Bon de livraison](justificatifBonLivraison.md) |
-|  [Ticket sans prix](justificatifTkSansPrix.md)   |
+| [Ticket sans prix](justificatifTkSansPrix.md)   |
 
 Voir aussi :  
 [Configuration des imprimantes](../Configuration-du-materiel/printConfig.md)

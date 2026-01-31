@@ -1,6 +1,6 @@
 # Configuration des codes barres
 
- Afin d'effectuer cette configuration, vous devez vous rendre dans la page **CONFIG \> ARTICLES**.
+Afin d'effectuer cette configuration, vous devez vous rendre dans la page **CONFIG \> ARTICLES**.
 
 ## Ajouter un nouvel article à l'aide de son code barre
 

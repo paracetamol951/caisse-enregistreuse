@@ -1,6 +1,6 @@
 # Configurer les caisses
 
- Pour effectuer cette opération, vous devez disposer des droits administrateur.
+Pour effectuer cette opération, vous devez disposer des droits administrateur.
 
 ? Pour accéder à la page de configuration des caisses, naviguez vers **Configuration \> Caisses**.
 
@@ -18,7 +18,7 @@ Appuyez sur Entrée pour valider la modification. Chaque changement est automatiq
 
 ## Signification des différents champs
 
-- ** Nom :** Nom affiché sur les tickets de caisse.
+- **Nom :** Nom affiché sur les tickets de caisse.
 - **? Fonds :** Montant laissé en caisse pour la prochaine ouverture.
 - **? Changement état :** Date à laquelle la caisse a été fermée ou ouverte
 - **? État :** Indique si la caisse est ouverte ou fermée.  

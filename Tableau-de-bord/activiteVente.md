@@ -5,7 +5,7 @@ Pour consulter les activités de vente, naviguez dans le menu **Caisse**.
 Cette page présente l'historique des ventes de la journée.
 
 - Cliquez sur une ligne de l'historique pour afficher le ticket de caisse avec le détail des articles.
--  Double-cliquez sur une ligne pour charger la commande dans l'interface de vente principale et l'éditer.
+- Double-cliquez sur une ligne pour charger la commande dans l'interface de vente principale et l'éditer.
 
 Par défaut, l'historique affiche la journée courante. Vous pouvez aussi consulter les jours précédents à l'aide de la navigation par date située en entête du tableau.
 
@@ -25,5 +25,5 @@ Par défaut, l'historique affiche la journée courante. Vous pouvez aussi consulte
 
 ## Planification de commandes
 
- Une icône en forme de calendrier vous permet d'afficher les commandes dans un calendrier visuel afin de mieux organiser les commandes à venir.
+Une icône en forme de calendrier vous permet d'afficher les commandes dans un calendrier visuel afin de mieux organiser les commandes à venir.
 

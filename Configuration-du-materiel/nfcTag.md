@@ -19,7 +19,7 @@ Un même tag NFC peut être associé à un client ou à un utilisateur du logiciel.
 ## Conditions de fonctionnement
 
 - Appareil Android avec support NFC et application Caisse Enregistreuse à jour.
--  Lecteur de cartes Mifare vendu dans notre boutique, connecté à un PC Windows, avec le logiciel de gestion NFC fourni.
+- Lecteur de cartes Mifare vendu dans notre boutique, connecté à un PC Windows, avec le logiciel de gestion NFC fourni.
 
 Avant d'acheter un lecteur NFC, assurez-vous de la compatibilité avec votre système.
 

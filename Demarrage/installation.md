@@ -44,7 +44,7 @@ Au premier lancement, vous devez créer un compte :
 
 ? Votre commerce est enregistré sur le cloud et lié à votre compte. Vous pouvez vous reconnecter sur n'importe quel appareil.
 
- **Le mode test est activé par défaut**. Il vous permet de tester la configuration sans enregistrer de ventes réelles.
+**Le mode test est activé par défaut**. Il vous permet de tester la configuration sans enregistrer de ventes réelles.
 
 ## 6. Présentation de l'interface de vente
 
@@ -64,6 +64,6 @@ Vous pouvez tester l'application sans risque grâce au mode test. Une fois votre 
 
 - [Télécharger l'application Android](https://play.google.com/store/apps/details?id=com.caisse.enregistreuse2)
 - [Télécharger l'application iOS](https://apps.apple.com/fr/app/cash-register-pos/id1259175837)
--  [Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9nblgggztq9k?hl=fr-FR&gl=FR)
+- [Télécharger depuis le Microsoft Store](https://apps.microsoft.com/detail/9nblgggztq9k?hl=fr-FR&gl=FR)
 - [Accéder à la version navigateur](https://caisse.enregistreuse.fr)
 

@@ -1,0 +1,7 @@
+- [Credit and debt management](debtAndCredit.md)
+- [Voucher gift management](voucherGift.md)
+- [Bons de réduction](bonsReduction.md)
+- [Cartes de fidélité](loyalty.md)
+- [Loyalty points](loyaltyPoints.md)
+- [Parrainage client](loyaltyReferer.md)
+- [Marketing features](marketing.md)

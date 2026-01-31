@@ -2,7 +2,7 @@
 
 ? Pour accéder à la page de configuration des actions, naviguez vers **Configuration \> Actions**.
 
- Cette page permet de configurer les différents boutons d'action affichés dans l'interface de vente.
+Cette page permet de configurer les différents boutons d'action affichés dans l'interface de vente.
 
 L'ajout de certains boutons d'action permet d'activer des fonctionnalités spécifiques, comme l'édition de bons de commande ou de bons de livraison.
 
@@ -20,7 +20,7 @@ Appuyez sur Entrée pour valider. Les modifications sont automatiquement enregist
 
 ## Signification des différents champs
 
-- ** Nom :** Nom affiché sur le ticket de caisse et sur le clavier.
+- **Nom :** Nom affiché sur le ticket de caisse et sur le clavier.
 - **? Position :** Position du bouton dans le clavier. Peut être modifiée par glisser-déposer.
 - **? Type :** Type d'action ou de mode de paiement (influence le comportement du bouton).
 - **? Montant :** Montant par défaut associé à l'action. Peut être multiplié par une quantité saisie.
@@ -34,7 +34,7 @@ Le type détermine le comportement du bouton. En voici quelques exemples :
 
 - Espèces, CB, Chèque, Remboursements
 - Ticket restaurant, Avoir, Points de fidélité
--  Impression ticket : imprime le ticket de caisse
+- Impression ticket : imprime le ticket de caisse
 - Sous-total : effectue un total partiel de la commande
 - Date de valeur : planifie la commande à une date future
 - Nouvelle commande : met la commande actuelle en attente et en commence une nouvelle

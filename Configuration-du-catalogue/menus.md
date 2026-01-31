@@ -1,6 +1,6 @@
 # Gestion des menus
 
- La gestion des menus permet d'assigner un prix fixe à un ensemble d'articles provenant de rayons spécifiques. La fonctionnalité peut être activée en page Configuration, Options générales, paragraphe "Catalogue d'articles".
+La gestion des menus permet d'assigner un prix fixe à un ensemble d'articles provenant de rayons spécifiques. La fonctionnalité peut être activée en page Configuration, Options générales, paragraphe "Catalogue d'articles".
 
 ## Principe de fonctionnement
 

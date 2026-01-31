@@ -1,0 +1,5 @@
+- [Méthodes de livraison](takeAway.md)
+- [Gestion des livraisons](deliver.md)
+- [Eatin features/Table management](eatin.md)
+- [Relay point management](relayDepot.md)
+- [Gestion des expéditions](expeditions.md)

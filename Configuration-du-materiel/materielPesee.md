@@ -1,6 +1,6 @@
 # Matériel de pesée
 
- Si vous vendez des articles nécessitant une pesée, vous pouvez connecter une balance compatible à notre logiciel.
+Si vous vendez des articles nécessitant une pesée, vous pouvez connecter une balance compatible à notre logiciel.
 
 ? Les balances compatibles sont disponibles à l'achat depuis la page **Boutique**.
 

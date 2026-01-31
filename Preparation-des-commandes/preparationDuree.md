@@ -12,7 +12,7 @@ Une fois activée, vous pouvez saisir un temps de préparation (en secondes) pour 
 
 Cela permet au système de calculer la durée totale nécessaire pour chaque commande.
 
- Les durées doivent être saisies en secondes.
+Les durées doivent être saisies en secondes.
 
 ## Affichage d'une frise chronologique
 

@@ -40,7 +40,7 @@ Si la période choisie dépasse une journée, le rapport est automatiquement enregi
 
 ? Pour forcer la mise à jour d'un rapport enregistré, ouvrez l'onglet « Historique » des rapports, puis supprimez celui à réactualiser. Un nouveau fichier sera généré.
 
- Pour des raisons de performance serveur, les rapports ne sont recalculés qu'après un certain intervalle. Consultez la date d'édition du rapport pour connaître sa dernière mise à jour.
+Pour des raisons de performance serveur, les rapports ne sont recalculés qu'après un certain intervalle. Consultez la date d'édition du rapport pour connaître sa dernière mise à jour.
 
 ## Tableaux disponibles dans les rapports HTML et PDF
 

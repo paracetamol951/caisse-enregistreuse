@@ -22,7 +22,7 @@ Saisissez dans ce formulaire :
 - **L'adresse de votre site WooCommerce**, en incluant le préfixe `https://`.
 - La **clé utilisateur** et le **code secret** générés à l'étape précédente.
 
- Les connexions non sécurisées (http) ne sont pas acceptées.
+Les connexions non sécurisées (http) ne sont pas acceptées.
 
 ## 3. Synchronisation des articles et des clients
 

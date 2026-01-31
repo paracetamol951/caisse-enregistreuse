@@ -1,0 +1,5 @@
+- [Vente libre](venteArticleNonEnregistre.md)
+- [Vente article enregistré](venteSimple.md)
+- [Rendu de monnaie](venteAvecRenduMonnaie.md)
+- [Paiement partiel](venteAvecPaiementPartiel.md)
+- [Remboursements](remboursement.md)

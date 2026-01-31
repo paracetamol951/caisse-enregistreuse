@@ -36,7 +36,7 @@ Le chapitre comptable des données de ventes est la concaténation do code activit
 - **Groupe de client** : code comptable qui viendra préfixer le chapitre comptable du client
 - **411** : ce code comptable viendra préfixer le chapitre comptable du client, en plus du code comptable du groupe de clients
 
-?  Si les groupes de rayons ne sont pas activés, le chapitre comptable par défaut de la boutique sera utilisé.
+? Si les groupes de rayons ne sont pas activés, le chapitre comptable par défaut de la boutique sera utilisé.
 
 ## Export comptable CSV
 
