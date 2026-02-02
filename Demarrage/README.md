@@ -1,3 +1,4 @@
+Démarrage
 - [Introduction](intro.md)
 - [Installation](installation.md)
 - [Produits et stock](produits.md)

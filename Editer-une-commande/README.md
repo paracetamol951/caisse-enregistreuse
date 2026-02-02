@@ -1,3 +1,4 @@
+Editer une commande
 - [Basic operation reminder](general.md)
 - [Annuler un article ou une vente](venteAnnuler.md)
 - [Ajouter une note à un article](noteArticle.md)

@@ -1,3 +1,4 @@
+Configuration du logiciel
 - [Options de configuration](.md)
 - [Configuration générale](configBoutique.md)
 - [Gestion des clients](clients.md)

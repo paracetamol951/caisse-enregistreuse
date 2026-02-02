@@ -1,3 +1,4 @@
+Intégrations
 - [Boutique en ligne / Panier d'achat](webshop.md)
 - [Pennylane](pennylane.md)
 - [Serveur MCP](mcp.md)

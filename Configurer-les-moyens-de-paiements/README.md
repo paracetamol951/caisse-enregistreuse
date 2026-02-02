@@ -1,3 +1,4 @@
+Setup payments
 - [Méthodes de collecte des paiements](.md)
 - [Configurer les moyens de paiement](configCBPayment.md)
 - [Par carte sans TPE avec Viva Wallet](configVivaPayment.md)

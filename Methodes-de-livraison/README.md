@@ -1,3 +1,4 @@
+Méthodes de livraison
 - [Méthodes de livraison](takeAway.md)
 - [Gestion des livraisons](deliver.md)
 - [Eatin features/Table management](eatin.md)

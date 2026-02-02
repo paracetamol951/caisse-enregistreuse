@@ -12,7 +12,7 @@
 - [Mode hors ligne](/Demarrage/offlineMode.md)
 - [Ressources](/Demarrage/standAlone.md)
 
-[Editer une commande](Editer une commande)
+[Editer une commande](Editer-une-commande)
 - [Memo des opérations courantes](/Editer-une-commande/general.md)
 - [Annuler un article ou une commande](/Editer-une-commande/venteAnnuler.md)
 - [Ajouter une note à un article](/Editer-une-commande/noteArticle.md)
@@ -24,14 +24,14 @@
 - [Editer une note de frais](/Editer-une-commande/noteFrais.md)
 - [Raccourcis clavier (sur ordinateur)](/Editer-une-commande/configShortcuts.md)
 
-[Collecter les paiements](Collecter les paiements)
+[Collecter les paiements](Collecter-les-paiements)
 - [Vente libre](/Collecter-les-paiements/venteArticleNonEnregistre.md)
 - [Vente article enregistré](/Collecter-les-paiements/venteSimple.md)
 - [Rendu de monnaie](/Collecter-les-paiements/venteAvecRenduMonnaie.md)
 - [Paiement partiel](/Collecter-les-paiements/venteAvecPaiementPartiel.md)
 - [Remboursements](/Collecter-les-paiements/remboursement.md)
 
-[Justificatifs de paiement](Justificatifs de paiement)
+[Justificatifs de paiement](Justificatifs-de-paiement)
 - [Justificatifs de paiement](/Justificatifs-de-paiement/justificatifsPaiement.md)
 - [Tickets de caisse](/Justificatifs-de-paiement/printTicketCaisse.md)
 - [Factures PDF](/Justificatifs-de-paiement/justificatifFacturesPDF.md)
@@ -42,19 +42,19 @@
 - [Bon de livraison](/Justificatifs-de-paiement/justificatifBonLivraison.md)
 - [Ticket sans prix](/Justificatifs-de-paiement/justificatifTkSansPrix.md)
 
-[Tableau de bord](Tableau de bord)
+[Tableau de bord](Tableau-de-bord)
 - [Rapports de vente](/Tableau-de-bord/graphiques.md)
 - [Export des ventes](/Tableau-de-bord/exportVentes.md)
 - [Modèles de rapports](/Tableau-de-bord/modelesRapports.md)
 - [Ouvrir/Fermer la caisse](/Tableau-de-bord/ouvrirCaisse.md)
 - [Historique de vente](/Tableau-de-bord/activiteVente.md)
 
-[Gestion des stocks](Gestion des stocks)
+[Gestion des stocks](Gestion-des-stocks)
 - [Configuration des stocks](/Gestion-des-stocks/gestionStocks.md)
 - [Assistance à l\'inventaire](/Gestion-des-stocks/inventaire.md)
 - [Achats de stock et fournisseurs](/Gestion-des-stocks/fournisseurs.md)
 
-[Configuration du logiciel](Configuration du logiciel)
+[Configuration du logiciel](Configuration-du-logiciel)
 - [Configuration générale](/Configuration-du-logiciel/configBoutique.md)
 - [Gestion des clients](/Configuration-du-logiciel/clients.md)
 - [Configurer les utilisateurs](/Configuration-du-logiciel/configUtilisateurs.md)
@@ -66,7 +66,7 @@
 - [Personnalisation du ticket de caisse](/Configuration-du-logiciel/configTicket.md)
 - [Réduction/Suppléments/articles automatiques](/Configuration-du-logiciel/autoPLU.md)
 
-[Configuration du matériel](Configuration du matriel)
+[Configuration du matériel](Configuration-du-matriel)
 - [Equipement de pesée](/Configuration-du-materiel/materielPesee.md)
 - [Ecran secondaire](/Configuration-du-materiel/ecranSecondaire.md)
 - [Configuration des imprimantes](/Configuration-du-materiel/printConfig.md)
@@ -74,7 +74,7 @@
 - [Gestion du numéro de l\'appelant](/Configuration-du-materiel/callingNumber.md)
 - [Connexion des lecteurs codes barres](/Configuration-du-materiel/codesBarres.md)
 
-[Configuration du catalogue](Configuration du catalogue)
+[Configuration du catalogue](Configuration-du-catalogue)
 - [Configurer les articles](/Configuration-du-catalogue/configProduits.md)
 - [Configurer les rayons](/Configuration-du-catalogue/configRayons.md)
 - [Groupes de rayons](/Configuration-du-catalogue/deptGroups.md)
@@ -88,7 +88,7 @@
 - [Gestion des poids](/Configuration-du-catalogue/poids.md)
 - [Impression d\'étiquettes](/Configuration-du-catalogue/etiquettes.md)
 
-[Configurer les moyens de paiement](Configurer les moyens de paiement)
+[Configurer les moyens de paiement](Configurer-les-moyens-de-paiement)
 - [Configurer les moyens de paiement](/Configurer-les-moyens-de-paiements/configCBPayment.md)
 - [Par carte sans TPE avec Viva Wallet](/Configurer-les-moyens-de-paiements/configVivaPayment.md)
 - [Par carte avec les TPE Yavin](/Configurer-les-moyens-de-paiements/configYavinPayment.md)
@@ -98,14 +98,14 @@
 - [Avec Lydia](/Configurer-les-moyens-de-paiements/configLydiaPayment.md)
 - [Avec Paypal](/Configurer-les-moyens-de-paiements/configPaypalPayment.md)
 
-[Méthodes de livraison](Mthodes de livraison)
+[Méthodes de livraison](Mthodes-de-livraison)
 - [Méthodes de livraison](/Methodes-de-livraison/takeAway.md)
 - [Gestion des livraisons](/Methodes-de-livraison/deliver.md)
 - [Gestion des tables pour la consommation sur place](/Methodes-de-livraison/eatin.md)
 - [Gestion des points relais](/Methodes-de-livraison/relayDepot.md)
 - [Gestion des expéditions](/Methodes-de-livraison/expeditions.md)
 
-[Fidélisation client](Fidlisation client)
+[Fidélisation client](Fidlisation-client)
 - [Gestion des créances et avoirs](/Fidelisation-client/debtAndCredit.md)
 - [Gestion des chèques cadeau](/Fidelisation-client/voucherGift.md)
 - [Bons de réduction](/Fidelisation-client/bonsReduction.md)
@@ -114,7 +114,7 @@
 - [Parrainage client](/Fidelisation-client/loyaltyReferer.md)
 - [Fonctionnalités marketing](/Fidelisation-client/marketing.md)
 
-[Préparation des commandes](Prparation des commandes)
+[Préparation des commandes](Prparation-des-commandes)
 - [Preparation de commande](/Preparation-des-commandes/preparation.md)
 - [Lieux de préparation multiples](/Preparation-des-commandes/preparationMult.md)
 - [Durées de préparation](/Preparation-des-commandes/preparationDuree.md)
@@ -135,7 +135,7 @@
 - [Chapitres comptables](/Integrations/configChapitresCpt.md)
 - [Deliv.shop](/Integrations/delivshop.md)
 
-[API / Webservices](API  Webservices)
+[API / Webservices](API--Webservices)
 - [Authentification](/API--Webservices/api_auth.md)
 - [Télécharger vos rapports](/API--Webservices/api_reports.md)
 - [Télécharger vos ventes](/API--Webservices/api_sales.md)
@@ -144,7 +144,7 @@
 - [Remarques](/API--Webservices/api_tip.md)
 - [Webhook](/API--Webservices/api_webhook.md)
 
-[Informations légales](Informations lgales)
+[Informations légales](Informations-lgales)
 - [Inalterabilite des données](/Informations-legales/inalterabilite.md)
 - [Règles de confidentialité](/Informations-legales/privacyPolicy.md)
 - [Conditions d\'utilisation](/Informations-legales/TermsOfUse.md)

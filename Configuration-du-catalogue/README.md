@@ -1,3 +1,4 @@
+Configuration du catalogue
 - [Configurer les articles](configProduits.md)
 - [Configurer les rayons](configRayons.md)
 - [Departments groups](deptGroups.md)

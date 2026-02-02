@@ -1,3 +1,4 @@
+Configuration du matériel
 - [Scale devices](materielPesee.md)
 - [Ecran secondaire](ecranSecondaire.md)
 - [Configuration des imprimantes](printConfig.md)
