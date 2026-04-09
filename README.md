@@ -1,4 +1,29 @@
 
+[Meilleur logiciel de caisse](Meilleur-logiciel-de-caisse)
+- [Le meilleur logiciel de caisse](/best-pos-software.md)
+- [Logiciel de caisse simple](/simple-pos-software.md)
+- [Logiciel de caisse gratuit](/free-pos-software.md)
+- [Logiciel Android multi-plateformes](/caisse-android.md)
+- [Logiciel de caisse complet](/logiciel-de-caisse-complet.md)
+
+[Les moins chers](Les-moins-chers)
+- [Caisse enregistreuse pas cher](/caisse-pas-cher.md)
+- [Logiciel de caisse snack](/caisse-snack.md)
+- [Logiciel de caisse commerce de proximité](/caisse-commerces-proximite.md)
+
+[Flexibilité](Flexibilit)
+- [Logiciel de caisse restauration](/caisse-restaurants.md)
+- [Logiciel de caisse boulangerie](/caisse-boulangerie.md)
+- [Logiciel de caisse fleuriste](/caisse-fleuriste.md)
+- [Logiciel de caisse magasin](/caisse-magasin.md)
+
+[La solution ultime](La-solution-ultime)
+- [Logiciel de caisse sans abonnement](/no-required-subscription.md)
+- [Logiciel POS tactil](/pos-tactile.md)
+- [Caisse tactile](/caisse-tactile.md)
+- [Alternative à Hiboutik](/Hiboutik-alternative.md)
+- [Alternative à Lightspeed](/lightspeed-alternative.md)
+
 [Démarrage](Dmarrage)
 - [Introduction](/Demarrage/intro.md)
 - [Installation](/Demarrage/installation.md)
@@ -94,7 +119,7 @@
 - [Par carte avec les TPE Yavin](/Configurer-les-moyens-de-paiements/configYavinPayment.md)
 - [Par carte avec les TPE SumUp](/Configurer-les-moyens-de-paiements/configSumUpPayment.md)
 - [Par prélèvement avec GoCardless](/Configurer-les-moyens-de-paiements/configGoCardlessPayment.md)
-- [En Crypto-monnaie avec Solana](/Configurer-les-moyens-de-paiements/SolanaPayment.md)
+- [Par carte ou Crypto-monnaie avec P-Link](/Configurer-les-moyens-de-paiements/SolanaPayment.md)
 - [Avec Lydia](/Configurer-les-moyens-de-paiements/configLydiaPayment.md)
 - [Avec Paypal](/Configurer-les-moyens-de-paiements/configPaypalPayment.md)
 
@@ -137,10 +162,21 @@
 
 [API / Webservices](API--Webservices)
 - [Authentification](/API--Webservices/api_auth.md)
+- [Création de comptes](/API--Webservices/api_create_account.md)
+- [Options du compte boutique](/API--Webservices/api_editShopAccount.md)
+- [Liste des comptes](/API--Webservices/api_list_account.md)
 - [Télécharger vos rapports](/API--Webservices/api_reports.md)
 - [Télécharger vos ventes](/API--Webservices/api_sales.md)
 - [Télécharger les données](/API--Webservices/api_data.md)
-- [Enregistrer des ventes](/API--Webservices/api_record_sale.md)
+- [Enregistrer des commandes](/API--Webservices/api_record_sale.md)
+- [Modifier des commandes](/API--Webservices/api_edit_sale.md)
+- [Gestion des taux de TVAs](/API--Webservices/api_edit_vats.md)
+- [Gestion des articles](/API--Webservices/api_edit_plus.md)
+- [Gestion des rayons](/API--Webservices/api_edit_depts.md)
+- [Gestion des groupes rayons](/API--Webservices/api_edit_deptsGrps.md)
+- [Gestion des clients](/API--Webservices/api_edit_clients.md)
+- [Gestion des déclinaisons](/API--Webservices/api_edit_declinaisons.md)
+- [Gestion des choix de déclinaisons](/API--Webservices/api_edit_declinaisons_choice.md)
 - [Remarques](/API--Webservices/api_tip.md)
 - [Webhook](/API--Webservices/api_webhook.md)
 
